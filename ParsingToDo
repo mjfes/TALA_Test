@@ -1,0 +1,24 @@
+3 File Formats to consider
+
+Graph DB supported formats: 
+Turtle, a compact, human-friendly format.
+N-Triples, a very simple, easy-to-parse, line-based format that is not as compact as Turtle.
+N-Quads, a superset of N-Triples, for serializing multiple RDF graphs.
+JSON-LD, a JSON-based serialization.
+N3 or Notation3, a non-standard serialization that is very similar to Turtle, but has some additional features, such as the ability to define inference rules.
+RDF/XML, an XML-based syntax that was the first standard format for serializing RDF.
+RDF/JSON, an alternative syntax for expressing RDF triples using a simple JSON notation.
+
+FID Formats: 
+
+XML/RDF 
+MODS 
+MARC
+
+
+Current Issues: 
+
+for XML/RDF: Validation fails?
+for MODS : find conversion method (see:issues)
+for MARC : find conversion method 
+
