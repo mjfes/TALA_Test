@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:Bag xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:edm="http://www.europeana.eu/schemas/edm/"
+         xmlns:ore="http://www.openarchives.org/ore/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:bibo="http://purl.org/ontology/bibo/"
+         xmlns:bf="http://id.loc.gov/ontologies/bibframe/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdau="http://rdaregistry.info/Elements/u/"
+         xmlns:eclap="http://www.eclap.eu/schema/eclap/">
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-47301">
+         <dc:identifier>DE-611-BF-47301</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Nachlass Anna Helms-Blasche (Titel)</dc:title>
+         <dc:description>Lebensdokumente, Briefwechsel, Werkmanuskripte</dc:description>
+         <bf:shelfMark>NL 359</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-47301">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-47301"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-47301"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-47301">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-47373">
+         <dc:identifier>DE-611-BF-47373</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Nachlass Anna Helms-Blasche, Briefwechsel (Titel)</dc:title>
+         <bf:shelfMark>3</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-47373">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-47373"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-47373"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-47373">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2886665">
+         <dc:identifier>DE-611-HS-2886665</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Briefwechsel</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <rdau:P60434>Schutzverband Deutscher Autoren e.V. Nordwest (Hamburg)</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1002384-7"/>
+         <dc:title>Verbandskorrespondenz (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Beitragszahlungen. Kündigung Verbandsmitgliedschaft. GEMA</dc:description>
+         <dcterms:created rdf:resource="1952-01-01T00:00:00Z_1954-12-31T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <rdau:P60163>Altenberg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/3/5</bf:shelfMark>
+         <dcterms:extent>6 Bl. (6 masch. S.) + 1 Einlieferungsschein</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2886665">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2886665"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2886665"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2886665">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2886704">
+         <dc:identifier>DE-611-HS-2886704</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Briefwechsel</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <rdau:P60434>Friedrich-Hofmeister-Musikverlag (Frankfurt)</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2070980-8"/>
+         <dc:contributor>Dieckelmann, Heinrich</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1073473880"/>
+         <dc:title>Verlagskorrespondenz 1956 - 1962 (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Abrechnungen. Korrespondenz zu Werken, Korrekturen usw.; Tod Verleger Carl Wilhelm Günther</dc:description>
+         <dcterms:created rdf:resource="1956-01-01T00:00:00Z_1962-12-31T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <rdau:P60163>Frankfurt am Main</rdau:P60163>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/3/4</bf:shelfMark>
+         <dcterms:extent>181 Bl. (ca. 170 masch. S., ca. 7 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2886704">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2886704"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2886704"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2886704">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2887936">
+         <dc:identifier>DE-611-HS-2887936</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Briefwechsel</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1073473880"/>
+         <rdau:P60434>Friedrich-Hofmeister-Musikverlag (Frankfurt)</rdau:P60434>
+         <rdau:P60434>VEB Friedrich-Hofmeister-Musikverlag (Leipzig)</rdau:P60434>
+         <dc:contributor>Dieckelmann, Heinrich</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1016858-8"/>
+         <dc:title>Verlagskorrespondenz 1953 - 1955 (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Abrechungen; Korrespondenz über Werke, Korrekturen, Gebühren, Aufführungen usw.; Zahlungsbeleg; Lieferungsbelege</dc:description>
+         <dcterms:created rdf:resource="1953-01-01T00:00:00Z_1955-12-31T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <rdau:P60163>Frankfurt am Main</rdau:P60163>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/3/3</bf:shelfMark>
+         <dcterms:extent>189 Bl. (ca. 170 masch. S., 17 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2887936">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2887936"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2887936"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2887936">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2887994">
+         <dc:identifier>DE-611-HS-2887994</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Briefwechsel</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1073473880"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_14224287X"/>
+         <rdau:P60434>Dieckelmann, Heinrich</rdau:P60434>
+         <rdau:P60434>Friedrich-Hofmeister-Musikverlag (Frankfurt)</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2070980-8"/>
+         <dc:contributor>Ilmbrecht, Otto</dc:contributor>
+         <dc:title>Verlagskorrespondenz 1951 - 1952 (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Abrechungen; Korrespondenz über Werke, Korrekturen, Gebühren, Aufführungen usw.; Zahlungsbeleg; Lieferungsbelege</dc:description>
+         <dcterms:created rdf:resource="1951-01-01T00:00:00Z_1952-12-31T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <rdau:P60163>Frankfurt am Main</rdau:P60163>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/3/2</bf:shelfMark>
+         <dcterms:extent>205 Bl. (ca. 180 masch. S., ca. 25 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2887994">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2887994"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2887994"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2887994">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2888023">
+         <dc:identifier>DE-611-HS-2888023</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Briefwechsel</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1073473880"/>
+         <rdau:P60434>Ilmbrecht, Otto</rdau:P60434>
+         <rdau:P60434>Dieckelmann, Heinrich</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2070980-8"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2025540-8"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1064287204"/>
+         <dc:title>Verlagskorrespondenz 1944 - 1950 (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Abrechungen; Korrespondenz über Werke, Korrekturen, Gebühren, Rechteklärungen usw.; Zahlungsbeleg; Lieferungsbelege</dc:description>
+         <dcterms:created rdf:resource="1944-01-01T00:00:00Z_1950-12-31T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <rdau:P60163>Frankfurt a.M.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/3/1</bf:shelfMark>
+         <dcterms:extent>100 Bl. (ca. 90 masch. S., ca. 10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2888023">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2888023"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2888023"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2888023">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-47302">
+         <dc:identifier>DE-611-BF-47302</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Nachlass Anna Helms-Blasche, Lebensdokumente (Titel)</dc:title>
+         <bf:shelfMark>1</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-47302">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-47302"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-47302"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-47302">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2885601">
+         <dc:identifier>DE-611-HS-2885601</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Lebensdokumente</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027065-3"/>
+         <dc:title>Fotografie Anna Helms-Blasche (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Anna Helms-Blasche und Erich Janietz in Rudolstadt '55</dc:description>
+         <dcterms:created rdf:resource="1955-01-01T00:00:00Z_1955-12-31T23:59:59Z"/>
+         <rdau:P60163>Rudolstadt</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/1/1</bf:shelfMark>
+         <dcterms:extent>1 schwarz-weiß-Foto</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2885601">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2885601"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2885601"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2885601">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2885705">
+         <dc:identifier>DE-611-HS-2885705</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Lebensdokumente</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Lebensdokumente Anna Helms (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Lebenslauf (Verf.: Hanno Helms) (9 Bl.); Werkverzeichnis (6 Bl.); Bibliographie (2 Bl.); Titel-Werkverzeichnis (10 Bl.); Kopien von Fotografien (23 Bl.); Kopie des Notausweises von 1943</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/1/2</bf:shelfMark>
+         <dcterms:extent>51 Bl. (51 gedr. S.) + 3 Disketten</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2885705">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2885705"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2885705"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2885705">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-47376">
+         <dc:identifier>DE-611-BF-47376</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Nachlass Anna Helms-Blasche, Publikationen (Titel)</dc:title>
+         <bf:shelfMark>5</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-47376">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-47376"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-47376"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-47376">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2888101">
+         <dc:identifier>DE-611-HS-2888101</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Publikationen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_127996389"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Sammlung von Publikationen (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Die Tanzkette; Bunte Tänze; Dornröschen, Geestländer Blatt (6, 14)</dc:description>
+         <rdau:P60163>Frankfurt a. M.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/5</bf:shelfMark>
+         <dcterms:extent>29 Publikationen</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2888101">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2888101"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2888101"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2888101">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-47374">
+         <dc:identifier>DE-611-BF-47374</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Nachlass Anna Helms-Blasche, Sammlungen (Titel)</dc:title>
+         <bf:shelfMark>4</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-47374">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-47374"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-47374"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-47374">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2886577">
+         <dc:identifier>DE-611-HS-2886577</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Sammlungen</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>1000 Jahre Lüneburg (Incipit der Unterlage)</dc:title>
+         <dc:description>Fotos vom Tanzfest anlässlich 1000 Jahre Lüneburg. u.a. Gruppenbilder von Tänzern, Fotos mit Anna Helms</dc:description>
+         <dcterms:created rdf:resource="1956-08-04T00:00:00Z_1956-08-05T23:59:59Z"/>
+         <rdau:P60163>Lüneburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/4/1</bf:shelfMark>
+         <dcterms:extent>1 Fotoalbum mit 13 schwarz-weiß-Fotos</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2886577">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2886577"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2886577"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2886577">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2886585">
+         <dc:identifier>DE-611-HS-2886585</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Sammlungen</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Sammlung: Leben für den Volkstanz (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>zahlr. Zeitungsauschnitte u.a. 80. Geburtstag von Anna Helms. Auschnitte zu Musikern, Künstlern, Tänzern, Tanz</dc:description>
+         <dcterms:created rdf:resource="1957-01-01T00:00:00Z_1957-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/4/2</bf:shelfMark>
+         <dcterms:extent>1 Notizbuch (ca. 80 Bl.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2886585">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2886585"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2886585"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2886585">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2888108">
+         <dc:identifier>DE-611-HS-2888108</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Sammlungen</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_4705240-5"/>
+         <dc:title>Fotografie einer Volkstanzgruppe (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Menschengruppe in volkstümlicher Tracht.</dc:description>
+         <rdau:P60163>Rudolstadt [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/4/3</bf:shelfMark>
+         <dcterms:extent>1 schwarz-weiß-Foto</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2888108">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2888108"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2888108"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2888108">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2935774">
+         <dc:identifier>DE-611-HS-2935774</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Sammlungen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1078853037"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Anna Helms-Blasche. Votrag von Wolfgang Helms über seine Mutter (Incipit der Unterlage)</dc:title>
+         <dc:description>Vortrag von Wolfgang Helms über seine Mutter, über Ihre Arbeit, ihr Werk für die Volkstänze verfasst 1980, übertragen 2000 von Hanno Helms, Enkel von Anna Helms</dc:description>
+         <dcterms:created rdf:resource="1980-01-01T00:00:00Z_1980-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/4/4</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2935774">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2935774"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2935774"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2935774">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2975010">
+         <dc:identifier>DE-611-HS-2975010</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Sammlungen</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:contributor>Theater des Tanzes</dc:contributor>
+         <dc:title>Pressestimmen Theater des Tanzes (Incipit der Unterlage)</dc:title>
+         <dc:description>Sammelband mit eingeklebten Zeitungsartikeln und Fotos zum Theater des Tanzes.</dc:description>
+         <dcterms:created rdf:resource="1945-01-01T00:00:00Z_1987-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/4/5</bf:shelfMark>
+         <dcterms:extent>1 Bd.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2975010">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2975010"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2975010"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2975010">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-47371">
+         <dc:identifier>DE-611-BF-47371</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Nachlass Anna Helms-Blasche, Werke (Titel)</dc:title>
+         <bf:shelfMark>2</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-47371">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-47371"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-47371"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-47371">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2885724">
+         <dc:identifier>DE-611-HS-2885724</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Tänze aus der Heide (Original-Manuskripte) (Manuskripttitel)</dc:title>
+         <dc:description>Noten verschiedener Volkstänze (Polka, Walzer usw.)</dc:description>
+         <rdau:P60163>o.O</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/2/1</bf:shelfMark>
+         <dcterms:extent>44 hs. S. (überwiegend lose Bl.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2885724">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2885724"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2885724"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2885724">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2886635">
+         <dc:identifier>DE-611-HS-2886635</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Anna Helms-Blasche - Nachlass Anna Helms-Blasche, Werke</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Geestländer Tanzkreise (Manuskripttitel)</dc:title>
+         <dc:description>Chronik der Aufführungen des Geestländer Tanzkreises seit 1925 - 1933. Zusammenstellung zum 25. Jubiläum</dc:description>
+         <dcterms:created rdf:resource="1950-01-01T00:00:00Z_1950-12-31T23:59:59Z"/>
+         <rdau:P60163>Hamburg [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 359/2/2</bf:shelfMark>
+         <dcterms:extent>1 Bd. (28 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2886635">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2886635"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2886635"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2886635">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+</rdf:Bag>

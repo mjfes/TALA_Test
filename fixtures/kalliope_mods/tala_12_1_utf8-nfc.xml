@@ -1,0 +1,2117 @@
+<collection xmlns:srw="http://www.loc.gov/zing/srw/"
+            xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-69617</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170915</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20190208</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:typeOfResource collection="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2024343-1">
+         <mods:namePart>Universität Leipzig (1409-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Ballkarten aus dem Tanzarchiv (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1910/1916</mods:dateCreated>
+      </mods:originInfo>
+      <mods:location>
+         <mods:shelfLocator>NL 383</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Kiste</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3312497</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3312497</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170915</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Golinelli, Rosa</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanzstunden-Ball von Rosa Golinelli (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Ballkarte mit Tanzordnung</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Karten</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3312804</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3312804</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170918</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanz-Ordnung (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Ballkarte mit Tanz-Ordnung und zusätzlich eingeschobenen Tänzen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Karte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3312808</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3312808</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170918</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanzordnung (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Ballkarte mit Tanz-Ordnung</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3312812</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3312812</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170918</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Operetten-Abend des G.M.Z.1910/11: Tanzkarte (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Ballkarte mit Tanzfolge und eingeschobenen Tänzen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/4</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkartearte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3312820</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3312820</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170918</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170919</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanzfolge (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanzfolge und handschriftliche Bemerkungen;</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [Freit.den 9.März]</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/5</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3312837</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3312837</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170918</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Golinelli, Rosa</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>The dansant: Tanz-Stunde (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanz-Ordnung und handschriftliche Bemerkungen;</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-01-16</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/6</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3312845</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3312845</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170918</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanz-Ordnung (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanz-Ordnung und handschriftliche Bemerkungen;</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-02-19</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/7</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3312846</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3312846</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170918</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Kostümfest des G.M.Z. (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanz-Ordnung und handschriftliche Bemerkungen, sowie zusätzlich eingeschobene Tänze</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-02-24</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/8</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Karten</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313105</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313105</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170919</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanzordnung (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanz-Ordnung und handschriftliche Bemerkungen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-02-26</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/9</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313114</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313114</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170919</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanz-Folge (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanz-Folge und eingeschobene Tänze</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-03-20</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/10</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte mit zweiter Klappkarte innen; Vorderseite der äußeren Klappkarte von restlicher Karte abgetrennt</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313122</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313122</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170919</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Herrenball des G.M.Z. 1910 (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanz-Folge und eingeschobene Tänze</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-03-21</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/11</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313127</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313127</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170919</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanzfolge (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanzfolge und eingeschobene Tänze</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-03-26</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/12</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313146</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313146</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170919</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Conrady-Hube (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanzfolge</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-04-18</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/13</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313181</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313181</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170919</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bastänier, Else</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Sommer-Fest (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanzfolge und eingeschobene Tänze</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-07-06</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/14</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313191</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313191</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170919</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Musikalischer Abend des G.M.Z. 1910-11 (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmablauf und nachfolgende Tanzordnung</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-02-17</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/15</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313215</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313215</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170919</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170919</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Programm zum 1. Gesellschafts-Abend (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Vortrags-Ordnung und Tanzfolge</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1919-08-02</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/16</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313220</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313220</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170919</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Gesellschaftsabend des G.M.Z. 1910/11: Programm "Tanzstunde" (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programm des Gesellschaftsabends</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1912-02-24</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/17</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Blatt</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313430</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313430</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170920</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bastänier, Else</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Kostümfest veranstaltet von den Damen des G.M.Z. 1910/11 (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Speisenfolge, Tafelmusik, Tafellieder,</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-02-24</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/18</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313435</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313435</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170920</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bastänier, Else</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Speisen-Folge (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Speisenfolge</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-02-19</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/19</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313438</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313438</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170920</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bastänier, Else</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tafelkarte zum Herrenball des G.M.Z. 1910 (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Musik-Folge, Speisen-Folge und Weinkarte</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">2011-03-21</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/20</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313452</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313452</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170920</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Mittsommer in Dalekarlien: deutsch-schwedisches Singspiel mit Nationalgesängen und Nationaltänzen in einem Aufzug (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tischkarte mit Text der Gesänge</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/21</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313466</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313466</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170920</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Das Fest ist zu Ende (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Gedicht zur Kaffeetafel</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/22</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Karte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313476</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313476</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170920</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tafellied zum Tanzstundenball des G.M.Z. (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">sechsstrophiger Liedtext</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-02-05</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/23</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Papierbogen</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313481</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313481</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170920</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tafellied zum Tanzstundenball des G.M.Z. (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">sechsstrophiger Liedtext zur Melodie von "Strömt herbei ihr Völkerscharen"</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-02-05</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/24</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Papierbogen</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313484</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313484</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170920</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>1.Tafellied zum Herrenball des G.M.Z. (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">sechsstrophiger Liedtext zur Melodie von "Denn doppelt schmeckt's dem Bübchen"</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-03-21</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/25</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Papierbogen</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313493</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313493</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170920</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170920</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>2.Tafellied zum Herrenball des G.M.Z. (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">sechsstrophiger Liedtext</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-03-21</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/26</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Papierbogen</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313629</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313629</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170921</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170921</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>3.Tafellied zum Herrenball des G.M.Z. (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Liedtext zur Melodie von "Keinen Tropfen im Becher mehr"</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-03-21</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/27</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Papierbogen</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313650</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313650</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170921</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170921</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bastänier, Else</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Pozzi, Max</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Max Pozzi und Frau, Plagwitz Naumburgerstr. 44 beehren sich (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Einladung zum Tanzkränzchen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [26.Februar]</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/28</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Karte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313660</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313660</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170921</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170921</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bastänier, Else</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Emil Ahlemann und Frau, Waldstrasse 48pt geben sich die Ehre (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Einladung zum the dansant</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [11.März]</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/29</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Klappkarte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313670</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313670</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170921</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170921</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Der  Katerbummel (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Treffpunkt, Zeit und Ziel der Katerbummels zum Herrenball des G.M.Z.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [25./III, a.c.]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Brauerei Lützschena</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/29</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Karte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313708</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313708</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170921</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170921</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bastänier, Else</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Professor Dr. Conrady u. Frau u. Herr Dr. Hube beehren sich (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Einladung zum Tanzkränzchen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [Dienstag den 18. April]</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/30</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Karte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313716</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313716</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170921</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170921</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Golinelli, Rosa</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Hierdurch zur gefälligen Kenntnisnahme (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Information über Zeit und Ort des Unterrichts für Damen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [10. Oktober]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/31</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Karte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313718</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313718</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170921</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170921</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Montag-Zirkel 1910 (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Namens- und Adressliste für den Montag-Zirkel der Herren 1910</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/32</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Papierbogen</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313720</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313720</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170921</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170921</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Montag-Zirkel 1910 (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Namens- und Adressliste für den Montag-Zirkel der Damen 1910</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/33</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Papierbogen</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313982</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313982</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170922</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170922</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Golinelli, Rosa</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Euer Hochwohlgeboren (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Information, dass es statt Damen- und Herrenbällen nur noch The Dansant, Tanstundenbälle geben wird und diese als Anstands- und Tanzunterricht dienen sollen.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/35</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Blatt</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313983</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313983</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170922</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170922</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Golinelli, Rosa</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Euer Hochwohlgeboren (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Information, über Zahlung von Raten für Tanzunterricht</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/36</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Blatt</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313984</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313984</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170922</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170922</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Golinelli, Rosa</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Bastänier, Else</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Mark Dreissig (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Quittung über den Erhalt der Tanz-Unterricht Rate II</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [Januar 1911]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/37</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Blatt</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313985</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313985</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170922</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170922</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Golinelli, Rosa</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Bastänier, Else</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanz-Lehr-Institut (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Briefumschlag mit Adressen von Else Bastänier und des Tanz-Lehr-Instituts von Rosa Golinelli</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1910-09-03</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/38</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Umschlag</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313986</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313986</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170922</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170922</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Golinelli, Rosa</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Rosa Golinelli (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Postkarte mit Bild von Rosa Golinelli</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/39</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Karte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313987</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313987</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170922</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170922</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Golinelli, Rosa</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Bastänier, Else</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Golinelli-Montags-Zirkel (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">an Frl. Else Bastänier</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1911-03-04</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/40</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Karte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3313988</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3313988</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170922</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170922</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Golinelli-Montags-Zirkel 1910/11 (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">leere Postkarte</mods:abstract>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/41</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Karte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3316750</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3316750</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171006</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171006</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Ihren lieben Schülern und Schülerinnen gewidmet, als stete Erinnerung an die schöne Tanzstunden-Zeit (Incipit des Druckes)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanzfolge.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1903</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/42</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (18 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3316757</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3316757</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171006</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171006</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-69617</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-69617</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Ballkarten aus dem Tanzarchiv</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tischkarte (Incipit des Druckes)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tischkarte mit Blumenrelief im Kästchen.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 383/43</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Kästchen mit Tischkarte, 1 Bleistift</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+</collection>

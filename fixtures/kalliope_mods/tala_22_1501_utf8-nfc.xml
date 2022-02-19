@@ -1,0 +1,1775 @@
+<collection xmlns:srw="http://www.loc.gov/zing/srw/"
+            xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3603901</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3603901</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200624</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200624</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1158827709">
+         <mods:namePart>Holland, Hedo (1933-) [vermutlich]</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Herbert Burchard an Hedo Holland</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Zum Beitrag Anna Helms. Bemängelt fehlende Daten, noch nicht abgelaufene Urheberrechte. Frage nach Manuskriptquelle.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1994-05-20</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/10</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3603913</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3603913</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200624</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200624</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/109052404">
+         <mods:namePart>Klotzsche, Volker (1941-2016)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Volker Klotzsche an Herbert Burchard</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Grüße vom Bundesvolkstanztreffen in Kiel. Mitunterzeichner: Helga Preuß, Anni Herrmann, Wolfgang Warbinek, Gerhard Palmer.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1992</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Kiel</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/11</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3603975</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3603975</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200624</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200624</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/109052404">
+         <mods:namePart>Klotzsche, Volker (1941-2016)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Volker Klotzsche an Herbert Burchard</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Interesse für die "Neuen Gesellschaftstänze" und Programme der Veranstaltungen von 1933 bis 1944.
+90. Geburtstag von Janietz. Erwähnt die DGV, Helga Preuß.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-05-14</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Hannover</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/12</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.), Umschlag, Beilage</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3603988</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3603988</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200624</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200624</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/109052404">
+         <mods:namePart>Klotzsche, Volker (1941-2016)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/115146645X">
+         <mods:namePart>Preuß, Helga (1938-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Volker Klotzsche an Herbert Burchard</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Kündigt Kopien an. Texte von Frau Preuß. Schwer verständliche Rechtslage. Erwähnt seine Zeittafel.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-05-02</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Hannover [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/13</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3603990</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3603990</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200624</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200624</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/109052404">
+         <mods:namePart>Klotzsche, Volker (1941-2016)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Volker Klotzsche an Herbert Burchard</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Kurznachricht, Umzug.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-06-30</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Hannover</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/14</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604017</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604017</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200624</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200624</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1158827709">
+         <mods:namePart>Holland, Hedo (1933-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Hedo Holland an Herbert Burchard</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Überlesene Artikel. Schickt nächstes Heft der Zeitschrift "FM". Fragt Mitarbeiterschaft an. Erwähnt Arthur Nowy.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1994-02-15</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Hamburg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/15</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604024</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604024</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200624</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200624</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1158827709">
+         <mods:namePart>Holland, Hedo (1933-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Hedo Holland an Herbert Burchard</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Abgelaufenes Geschenk-Abo für Christa Schneider. Persönliches.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1997-10-15</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Lüttenmark</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/16</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604107</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604107</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200624</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200624</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/109052404">
+         <mods:namePart>Klotzsche, Volker (1941-2016)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Zeittafel DVT-Geschichte (Ansetzungssachtitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Erwähnt Korrespondenz und Aufstellung für/mit Klotzsche; Notizen aus Heckeshorn; DVT-Entwicklung, Titelvorschlag: Beitrag zur Geschichte der Deutschen Volkstanzbewegung 1900 bis 1990.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-05</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/17</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Mappe</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604123</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604123</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200624</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200624</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2082917-6">
+         <mods:namePart>Deutsche Gesellschaft für Volkstanz</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Mahnke, Heiko</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2082917-6">
+         <mods:namePart>Deutsche Gesellschaft für Volkstanz</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>13. Bundes-Volkstanz-Treffen 1992 in Kiel (Ansetzungssachtitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1992-07-23/1992-07-26</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+         <mods:place>
+            <mods:placeTerm type="text">Kiel</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/18</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Mappe</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604136</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604136</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200624</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200624</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1029781-9">
+         <mods:namePart>Heinrichshofen's Verlag (Wilhelmshaven) (1797-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Herbert Burchard an Heinrichshofen's Verlag (Wilhelmshaven)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Literaturbestellung.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-02-21</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/19</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604140</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604140</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200624</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200624</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1029781-9">
+         <mods:namePart>Heinrichshofen's Verlag (Wilhelmshaven) (1797-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Herbert Burchard an Heinrichshofen's Verlag (Wilhelmshaven)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Literaturbestellung, Nachfrage zur Rechnung.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-01-22</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/20</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604145</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604145</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200624</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200624</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1029781-9">
+         <mods:namePart>Heinrichshofen's Verlag (Wilhelmshaven) (1797-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Herbert Burchard an Heinrichshofen's Verlag (Wilhelmshaven)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Literaturbestellung Bröscky, Rücksendung der erhaltenen Exemplare mit Begründung. Bemängelt unzureichende Urhebervermerke u.a.
+Fragen zur Titeländerung.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-03-01</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/21</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604251</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604251</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200625</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200625</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1029781-9">
+         <mods:namePart>Heinrichshofen's Verlag (Wilhelmshaven) (1797-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Heinrichshofen's Verlag (Wilhelmshaven) an Herbert Burchard</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Betrifft Literaturbestellung Bröscky.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-01-19</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Wilhelmshaven</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/22</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604302</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604302</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200625</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200625</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1029781-9">
+         <mods:namePart>Heinrichshofen's Verlag (Wilhelmshaven) (1797-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Heinrichshofen's Verlag (Wilhelmshaven) an Herbert Burchard</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Betrifft Literaturbestellung Bröscky.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-01-28</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Wilhelmshaven</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/23</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S), Beilage, Umschlag</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604307</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604307</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200625</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200625</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1029781-9">
+         <mods:namePart>Heinrichshofen's Verlag (Wilhelmshaven) (1797-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Heinrichshofen's Verlag (Wilhelmshaven) an Herbert Burchard</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Betrifft Literaturbestellung Bröscky.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-02-24</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Wilhelmshaven</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/24</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604311</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604311</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200625</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200625</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1141269775">
+         <mods:namePart>Kreiner, Viktor (1933-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1029781-9">
+         <mods:namePart>Heinrichshofen's Verlag (Wilhelmshaven) (1797-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Viktor Kreiner von Heinrichshofen's Verlag (Wilhelmshaven) an Herbert Burchard</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Dank für Schreiben. Betrifft Literaturbestellung Bröscky. Fehlerhafte bibliographische Angaben im Tanzarchiv Leipzig vermutet.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-03-12</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Wilhelmshaven</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/25</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604359</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604359</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200625</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200625</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1173433392">
+         <mods:namePart>Jähnert, Volkhard (1933-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>Arbeitsgemeinschaft für Volks- und Jugendtanz. Tagung</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>2. Arbeitstagung für Volks- und Jugendtanz (Ansetzungssachtitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Zur Systematik der Berliner Tanzarbeit.
+2. Arbeitstagung für Volks- und Jugendtanz, durchgeführt von der Arbeitsgemeinschaft für Volks- und Jugendtanz.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1960-01-16/1960-01-17</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/26</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Mappe</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604464</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604464</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200625</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200625</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762741">
+         <mods:namePart>Schwantes, Siegfried (1905-2002)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Drei Tanzwelt-Bilder: ein echter Brief zur Diskussion gestellt (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Einverständnis mit dem Klaviersatz der "Dessauer Masurka". Kurze Abhandlung zu: Brauchtum, Gut und Wissen von Volksgruppen; Umbruchtanz; Führende Volkstanzschulen u.a.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1992-02-02/1992-03-24</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/27</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604516</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604516</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200625</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200625</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/115146645X">
+         <mods:namePart>Preuß, Helga (1938-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Antwort zu Artikel in "Volkstanz" (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Antwort zu Artikel in "Volkstanz" 1993, Heft 2, S. 46-47. Betrifft Autorenrechte, Lizenzen, Nachdrucke. Führt Beispiele an, erwähnt Herbert Oetke, Anna Helms u.a.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-05-14</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/28</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604631</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604631</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200625</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200625</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1212867424">
+         <mods:namePart>Lemm, Irmgard (1913-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1190649438">
+         <mods:namePart>Bröscky, Walter (1914-1986)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Herbert Burchard an Irmgard Lemm</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Über Tanzen und Tänze von Bröscky, Unterlagen, Programme, Noten, Veröffentlichungen. Erwähnt den "Beschwingten Kreis", Seniorentanzkreis der Empfängerin. Zusammengestellte Übersichtstafel.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-02-28</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/29</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 masch. S.), Beilagen</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604662</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604662</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200625</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200625</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1212867424">
+         <mods:namePart>Lemm, Irmgard (1913-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1190649438">
+         <mods:namePart>Bröscky, Walter (1914-1986)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Irmgard Lemm an Herbert Burchard</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Über Tanzen und Tänze von Bröscky, Unterlagen, Erinnerungen von Lemm. Erwähnt den "Beschwingten Kreis", Seniorentanzkreis der Empfängerin.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-03-04/1993-03-05</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/30</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 masch. S.), Beilage</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3604726</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3604726</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200625</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200625</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1190649438">
+         <mods:namePart>Bröscky, Walter (1914-1986)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanzhefte Walter Bröscky (Ansetzungssachtitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Übersicht über Tänze von Bröscky.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-04-04/1993-04-05</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/31</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3605044</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3605044</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200626</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200626</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1190649438">
+         <mods:namePart>Bröscky, Walter (1914-1986)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanzhefte Walter Bröscky, Das Brandenburger Tor (Ansetzungssachtitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Übersicht über Tänze von Bröscky, Inhalt.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1992-11-01/1992-11-04</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/32</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3605050</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3605050</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200626</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200626</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1190649438">
+         <mods:namePart>Bröscky, Walter (1914-1986)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Die Berliner Tanzgemeinschaft (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Literaturübersicht, Tanzleiter. Tänze von Bröscky, Inhalt. Richtungsweiser der Berliner Tanzgemeinschaft.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1992-11-24</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/33</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 hs. S.), Beilage</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3605059</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3605059</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200626</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200626</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1173433392">
+         <mods:namePart>Jähnert, Volkhard (1933-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1190649438">
+         <mods:namePart>Bröscky, Walter (1914-1986)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Herbert Burchard an Volkhard Jähnert</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Dank für Material, Bröscky: Das Brandenburger Tor. Formuliert Aspekte zur Umbruchtanzzeit. Austausch von Informationen und Material.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1992-10-27</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/34</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3605064</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3605064</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200626</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200626</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1173433392">
+         <mods:namePart>Jähnert, Volkhard (1933-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1190649438">
+         <mods:namePart>Bröscky, Walter (1914-1986)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Herbert Burchard an Volkhard Jähnert</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Dank für entliehenes Material, Bröscky: Das Brandenburger Tor; Beschwingter Kreis. Reproduktionen, Kommentare. Formuliert Volkstanzgeschichtliches, schickt Material.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1992-12-07</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/35</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3605070</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3605070</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200626</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200626</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1173433392">
+         <mods:namePart>Jähnert, Volkhard (1933-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1190649438">
+         <mods:namePart>Bröscky, Walter (1914-1986)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Herbert Burchard an Volkhard Jähnert</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Anliegende Aufgaben. Zusammenarbeit mit Klotzsche. Ergänzungen zum Material, schlägt Gespräch vor über Material (Bröscky: Das Brandenburger Tor).</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1992-12-09</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/36</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.), Beilage</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3605084</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3605084</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200626</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200626</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1190649438">
+         <mods:namePart>Bröscky, Walter (1914-1986)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Material zu Walter Bröscky [Sammlung] (Ansetzungssachtitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Übersicht über Tänze von Bröscky. Biografisches, tradierte Tanzstile, Volkstanzgeschichtliches, Erinnerungen.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1993-01-12/1993-02-20</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/37</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Mappe</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3605173</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3605173</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200626</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200626</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1190649438">
+         <mods:namePart>Bröscky, Walter (1914-1986)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Walter Bröscky: Das Brandenburger Tor: neue Berliner Gemeinschaftstänze [Sammlung] (Ansetzungssachtitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Sammlung enthält 10 Tänze mit Noten.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1949</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/38</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Ringheft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3605198</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3605198</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20200626</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200626</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-78567</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-78567</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Herbert Burchard - 57-58</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1190649438">
+         <mods:namePart>Bröscky, Walter (1914-1986)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045762482">
+         <mods:namePart>Burchard, Herbert (1908-1999)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1212867424">
+         <mods:namePart>Lemm, Irmgard (1913-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Walter Bröscky: Großstadtkinder [Sammlung] (Ansetzungssachtitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Sammlung enthält Tanzbeschreibungen, Inhaltsverzeichnis.
+Hochrechnung der Spieldauer für "Großstadtkinder" von Burchard als Manuskript.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1950</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 394/57-58/39</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Mappe, 2 hs. Bl.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+</collection>

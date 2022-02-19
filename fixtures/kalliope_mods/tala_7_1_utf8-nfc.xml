@@ -1,0 +1,1673 @@
+<collection xmlns:srw="http://www.loc.gov/zing/srw/"
+            xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54387</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-54387</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151117</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20190208</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:typeOfResource collection="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/320028267">
+         <mods:namePart>Akademie der Künste der DDR (Berlin, Ost)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 365: Sammlung Akademie der Künste der DDR (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten</mods:abstract>
+      <mods:location>
+         <mods:shelfLocator>NL 365</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-54388</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151117</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151207</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54387</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54387</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/320028267">
+         <mods:namePart>Akademie der Künste der DDR (Berlin, Ost)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Volkstanznoten aus dem Vogtland</mods:abstract>
+      <mods:location>
+         <mods:shelfLocator>1</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2937486</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2937486</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151117</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bechert, Ernst</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenbüchlein für Clarinette (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">kleine Stücke, handschriftlich notiert von E. Bechert</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>22 Bl. (44 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938136</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938136</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>Tanzarchiv der DDR</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Vogtländische Tänze (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">handschriftliche Notensammlung
+- 8 Tänze aus Alt-Wiedersberger Tanzbüchlein
+- 12 vogtländische Tänze
+- 9 Tänze aus einem Tanzbüchlein des Stadtmuseumsdirektors C.
+Thierfelder-Velsnitz (um 1850)
+- 23 Tänze aufgezeichnet von E. Bechert, J. Woldert und Adler
+zum vervollständigen sind 4 Bl. Kopien beigelegt</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>131 Bl. (ca. 250 hs. S.) + 4 gedr. Bl. Kopien</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938224</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938224</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenblatt "Wie groß ist Gottes Herrlichkeit!" (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">1 Notenblatt für Violine mit unterlegtem Text</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/4</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938234</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938234</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Handschriftliche Noten mit 18 Tänzen (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten für 18 Tänze (Walzer, Polonaise, Galopp, Schottisch)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/5</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>8 Bl. (16 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938242</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938242</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13503163X">
+         <mods:namePart>Fietz, Erhard (1934-2007)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/136376576">
+         <mods:namePart>Barthel, Friedrich (1903-1989)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2032508-3">
+         <mods:namePart>Deutscher Kulturbund / Kreisleitung (Auerbach/Vogtl.)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Vogtländische Rundas [5. Vogtlandheimat "Singe mer e Lied"] (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten zu Vogtländische Rundas aus der Dungerschen Sammlung ausgewählt und zusammengestellt von Friedrich Barthel (Text) und Erhard Fietz (Melodien)
+- auf 6 Postkarten in Umschlag</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/6</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>6 Bl. (6 gedr. S.) in Umschlag</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938254</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938254</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Handschriftliche Noten für Tenorhorn, Trompete und Posaune (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">handschriftliche Noten für Tenorhorn in B (4 Bl.), für Trompete in B (4 Bl.) und für Posaune (4. Bl.) jeweils mit den Stücken: Bauernmarkt; Altfränkisches Menuett; Markt; Egerländer Walzer; Jodler; Polstertanz; Passauer Walzer</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/7</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>12 Bl. (21 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938258</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938258</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenblätter "Rheinländer" (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">handschriftliche Notenblätter "Rheinländer" für Horn in F und Trompete in B</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1935-03-08</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/8</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938271</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938271</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenblatt "Neundorfer Walzer" (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">handschriftliches Notenblatt "Neundorfer Walzer"</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/9</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938277</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938277</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenblatt "Nr. 2 Walzer" (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">handschriftliches Notenblatt "Nr. 2 Walzer" für Flöte</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/10</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938282</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938282</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenheft für Bass in B (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">handschriftliche Noten für Bass in B (Walzer, Tiroler, Schottisch, Galopp)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/11</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>16 Bl. (29 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938291</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938291</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Handschriftliche Noten (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">3 Notenhefte ua. für Violine I und Violine II mit bis zu 17 kleinen Stücken (Walzer, Galopp Schottisch, Polka)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/12</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>20 Bl. (38 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938325</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938325</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>36 Stücke für Violine (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">1 Notenheft mit 36 kleinen Stücken für Violine (ua. Walzer, Galopp, Schottisch)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/13</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (22 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938328</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938328</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Handschriftliche Noten für Violine (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">1 Notenheft mit kleinen Stücken für Violine (Walzer, Galopp, Schottisch, Tiroler, Länder)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/14</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>8 Bl. (16 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938334</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938334</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenblatt "Kleiner Walzer" (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Notenblatt "Kleiner Walzer"</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1961-09-20</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/15</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938356</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938356</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151119</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151119</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bechert, Ernst</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Flügelhorn in B für Streichmusik (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">1 Notenheft für Flügelhorn in B für Streichmusik mit diversen kleinen Stücken (ua. Walzer, Galopp, Marsch, Zauber der Nacht, Schottisch, Tiroler, Polonaihse, Rheinländer)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/16</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (22 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938561</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938561</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Noten No. 121 - 132 (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten für Klarinette, Posaune, Violine, Bass, Tambourine und Flöte je Stücke No. 121 - 132.
+No. 121 Nelly Walzer v. H. Lossner
+No. 122 Alma Polka v. H. Lossner
+No. 123 Galopp (Express) v. H. Lossner
+No. 124 Walzer Sommerblumen v. Schuller
+No. 125 Galopp in b Jugendfeuer v. Schuller
+No. 126 Polka in b Pfingstrosen v. Keller
+No. 127 Tyrol v. Schuller
+No. 128 Rheinländer
+No. 129 Walzer Ein Tänzchen im grünem v. Seidel
+No. 130 Polka Die Tanzlustigen v. Seifert
+No. 131 Walzer v. Schmieder
+No. 132 Polka v. Schuller</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/17</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>27 Bl. (34 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938569</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938569</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Diverse Stücke für Trompete, Horn und Posaune (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Partituren für Trompete in B, Tenorhorn und Posaune für verschiedene Stücke: Polstertanz, Bauernmarsch (1819), Markt, Egerländer Walzer, Jodler (1880), Passauer Walzer (1840), Rheinländer</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/18</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>14 Bl. (21 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938574</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938574</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenheft für Violine (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">verschiedene kleine Stücke für Violine</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/19</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>9 Bl. (15 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938577</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938577</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Zettel mit handschriftlichen Noten (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Notenblatt-Fragment mit handschriftlichen Noten</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/20</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938580</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938580</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>3 Notenhefte (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">3 Notenhefte mit Walzer, Polka, Rheinländer, Galopp und Stücken aus Opern, je 8 Bl.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/21</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>24 Bl. (48 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938582</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938582</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bechert, Ernst</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenheft für Trompete B (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Notenheft für Trompete in B, enthält diverse kleine Stücke (ua. Walzer, Weihnachtslied, Galopp, Polka, Rheinländer)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/22</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>13 Bl. (24 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938586</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938586</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bechert, Ernst</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Blaue Mappe mit Noten (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Mappe mit handschriftlichen Noten:
+- "In freien Stunden" für Violine
+- "Claritto in Es"
+- Polonaise für Violine von E. Bechert</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/23</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>7 Bl. (13 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938592</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938592</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenheft für Flügelhorn (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">handschriftliche Noten für Flügelhorn in B (Marsch, Walzer, Galopp, Schottisch)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/24</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>16 Bl. (31 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938595</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938595</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bechert, Ernst</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Sonatenbuch für Hermann Bechert (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">2 Notenhefte für Violine I und Violine II (ua. mit Walzer, Polka, Rheinländer, Marsch)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/25</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>16 Bl. (31 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938612</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938612</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bechert, Ernst</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenheft für Bass (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Stücke für Bass</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/26</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>7 Bl. (12 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938616</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938616</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bechert, Ernst [vermutlich]</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenheft für Trompete (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Stücke für Trompete, ua. Walzer, Schottisch, Galopp, Polka</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/27</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>7 Bl. (9 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938618</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938618</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bechert, Ernst</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenheft für Clarinette (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Stücke für Klarinette in B, ua. Walzer, Schottisch, Galopp, Polka, Rheinländer</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/28</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>16 Bl. (26 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938624</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938624</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bechert, Ernst</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>5 Notenhefte (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">5 Notenhefte für Viola, Violine, Trompete, Clarintte mit diversen Stücken (ua. Walzer, Rheinländer, Galopp)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/29</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>39 Bl. (76 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938629</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938629</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bechert, Ernst</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenheft für Trompete (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Notenheft für Trompete mit diversen Stücken (ua. Walzer, Tiroler, Kuß Walzer, Polonaise, Galopp, Rheinländer, Polka)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/30</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>14 Bl. (27 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938633</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938633</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Bechert, Ernst</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notenheft für Violine (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Notenheft für Violine mit diversen Stücken (ua. Walzer, Rheinländer, Polka)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/31</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>5 Bl. (9 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2938649</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2938649</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151120</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151120</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54388</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54388</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>NL 365: Sammlung Akademie der Künste der DDR - NL 365/1: Sammlung Akademie der Künste der DDR, K3 Fichtelbücher</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Sammlung von handschriftlichen Noten (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Sammlung handschriftliche Noten für verschiedene Instrumente, ua.
+"Ich hat' einen Kameraden";
+"Wer nur den lieben Gott lässt walten"
+"Lindenauer Marsch"
+alles in Mappe gesammelt</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 365/1/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>54 Bl. (ca. 100 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+</collection>

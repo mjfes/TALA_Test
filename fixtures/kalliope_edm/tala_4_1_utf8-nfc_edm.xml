@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:Bag xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:edm="http://www.europeana.eu/schemas/edm/"
+         xmlns:ore="http://www.openarchives.org/ore/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:bibo="http://purl.org/ontology/bibo/"
+         xmlns:bf="http://id.loc.gov/ontologies/bibframe/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdau="http://rdaregistry.info/Elements/u/"
+         xmlns:eclap="http://www.eclap.eu/schema/eclap/">
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-54313">
+         <dc:identifier>DE-611-BF-54313</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <rdau:P60849>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60849>
+         <dc:title>Archiv FDJ-Volkstanzgruppe Zeitz (Titel)</dc:title>
+         <dc:description>u.a. Programme, Presseberichte, Zeitungsartikel</dc:description>
+         <dcterms:created rdf:resource="1946-01-01T00:00:00Z_1958-12-31T23:59:59Z"/>
+         <bf:shelfMark>NL 362</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-54313">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-54313"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-54313"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-54313">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-54314">
+         <dc:identifier>DE-611-BF-54314</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz</dcterms:isPartOf>
+         <rdau:P60849>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60849>
+         <dc:title>NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke (Titel)</dc:title>
+         <bf:shelfMark>1</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-54314">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-54314"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-54314"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-54314">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931136">
+         <dc:identifier>DE-611-HS-2931136</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1078869537"/>
+         <rdau:P60434>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60434>
+         <dc:title>Die Antifa-Jugend entstand im Kreis Zeitz im Mai 1945 (Incipit der Unterlage)</dc:title>
+         <dc:description>Kurzer Abriss zur Entstehung der FDJ-Volkstanzgruppe Zeitz</dc:description>
+         <dcterms:created rdf:resource="1961-06-01T00:00:00Z_1961-06-01T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/1/1</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.) / 1 Briefumschlag</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931136">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931136"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931136"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931136">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931150">
+         <dc:identifier>DE-611-HS-2931150</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <rdau:P60434>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60434>
+         <dc:title>Über die FDJ-Volkstanzgruppe Zeitz (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Helene Schmidt (vermutlich) berichtet über den Aufbau der FDJ-Volkstanzgruppe Zeitz und die tägliche Arbeit</dc:description>
+         <rdau:P60163>Zeitz [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/1/2</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931150">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931150"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931150"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931150">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931169">
+         <dc:identifier>DE-611-HS-2931169</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <rdau:P60434>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60434>
+         <dc:title>Tanzbeschreibungen (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Tanzbeschreibungen / Bewegungsabläufe für die Aufführung folgender Tänze: - "Tanz der Bergleute und Arbeiter" - "Thüringer Galopp" - "Blumen und Ähren"</dc:description>
+         <rdau:P60163>Zeitz [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/1/3</bf:shelfMark>
+         <dcterms:extent>26 Bl. (26 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931169">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931169"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931169"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931169">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931208">
+         <dc:identifier>DE-611-HS-2931208</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</dcterms:isPartOf>
+         <rdau:P60434>Schnabel, Lutz</rdau:P60434>
+         <rdau:P60434>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60434>
+         <dc:title>Festverse! (Manuskripttitel)</dc:title>
+         <dc:description>Festvers von Lutz Schnabel verfasst anlässlich zum einjährigen Bestehen der Volkstanzgruppe Zeitz</dc:description>
+         <dcterms:created rdf:resource="1946-01-01T00:00:00Z_1946-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/1/4</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931208">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931208"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931208"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931208">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931657">
+         <dc:identifier>DE-611-HS-2931657</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</dcterms:isPartOf>
+         <rdau:P60434>Schnabel, Lutz</rdau:P60434>
+         <rdau:P60434>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60434>
+         <dc:title>Zeitzer Volkstanzgruppe der F.D.J. auf Pfingstfahrt (Manuskripttitel)</dc:title>
+         <dc:description>Pressebericht zur Pfingstfahrt der FDJ-Volkstanzgruppe Zeitz, 3 verschiedene Versionen</dc:description>
+         <dcterms:created rdf:resource="1946-06-13T00:00:00Z_1946-06-13T23:59:59Z"/>
+         <rdau:P60163>Zeitz [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/1/6</bf:shelfMark>
+         <dcterms:extent>3 Bl. (3 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931657">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931657"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931657"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931657">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931663">
+         <dc:identifier>DE-611-HS-2931663</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</dcterms:isPartOf>
+         <rdau:P60434>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60434>
+         <dc:title>Fest-Zeitung zum einjährigen Bestehen (Manuskripttitel)</dc:title>
+         <dc:description>Festzeitung zum einjährigen Bestehen der Volkstanzgruppe Zeitz mit Dichtungen der Mitglieder. Scheinbar noch als Entwurf mit Korrekturen</dc:description>
+         <dcterms:created rdf:resource="1946-01-01T00:00:00Z_1946-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/1/5</bf:shelfMark>
+         <dcterms:extent>18 Bl. (18 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931663">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931663"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931663"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931663">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931685">
+         <dc:identifier>DE-611-HS-2931685</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</dcterms:isPartOf>
+         <rdau:P60434>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60434>
+         <dc:title>Presseberichte der FDJ-Volkstanzgruppe Zeitz (Manuskripttitel)</dc:title>
+         <dc:description>Entwürfe für Presseberichte von Werbe-/Tanzabenden der Volkstanzgruppe, sowie Feier der Antifa-Jugend; kurzer Überischtskurzbericht der FDJ-Volkstanzgruppe</dc:description>
+         <dcterms:created rdf:resource="1946-01-01T00:00:00Z_1946-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/1/7</bf:shelfMark>
+         <dcterms:extent>4 Bl. (5 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931685">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931685"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931685"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931685">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-54322">
+         <dc:identifier>DE-611-BF-54322</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz</dcterms:isPartOf>
+         <rdau:P60849>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60849>
+         <dc:title>NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente (Titel)</dc:title>
+         <bf:shelfMark>2</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-54322">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-54322"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-54322"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-54322">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931715">
+         <dc:identifier>DE-611-HS-2931715</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</dcterms:isPartOf>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Bestand an Volkstanzgruppen und Lehrkräfte des Kreises Zeitz (Manuskripttitel)</dc:title>
+         <dc:description>Auflistung der Lehrkräfte (Fachkräfte, sonstige anleitende Kräfte, Teilnehmer an Bezirkslehrgängen usw.)</dc:description>
+         <dcterms:created rdf:resource="1958-03-07T00:00:00Z_1958-03-07T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/2/1</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931715">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931715"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931715"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931715">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931719">
+         <dc:identifier>DE-611-HS-2931719</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</dcterms:isPartOf>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Terminauflistung (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Listen mit Terminplanung (1945/1946) der Volkstanzgruppe, Auftritte uä.</dc:description>
+         <dcterms:created rdf:resource="1946-01-01T00:00:00Z_1946-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/2/2</bf:shelfMark>
+         <dcterms:extent>3 Bl. (5 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931719">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931719"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931719"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931719">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931730">
+         <dc:identifier>DE-611-HS-2931730</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</dcterms:isPartOf>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Programm Elternabend der Volkstanzgruppe d. FDJ Zeitz (Manuskripttitel)</dc:title>
+         <dc:description>Auflistung Programmpunkte für Elternabend der Volkstanzgruppe</dc:description>
+         <dcterms:created rdf:resource="1946-05-12T00:00:00Z_1946-05-12T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/2/3</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931730">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931730"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931730"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931730">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931732">
+         <dc:identifier>DE-611-HS-2931732</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</dcterms:isPartOf>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Programm für die Abende in Geußnitz und Kayna (Manuskripttitel)</dc:title>
+         <dc:description>Auflistung Programmpunkte für die Abende in Geußnitz und Kayna</dc:description>
+         <dcterms:created rdf:resource="1946-06-13T00:00:00Z_1946-06-13T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/2/4</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S. mit hs. Korrekturen)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931732">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931732"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931732"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931732">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931734">
+         <dc:identifier>DE-611-HS-2931734</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</dcterms:isPartOf>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Programm für den Werbeabend am 25.10.46 im Haus der Jugend (Manuskripttitel)</dc:title>
+         <dc:description>Auflistung Programmpunkte für den Werbeabend im Haus der Jugend</dc:description>
+         <dcterms:created rdf:resource="1946-01-01T00:00:00Z_1946-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/2/5</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931734">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931734"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931734"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931734">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931738">
+         <dc:identifier>DE-611-HS-2931738</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</dcterms:isPartOf>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Programm für den 7.9.46 auf dem Altmarkt (Manuskripttitel)</dc:title>
+         <dc:description>Auflistung Programmpunkte für Aufführung auf dem Altmarkt am 7.9.1946</dc:description>
+         <dcterms:created rdf:resource="1946-01-01T00:00:00Z_1946-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/2/6</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931738">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931738"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931738"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931738">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931746">
+         <dc:identifier>DE-611-HS-2931746</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2010884-9"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <dc:title>Bescheinigung (Manuskripttitel)</dc:title>
+         <dc:description>Bescheiningung der FDJ für Helene Schmidt für die Teilnahme am zentralen Volkstanz-Gruppenleiter-Lehrgang in Kühlungsborn</dc:description>
+         <dcterms:created rdf:resource="1951-11-03T00:00:00Z_1951-11-03T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/2/7</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931746">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931746"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931746"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931746">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931750">
+         <dc:identifier>DE-611-HS-2931750</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <dc:title>Bescheinigung für Gemeinschaftsverpflegung (Manuskripttitel)</dc:title>
+         <dc:description>Bescheiningung für Helene Schmidt der Verwaltungsschule Großsteinberg für Teilnahme an Gemeinschaftsverpflegung, für die Rückmeldung bei der Kartenstelle</dc:description>
+         <dcterms:created rdf:resource="1958-04-25T00:00:00Z_1958-04-25T23:59:59Z"/>
+         <rdau:P60163>Großsteinberg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/2/8</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 gedr./hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931750">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931750"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931750"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931750">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931761">
+         <dc:identifier>DE-611-HS-2931761</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</dcterms:isPartOf>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Einladung 1. Jahrestag der Volkstanzgruppe Zeitz (Manuskripttitel)</dc:title>
+         <dc:description>Vermutlich Einladung für 1. Jahrestag der Volkstanzgruppe Zeitz am 19. Okt. 1946 (2x)</dc:description>
+         <dcterms:created rdf:resource="1946-01-01T00:00:00Z_1946-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/2/9</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931761">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931761"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931761"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931761">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931764">
+         <dc:identifier>DE-611-HS-2931764</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</dcterms:isPartOf>
+         <rdau:P60434>Schnabel, Lutz</rdau:P60434>
+         <rdau:P60456>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60456>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Bescheid (Manuskripttitel)</dc:title>
+         <dc:description>Bescheid an alle Mitglieder über Vorführung der Volkstanzgruppe am 7.7.46 und Wiener-Walzer Probe.</dc:description>
+         <dcterms:created rdf:resource="1946-07-05T00:00:00Z_1946-07-05T23:59:59Z"/>
+         <rdau:P60163>Zeitz [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/2/10</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931764">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931764"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931764"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931764">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2931770">
+         <dc:identifier>DE-611-HS-2931770</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</dcterms:isPartOf>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Urkunde zu Deutschen Festspielen der Volkskunst (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Urkunde für Zentrales Kultur-Ensemble Zeitz als Sieger im Kreisausscheid, Fachgebiet Volkstanz zu den deutschen Festspielen der Volkskunst 1952</dc:description>
+         <dcterms:created rdf:resource="1952-05-18T00:00:00Z_1952-05-18T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/2/12</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 gedr./hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2931770">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2931770"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2931770"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2931770">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-54323">
+         <dc:identifier>DE-611-BF-54323</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz</dcterms:isPartOf>
+         <rdau:P60849>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60849>
+         <dc:title>NL 362/3: FDJ-Volkstanzgruppe Zeitz, Sammlung (Titel)</dc:title>
+         <bf:shelfMark>3</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-54323">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-54323"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-54323"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-54323">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2932174">
+         <dc:identifier>DE-611-HS-2932174</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/3: FDJ-Volkstanzgruppe Zeitz, Sammlung</dcterms:isPartOf>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Zeitungsartikel über die FDJ-Volkstanzgruppe Zeitz (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Berichte der Presse zu Auftritten uä. der FDJ-Volkstanzgruppe Zeitz</dc:description>
+         <dcterms:created rdf:resource="1946-01-01T00:00:00Z_1946-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/3/1</bf:shelfMark>
+         <dcterms:extent>25 Zeitungsausschnitte</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2932174">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2932174"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2932174"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2932174">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2932179">
+         <dc:identifier>DE-611-HS-2932179</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/3: FDJ-Volkstanzgruppe Zeitz, Sammlung</dcterms:isPartOf>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Kulturtage Zeitz (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Heft mit Informationen und Programm zu den Kulturtagen in Zeitz vom 26.11. bis 14.12.1946</dc:description>
+         <dcterms:created rdf:resource="1946-01-01T00:00:00Z_1946-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/3/2</bf:shelfMark>
+         <dcterms:extent>13 Bl. (26 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2932179">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2932179"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2932179"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2932179">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2932188">
+         <dc:identifier>DE-611-HS-2932188</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/3: FDJ-Volkstanzgruppe Zeitz, Sammlung</dcterms:isPartOf>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Sammlung der FDJ-Volkstanzgruppe Zeitz (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Konvolut von Dokumenten gesammelt von der FDJ-Volkstanzgruppe Zeitz - Informationsbroschüre von Anri Witschel-Welhavn zum Unterricht in rhythmische Gymnastik und künstlerischem Ausdruckstanz - Programm mit handschriftlichen Notzien zum Öffentlichen Frauenabend in der Stadt Saalburg, 21. Juli 1946 - Dichtung "Der neuen Jugend gewidmet!"</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/3/3</bf:shelfMark>
+         <dcterms:extent>4 Bl. (4 gedr. S./1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2932188">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2932188"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2932188"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2932188">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2932207">
+         <dc:identifier>DE-611-HS-2932207</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/3: FDJ-Volkstanzgruppe Zeitz, Sammlung</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118744615"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118744615"/>
+         <dc:title>Auch ein Totentanz (Drucktitel)</dc:title>
+         <dc:description>Reproduktion einer Illustration von Alfred Rethel "Auch ein Totentanz"</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/3/4</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 gedr. S)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2932207">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2932207"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2932207"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2932207">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-54613">
+         <dc:identifier>DE-611-BF-54613</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <rdau:P60849>FDJ-Volkstanzgruppe (Zeitz) (1945-)</rdau:P60849>
+         <dc:title>NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt (Titel)</dc:title>
+         <bf:shelfMark>4</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-54613">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-54613"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-54613"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-54613">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2950387">
+         <dc:identifier>DE-611-HS-2950387</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</dcterms:isPartOf>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <dc:contributor>Tanzgruppe des Kulturhauses "Weltfrieden"</dc:contributor>
+         <dc:title>Korrespondenz (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Korrespondenz an Helene Schmidt betreffend Auftritte ihrer Tanzgruppen in Zeitz</dc:description>
+         <dcterms:created rdf:resource="1967-01-01T00:00:00Z_1972-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/4/1</bf:shelfMark>
+         <dcterms:extent>5 Bl. (5 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2950387">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2950387"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2950387"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2950387">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2950389">
+         <dc:identifier>DE-611-HS-2950389</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <dc:contributor>Tanzgruppe des Kulturhauses "Weltfrieden"</dc:contributor>
+         <dc:title>Handschriftliche Programme (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Handschriftliche Programmabläufe (verschiedene Schreiber); Terminplanungen für Auftritte</dc:description>
+         <dcterms:created rdf:resource="1966-01-01T00:00:00Z_1972-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/4/2</bf:shelfMark>
+         <dcterms:extent>64 Bl. (71 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2950389">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2950389"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2950389"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2950389">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2950391">
+         <dc:identifier>DE-611-HS-2950391</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <dc:contributor>Tanzgruppe des Kulturhauses "Weltfrieden"</dc:contributor>
+         <dc:title>Programmabfolgen (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Programmabfolgen für verschiedene Auftritte; mit hanfschriftlichen Anmerkungen</dc:description>
+         <dcterms:created rdf:resource="1966-01-01T00:00:00Z_1971-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/4/3</bf:shelfMark>
+         <dcterms:extent>27 Bl. (27 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2950391">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2950391"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2950391"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2950391">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2950393">
+         <dc:identifier>DE-611-HS-2950393</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1023934574"/>
+         <dc:contributor>Tanzgruppe des Kulturhauses "Weltfrieden"</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_105039206X"/>
+         <dc:title>Programmhefte (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>3 Programmhefte "Im Tanz der Jahreszeiten" Staatliches Dorfensemble der DDR, Indendant Heinz-Andreas Ehm (1968) - Programm für das Wohnbezirksfest ... sowie des Kulturhauses Weltfrieden (1970/71)</dc:description>
+         <dcterms:created rdf:resource="1968-01-01T00:00:00Z_1970-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/4/4</bf:shelfMark>
+         <dcterms:extent>3 gedr. Hefte</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2950393">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2950393"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2950393"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2950393">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2950394">
+         <dc:identifier>DE-611-HS-2950394</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</dcterms:isPartOf>
+         <dc:contributor>Tanzgruppe des Kulturhauses "Weltfrieden"</dc:contributor>
+         <dc:contributor>Tanzgruppe des Kulturhauses der Eisenbahner</dc:contributor>
+         <dc:title>Zeitungsausschnitte (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Diverse Zeitungsausschnitte, berichtetend zu Auftritten der Zeitzer Tanzgruppen</dc:description>
+         <dcterms:created rdf:resource="1956-01-01T00:00:00Z_1971-12-31T23:59:59Z"/>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/4/5</bf:shelfMark>
+         <dcterms:extent>66 Zeitungsausschnitte</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2950394">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2950394"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2950394"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2950394">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2950395">
+         <dc:identifier>DE-611-HS-2950395</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <dc:title>Sammlung Gedichte, Lieder (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Sammlung zahlreicher Gedichte, Lieder etc. für Auftritte</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/4/6</bf:shelfMark>
+         <dcterms:extent>28 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2950395">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2950395"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2950395"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2950395">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3136889">
+         <dc:identifier>DE-611-HS-3136889</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <dc:title>Kindertänze Weihnachten (Manuskripttitel)</dc:title>
+         <dc:description>Materialsammlung von Kindertänzen (Tanzbeschreibungen, Noten) für die Weihnachtszeit, zusammengetragen von Helene Schmidt</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/4/8</bf:shelfMark>
+         <dcterms:extent>45 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3136889">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3136889"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3136889"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3136889">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3136907">
+         <dc:identifier>DE-611-HS-3136907</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <dc:title>Weihnachts-Tänze (Manuskripttitel)</dc:title>
+         <dc:description>Materialsammlung von Noten, Texten, Tanzbeschreibungen zu Weihnachten , zusammengetragen von Helene Schmidt</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/4/9</bf:shelfMark>
+         <dcterms:extent>33 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3136907">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3136907"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3136907"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3136907">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3136911">
+         <dc:identifier>DE-611-HS-3136911</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <dc:title>Weihnachts-Lieder, -Gedichte, -Tänze (Manuskripttitel)</dc:title>
+         <dc:description>Materialsammlung von Lieder, Tänzen, Gedichten zur Weihnachtszeit, zusammengetragen von Helene Schmidt</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/4/7</bf:shelfMark>
+         <dcterms:extent>34 Bl., 1 A4-Notitzheft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3136911">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3136911"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3136911"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3136911">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3136937">
+         <dc:identifier>DE-611-HS-3136937</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <dc:title>Notizbücher (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Notizbücher von Helene Schmidt mit handschriftlichen Aufzeichnungen: Tänze, Gedichte, Lieder u.ä.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/4/10</bf:shelfMark>
+         <dcterms:extent>8 Notizbücher</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3136937">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3136937"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3136937"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3136937">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3136959">
+         <dc:identifier>DE-611-HS-3136959</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1078872724"/>
+         <dc:contributor>FDJ-Volkstanzgruppe (Zeitz) (1945-)</dc:contributor>
+         <dc:title>Einzelne Tänze (Manuskripttitel)</dc:title>
+         <dc:description>Materialsammlung einzelner Volkstänze (Noten, Tanzbeschreibungen), zusammengetragen von Helene Schmidt</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 362/4/11</bf:shelfMark>
+         <dcterms:extent>99 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3136959">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3136959"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3136959"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3136959">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+</rdf:Bag>

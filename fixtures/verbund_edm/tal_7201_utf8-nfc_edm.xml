@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:Bag xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_007942796">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_007942796"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-015575586"/>
+         <edm:isShownAt rdf:resource="http://www.gbv.de/dms/hbz/toc/ht003366417.pdf"/>
+         <edm:isShownAt rdf:resource="http://d-nb.info/810225050/04"/>
+         <edm:isShownAt rdf:resource="http://digitale-objekte.hbz-nrw.de/webclient/DeliveryManager?pid=2460837&amp;custom_att_2=simple_viewer"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-015575586">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://www.gbv.de/dms/hbz/toc/ht003366417.pdf">
+         <dc:description>Inhaltsverzeichnis; Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://d-nb.info/810225050/04">
+         <dc:description>Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://digitale-objekte.hbz-nrw.de/webclient/DeliveryManager?pid=2460837&amp;custom_att_2=simple_viewer">
+         <dc:description>Inhaltsverzeichnis; Stuttgarter Ballett</dc:description>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_007942796">
+         <dc:identifier>007942796</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>81,A13,0598</dc:identifier>
+         <dc:identifier>810225050</dc:identifier>
+         <bibo:isbn>3921617456</bibo:isbn>
+         <dc:identifier>(DE-627)015575586</dc:identifier>
+         <dc:identifier>(DE-576)007942796</dc:identifier>
+         <dc:identifier>(DE-599)GBV015575586</dc:identifier>
+         <dc:identifier>(OCoLC)8233357</dc:identifier>
+         <dc:identifier>(OCoLC)08233357</dc:identifier>
+         <dc:identifier>(DE-604)8010097333</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sfb): TH 395</dc:subject>
+         <dc:subject>Klassifikation (sdnb): 13a</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 88315</dc:subject>
+         <dc:subject>Klassifikation (bkl): 24.15</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_119529564"/>
+         <dc:title>Stuttgarter Ballett</dc:title>
+         <dc:description xml:lang="de">Weitere Angaben: Hannes Kilian</dc:description>
+         <rdau:P60162>Weingarten</rdau:P60162>
+         <dc:publisher>Kunstverlag Weingarten</dc:publisher>
+         <dcterms:issued rdf:resource="1980-01-01T00:00:00Z_1980-12-31T23:59:59Z"
+                         rdf:label="1980"/>
+         <dcterms:extent xml:lang="de">271 S., überwiegend Ill.</dcterms:extent>
+         <dc:description xml:lang="de">Nebent.: Stuttgarter Ballett</dc:description>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4145395-5"/>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_026770458">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_026770458"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-015556522"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-015556522">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_026770458">
+         <dc:identifier>026770458</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>921015038</dc:identifier>
+         <bibo:isbn>9152002691</bibo:isbn>
+         <dc:identifier>(DE-627)015556522</dc:identifier>
+         <dc:identifier>(DE-576)026770458</dc:identifier>
+         <dc:identifier>(DE-599)GBV015556522</dc:identifier>
+         <dc:identifier>(OCoLC)246894757</dc:identifier>
+         <dc:identifier>(OCoLC)65820880</dc:identifier>
+         <dc:identifier>(DE-604)8055765173</dc:identifier>
+         <dc:identifier>(DE-478)952141793</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sfb): LIT 53 (50)</dc:subject>
+         <dc:subject>Klassifikation (sdnb): 54 / 22</dc:subject>
+         <dc:subject>Klassifikation (ssgn): 7,22</dc:subject>
+         <dc:subject>Klassifikation (rvk): GW 5340</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_113085060"/>
+         <dc:title>Das schwedische Kinderbuch</dc:title>
+         <dc:description xml:lang="de">Weitere Angaben: Boel Westin</dc:description>
+         <rdau:P60162>[Stockholm]</rdau:P60162>
+         <dc:publisher>Das Schwedische Institut</dc:publisher>
+         <dcterms:issued rdf:resource="1991-01-01T00:00:00Z_1991-12-31T23:59:59Z"
+                         rdf:label="1991"/>
+         <dcterms:extent xml:lang="de">71 S, zahlr. Ill, 21 cm</dcterms:extent>
+         <dc:description xml:lang="de">Aus d. Schwed. übers</dc:description>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_021220778">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_021220778"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-015544389"/>
+         <edm:isShownAt rdf:resource="http://d-nb.info/900263849/04"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-015544389">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://d-nb.info/900263849/04">
+         <dc:description>Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_021220778">
+         <dc:identifier>021220778</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>90,N09,0541</dc:identifier>
+         <dc:identifier>900263849</dc:identifier>
+         <bibo:isbn>3817040032</bibo:isbn>
+         <dc:identifier>(DE-627)015544389</dc:identifier>
+         <dc:identifier>(DE-576)021220778</dc:identifier>
+         <dc:identifier>(DE-599)GBV015544389</dc:identifier>
+         <dc:identifier>(OCoLC)23118456</dc:identifier>
+         <dc:identifier>(OCoLC)23118456</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sfb): SPO 120</dc:subject>
+         <dc:subject>Klassifikation (sfb): SPO 667</dc:subject>
+         <dc:subject>Klassifikation (sfb): TH 365 (10)</dc:subject>
+         <dc:subject>Klassifikation (sdnb): 49</dc:subject>
+         <dc:subject>Klassifikation (rvk): ZY 5020</dc:subject>
+         <dc:subject>Klassifikation (bkl): 24.15</dc:subject>
+         <rdau:P60434>Rebel, Günther</rdau:P60434>
+         <dc:title>Modern Jazz Ballett</dc:title>
+         <dc:description xml:lang="de">Weitere Angaben: Günther Rebel. Mit Fotos von Michael Hörnschemeyer</dc:description>
+         <rdau:P60162>Weingarten</rdau:P60162>
+         <dc:publisher>Kunstverl. Weingarten</dc:publisher>
+         <dcterms:issued rdf:resource="1990-01-01T00:00:00Z_1990-12-31T23:59:59Z"
+                         rdfs:label="c 1990"/>
+         <dcterms:extent xml:lang="de">144 S., zahlr. Ill., 28 cm</dcterms:extent>
+         <dc:description xml:lang="de">Literaturverz. S. 140 - 141</dc:description>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4028536-4"/>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4145395-5"/>
+         <rdau:P60396>Hörnschemeyer, Michael</rdau:P60396>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_045503214">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_045503214"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-015533220"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-015533220">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_045503214">
+         <dc:identifier>045503214</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <bibo:isbn>3485006238</bibo:isbn>
+         <dc:identifier>(DE-627)015533220</dc:identifier>
+         <dc:identifier>(DE-576)045503214</dc:identifier>
+         <dc:identifier>(DE-599)GBV015533220</dc:identifier>
+         <dc:identifier>(OCoLC)35807849</dc:identifier>
+         <dc:identifier>(OCoLC)35807849</dc:identifier>
+         <dc:identifier>(OCoLC)231212674</dc:identifier>
+         <dc:identifier>(DE-Rt5)1629336</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sfb): TH 365</dc:subject>
+         <dc:subject>Klassifikation (rvk): LR 53187</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 87860</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 88000</dc:subject>
+         <dc:subject>Klassifikation (bkl): 24.15</dc:subject>
+         <rdau:P60434>Gackstetter, Dieter</rdau:P60434>
+         <dc:title>Ballett und Tanztheater</dc:title>
+         <dc:description xml:lang="de">Weitere Angaben: Dieter Gackstetter; Maria Pinzl</dc:description>
+         <rdau:P60162>München</rdau:P60162>
+         <dc:publisher>Nymphenburger Verl.</dc:publisher>
+         <dcterms:issued rdf:resource="1990-01-01T00:00:00Z_1990-12-31T23:59:59Z"
+                         rdf:label="1990"/>
+         <dcterms:extent xml:lang="de">143 S, überwiegend Ill, 29 cm</dcterms:extent>
+         <rdau:P60434>Pinzl, Maria</rdau:P60434>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_018170838">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_018170838"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-015511758"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-015511758">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_018170838">
+         <dc:identifier>018170838</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <bibo:isbn>3761809514</bibo:isbn>
+         <dc:identifier>(DE-627)015511758</dc:identifier>
+         <dc:identifier>(DE-576)018170838</dc:identifier>
+         <dc:identifier>(DE-599)GBV015511758</dc:identifier>
+         <dc:identifier>(OCoLC)43580264</dc:identifier>
+         <dc:identifier>(OCoLC)43580264</dc:identifier>
+         <dc:identifier>(OCoLC)299596115</dc:identifier>
+         <dc:identifier>(DE-Rt5)1338873</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:language>fre</dc:language>
+         <dc:subject>Klassifikation (sfb): TECH 846 DEL</dc:subject>
+         <dc:subject>Klassifikation (sfb): TECH 856 (10)</dc:subject>
+         <dc:subject>Klassifikation (sfb): TH 435 BAU</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 87350</dc:subject>
+         <dc:subject>Klassifikation (bkl): 24.01</dc:subject>
+         <dc:title>Pina Bausch</dc:title>
+         <dc:description xml:lang="de">Weitere Angaben: Photographien von Delahaye. Texte von Patrick Tacussel, Guy Delahaye und Rudolf Kimmig</dc:description>
+         <dc:description xml:lang="de">Auflage:  1. Aufl.</dc:description>
+         <rdau:P60162>Kassel</rdau:P60162>
+         <dc:publisher>Bärenreiter</dc:publisher>
+         <dcterms:issued rdf:resource="1989-01-01T00:00:00Z_1989-12-31T23:59:59Z"
+                         rdf:label="1989"/>
+         <dcterms:extent xml:lang="de">185 S., überw. Ill, 32 cm</dcterms:extent>
+         <dc:description xml:lang="de">Aus d. Franz. übers</dc:description>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4145395-5"/>
+         <rdau:P60396 rdf:resource="http://performing-arts.eu/agent/gnd_133674754"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1033388467"/>
+         <dc:contributor>Kimmig, Rudolf</dc:contributor>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_017115108">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_017115108"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-015367983"/>
+         <edm:isShownAt rdf:resource="http://d-nb.info/880529423/04"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-015367983">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://d-nb.info/880529423/04">
+         <dc:description>Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_017115108">
+         <dc:identifier>017115108</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>88,N41,0360</dc:identifier>
+         <dc:identifier>880529423</dc:identifier>
+         <bibo:isbn>3258039712</bibo:isbn>
+         <dc:identifier>(DE-627)015367983</dc:identifier>
+         <dc:identifier>(DE-576)017115108</dc:identifier>
+         <dc:identifier>(DE-599)GBV015367983</dc:identifier>
+         <dc:identifier>(OCoLC)22237135</dc:identifier>
+         <dc:identifier>(OCoLC)230980558</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sfb): TH 365 (10)</dc:subject>
+         <dc:subject>Klassifikation (sfb): TH 435 LAB</dc:subject>
+         <dc:subject>Klassifikation (sdnb): 49</dc:subject>
+         <dc:subject>Klassifikation (rvk): LR 53182</dc:subject>
+         <rdau:P60434>Perrottet, Claude</rdau:P60434>
+         <dc:title>Ausdruck in Bewegung und Tanz</dc:title>
+         <bf:subtitle>ein Handbuch der Bewegungs- und Tanzerziehung auf der Grundlage der Konzepte Rudolf von Labans</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Claude Perrottet</dc:description>
+         <dc:description xml:lang="de">Auflage:  2., durchges. und erw. Aufl</dc:description>
+         <rdau:P60162>Bern</rdau:P60162>
+         <rdau:P60162>Stuttgart</rdau:P60162>
+         <dc:publisher>Haupt</dc:publisher>
+         <dcterms:issued rdf:resource="1988-01-01T00:00:00Z_1988-12-31T23:59:59Z"
+                         rdf:label="1988"/>
+         <dcterms:extent xml:lang="de">111 S, graph. Darst, 23 cm</dcterms:extent>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4069418-5"/>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4134757-2"/>
+         <dc:contributor>Labans, Rudolf von</dc:contributor>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_018348076">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_018348076"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-015357449"/>
+         <edm:isShownAt rdf:resource="http://d-nb.info/881287687/04"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-015357449">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://d-nb.info/881287687/04">
+         <dc:description>Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_018348076">
+         <dc:identifier>018348076</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>881287687</dc:identifier>
+         <bibo:isbn>3881840818</bibo:isbn>
+         <dc:identifier>(DE-627)015357449</dc:identifier>
+         <dc:identifier>(DE-576)018348076</dc:identifier>
+         <dc:identifier>(DE-599)GBV015357449</dc:identifier>
+         <dc:identifier>(OCoLC)75041373</dc:identifier>
+         <dc:identifier>(OCoLC)75041373</dc:identifier>
+         <dc:identifier>(DE-Rt5)1093704</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sfb): TH 365</dc:subject>
+         <dc:subject>Klassifikation (sdnb): 49</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 88000</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 88150</dc:subject>
+         <dc:subject>Klassifikation (bkl): 24.15</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/DE-627_1235748685"/>
+         <dcterms:alternative>Next week, Swan lake &lt;dt.&gt;</dcterms:alternative>
+         <dc:title>Nächste Woche, Schwanensee</dc:title>
+         <bf:subtitle>über den Tanz und das Tanzen</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Selma Jeanne Cohen. [Ins Dt. übertr. von Milena Evers]</dc:description>
+         <rdau:P60162>Frankfurt am Main</rdau:P60162>
+         <dc:publisher>Fricke</dc:publisher>
+         <dcterms:issued rdf:resource="1988-01-01T00:00:00Z_1988-12-31T23:59:59Z"
+                         rdf:label="1988"/>
+         <dcterms:extent xml:lang="de">212 S, Ill, 24 cm</dcterms:extent>
+         <dc:description xml:lang="de">Literaturverz. S. 194 - 205</dc:description>
+         <dc:description xml:lang="de">Literaturverz. S. 194 - 205</dc:description>
+         <dc:subject>Ballett</dc:subject>
+      </edm:ProvidedCHO>
+      <foaf:Person rdf:about="http://performing-arts.eu/agent/DE-627_1235748685">
+         <skos:prefLabel>Cohen, Selma Jeanne</skos:prefLabel>
+         <dc:identifier>(DE-627)1235748685</dc:identifier>
+         <dc:identifier>(DE-576)165748680</dc:identifier>
+      </foaf:Person>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_028014820">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_028014820"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-015311732"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-015311732">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_028014820">
+         <dc:identifier>028014820</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>84156172</dc:identifier>
+         <dc:identifier>83,N34,0319</dc:identifier>
+         <dc:identifier>84,A04,0831</dc:identifier>
+         <dc:identifier>830866418</dc:identifier>
+         <bibo:isbn>3790403865</bibo:isbn>
+         <dc:identifier>(DE-627)015311732</dc:identifier>
+         <dc:identifier>(DE-576)028014820</dc:identifier>
+         <dc:identifier>(DE-599)GBV015311732</dc:identifier>
+         <dc:identifier>(OCoLC)19555870</dc:identifier>
+         <dc:identifier>(OCoLC)19555870</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sfb): TH 455</dc:subject>
+         <dc:subject>Klassifikation (sfb): REL 895</dc:subject>
+         <dc:subject>Klassifikation (sdnb): 49 / 12</dc:subject>
+         <dc:subject>Klassifikation (ssgn): 1</dc:subject>
+         <dc:subject>Klassifikation (rvk): BS 1310</dc:subject>
+         <dc:subject>Klassifikation (rvk): LR 56985</dc:subject>
+         <dc:subject>Klassifikation (rvk): ZY 5040</dc:subject>
+         <dc:subject>Klassifikation (bkl): 24.15</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/DE-627_1235624293"/>
+         <dc:title>Tanzen will ich</dc:title>
+         <bf:subtitle>Bewegung und Tanz in Gruppe und Gottesdienst</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Hilda-Maria Lander. Unter Mitarb. von Maria-Regina Zohner...</dc:description>
+         <rdau:P60162>München</rdau:P60162>
+         <dc:publisher>Pfeiffer</dc:publisher>
+         <dcterms:issued rdf:resource="1983-01-01T00:00:00Z_1983-12-31T23:59:59Z"
+                         rdf:label="1983"/>
+         <dcterms:extent xml:lang="de">290 S., Ill., Notenbeisp., 21 cm</dcterms:extent>
+         <dc:description xml:lang="de">Literaturverz. S. 288 - 290</dc:description>
+         <dc:description xml:lang="de">Über 20 religiöse Tänze werden detailliert beschrieben, so daß sie direkt in die Praxis umgesetzt werden können. Der Symbolgehalt wichtiger tänzerischer Grundelemente wird erläutert.</dc:description>
+         <dc:subject>Religious dance</dc:subject>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4151278-9"/>
+         <dc:contributor>Zohner, Maria-Regina</dc:contributor>
+         <dc:contributor>Malkmus, Annemarie</dc:contributor>
+         <bf:partNumber>165</bf:partNumber>
+         <dcterms:isPartOf>Pfeiffer-Werkbücher</dcterms:isPartOf>
+         <dcterms:isPartOf rdf:resource="http://performing-arts.eu/Record/TAL_013581201"/>
+      </edm:ProvidedCHO>
+      <foaf:Person rdf:about="http://performing-arts.eu/agent/DE-627_1235624293">
+         <skos:prefLabel>Lander, Hilda-Maria</skos:prefLabel>
+         <dc:identifier>(DE-627)1235624293</dc:identifier>
+         <dc:identifier>(DE-576)165624299</dc:identifier>
+      </foaf:Person>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_321540417">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_321540417"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-015295338"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-015295338">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_321540417">
+         <dc:identifier>321540417</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>84,A01,1136</dc:identifier>
+         <dc:identifier>840022611</dc:identifier>
+         <bibo:isbn>3875841077</bibo:isbn>
+         <dc:identifier>(DE-627)015295338</dc:identifier>
+         <dc:identifier>(DE-576)321540417</dc:identifier>
+         <dc:identifier>(DE-599)GBV015295338</dc:identifier>
+         <dc:identifier>(OCoLC)17203780</dc:identifier>
+         <dc:identifier>(OCoLC)720668854</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sdnb): 61 / 63</dc:subject>
+         <dc:subject>Klassifikation (rvk): RD 17013</dc:subject>
+         <dc:title>Stadtbild Bielefeld</dc:title>
+         <dc:description xml:lang="de">Weitere Angaben: fotografiert von Jörg Boström ...</dc:description>
+         <dc:description xml:lang="de">Auflage:  1. Aufl.</dc:description>
+         <rdau:P60162>Berlin</rdau:P60162>
+         <dc:publisher>Nicolai</dc:publisher>
+         <dcterms:issued rdf:resource="1983-01-01T00:00:00Z_1983-12-31T23:59:59Z"
+                         rdf:label="1983"/>
+         <dcterms:extent xml:lang="de">107 S., überwiegend Ill. (z.T. farb.)</dcterms:extent>
+         <dc:subject>Bielefeld / A.c. Abbildungen</dc:subject>
+         <rdau:P60396 rdf:resource="http://performing-arts.eu/agent/gnd_119327430"/>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_085270113">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_085270113"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-013706675"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-013706675">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_085270113">
+         <dc:identifier>085270113</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>B8753326</dc:identifier>
+         <bibo:isbn>0520063333</bibo:isbn>
+         <bibo:isbn>0520055497</bibo:isbn>
+         <bibo:isbn>9780520063334</bibo:isbn>
+         <dc:identifier>(DE-627)013706675</dc:identifier>
+         <dc:identifier>(DE-576)085270113</dc:identifier>
+         <dc:identifier>(DE-599)GBV013706675</dc:identifier>
+         <dc:identifier>(OCoLC)12420498</dc:identifier>
+         <dc:identifier>(OCoLC)12420498</dc:identifier>
+         <dc:identifier>(DE-604)8060381809</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>eng</dc:language>
+         <dc:subject>Klassifikation (rvk): LR 53185</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 87860</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 83800</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 83900</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/DE-627_1243517662"/>
+         <dc:title>Reading dancing</dc:title>
+         <bf:subtitle>bodies and subjects in contemporary American dance</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Susan Leigh Foster</dc:description>
+         <rdau:P60162>Berkeley, Cal. [u.a.]</rdau:P60162>
+         <dc:publisher>Univ. of California Press</dc:publisher>
+         <dcterms:issued rdf:resource="1986-01-01T00:00:00Z_1986-12-31T23:59:59Z"
+                         rdfs:label="c1986"/>
+         <dcterms:extent xml:lang="de">XXI, 307 S, Ill., Faks., graph. Darst, 22 cm</dcterms:extent>
+         <dc:description xml:lang="de">Bibliography: p263-285. - Includes index</dc:description>
+         <dc:subject>United States. Modern dance</dc:subject>
+         <dc:subject>Modern dance++United States</dc:subject>
+      </edm:ProvidedCHO>
+      <foaf:Person rdf:about="http://performing-arts.eu/agent/DE-627_1243517662">
+         <skos:prefLabel>Foster, Susan Leigh</skos:prefLabel>
+         <dc:identifier>(DE-627)1243517662</dc:identifier>
+         <dc:identifier>(DE-576)173517668</dc:identifier>
+      </foaf:Person>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_019333676">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_019333676"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-013520148"/>
+         <edm:isShownAt rdf:resource="http://swbplus.bsz-bw.de/bsz019333676inh.htm"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-013520148">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://swbplus.bsz-bw.de/bsz019333676inh.htm">
+         <dc:description>Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_019333676">
+         <dc:identifier>019333676</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>870077805</dc:identifier>
+         <bibo:isbn>3900359210</bibo:isbn>
+         <dc:identifier>(DE-627)013520148</dc:identifier>
+         <dc:identifier>(DE-576)019333676</dc:identifier>
+         <dc:identifier>(DE-599)GBV013520148</dc:identifier>
+         <dc:identifier>(OCoLC)16522557</dc:identifier>
+         <dc:identifier>(OCoLC)16522557</dc:identifier>
+         <dc:identifier>(OCoLC)1078745510</dc:identifier>
+         <dc:identifier>(DE-604)8004348702</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sfb): VO 670</dc:subject>
+         <dc:subject>Klassifikation (sfb): VO 652</dc:subject>
+         <dc:subject>Klassifikation (sfb): KU 985</dc:subject>
+         <dc:subject>Klassifikation (sdnb): 25</dc:subject>
+         <dc:subject>Klassifikation (ssgn): 9,10</dc:subject>
+         <dc:subject>Klassifikation (rvk): LC 12160</dc:subject>
+         <dc:subject>Klassifikation (rvk): LB 20160</dc:subject>
+         <dc:subject>Klassifikation (bkl): 73.86</dc:subject>
+         <dc:title>Unter der Bedeckung eines Hutes</dc:title>
+         <bf:subtitle>Hauben und Hüte in der Volkstracht : Katalog</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Österreichisches Museum für Volkskunde. [Ausstellung u. Katalog: Margot Schindler]</dc:description>
+         <rdau:P60162>Wien</rdau:P60162>
+         <dc:publisher>Selbstverl. d. Österreichischen Museums für Volkskunde</dc:publisher>
+         <dcterms:issued rdf:resource="1984-01-01T00:00:00Z_1984-12-31T23:59:59Z"
+                         rdf:label="1984"/>
+         <dcterms:extent xml:lang="de">133 S., Ill., Kt</dcterms:extent>
+         <dc:description xml:lang="de">Literaturverz. S. 131 - 133. - Ausstellungskatalog</dc:description>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4135467-9"/>
+         <dc:contributor>Schindler, Margot</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2020937-X"/>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_408682914">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_408682914"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-013406590"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-013406590">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_408682914">
+         <dc:identifier>408682914</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <bibo:isbn>963330203X</bibo:isbn>
+         <dc:identifier>(DE-627)013406590</dc:identifier>
+         <dc:identifier>(DE-576)408682914</dc:identifier>
+         <dc:identifier>(DE-599)GBV013406590</dc:identifier>
+         <dc:identifier>(OCoLC)46020706</dc:identifier>
+         <dc:identifier>(OCoLC)46020706</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>hun</dc:language>
+         <dc:subject>Klassifikation (rvk): AP 88000</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_104667982"/>
+         <dcterms:alternative>Friedrichs Balettlexikon &lt;ungar.&gt;</dcterms:alternative>
+         <dc:title>Balettlexikon</dc:title>
+         <dc:description xml:lang="de">Weitere Angaben: Horst Koegler. A magyar kiad. szerk Körtvélyes Géza. Ford.: Gelencsér Ágnes [u.a.]</dc:description>
+         <rdau:P60162>Budapest</rdau:P60162>
+         <dc:publisher>Zeneműkiadó</dc:publisher>
+         <dcterms:issued rdf:resource="1977-01-01T00:00:00Z_1977-12-31T23:59:59Z"
+                         rdf:label="1977"/>
+         <dcterms:extent xml:lang="de">779 S</dcterms:extent>
+         <dc:description xml:lang="de">Aus dem Dt. übers</dc:description>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4066724-8"/>
+         <dc:contributor>Körtvélyes, Géza</dc:contributor>
+         <dc:contributor>Gelencsér, Ágnes</dc:contributor>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_01055274X">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_01055274X"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-013032704"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-013032704">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_01055274X">
+         <dc:identifier>01055274X</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>80,B18,0807</dc:identifier>
+         <dc:identifier>800824989</dc:identifier>
+         <bibo:isbn>3885510073</bibo:isbn>
+         <dc:identifier>(DE-627)013032704</dc:identifier>
+         <dc:identifier>(DE-576)01055274X</dc:identifier>
+         <dc:identifier>(DE-599)GBV023367423</dc:identifier>
+         <dc:identifier>(OCoLC)29961810</dc:identifier>
+         <dc:identifier>(OCoLC)29961810</dc:identifier>
+         <dc:identifier>(OCoLC)1021315008</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sdnb): 13a</dc:subject>
+         <dc:subject>Klassifikation (rvk): LR 57210</dc:subject>
+         <dc:subject>Klassifikation (rvk): NP 3425</dc:subject>
+         <dc:subject>Klassifikation (bkl): 89.62</dc:subject>
+         <dc:title>Das Musikheim Frankfurt/Oder 1929-1941</dc:title>
+         <bf:subtitle>Beiträge der Jugendbewegung zur preußischen Kulturpolitik, Lehrerfortbildung und Erwachsenenbildung ; ein dokumentarischer Bericht</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: zsgest. von Erich Bitterhof. Mit einer Einl. von Karl Rode</dc:description>
+         <rdau:P60162>Witzenhausen</rdau:P60162>
+         <dc:publisher>Stiftung Jugendburg Ludwigstein u. Archiv der Dt. Jugendbewegung</dc:publisher>
+         <dcterms:issued rdf:resource="1980-01-01T00:00:00Z_1980-12-31T23:59:59Z"
+                         rdf:label="1980"/>
+         <dcterms:extent xml:lang="de">189 S., Ill.</dcterms:extent>
+         <dcterms:isPartOf>Schriftenreihe des Archivs der Deutschen Jugendbewegung</dcterms:isPartOf>
+         <bf:partNumber>3</bf:partNumber>
+         <dc:subject rdf:resource="http://performing-arts.eu/agent/gnd_1228020-3"/>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4162856-1"/>
+         <rdau:P61082>Bitterhof, Erich</rdau:P61082>
+         <dc:contributor>Rode, Karl</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2034515-X"/>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_10381017X">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_10381017X"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-012890812"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-012890812">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_10381017X">
+         <dc:identifier>10381017X</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>76483008</dc:identifier>
+         <bibo:isbn>3436018775</bibo:isbn>
+         <dc:identifier>(DE-627)012890812</dc:identifier>
+         <dc:identifier>(DE-576)10381017X</dc:identifier>
+         <dc:identifier>(DE-599)GBV012890812</dc:identifier>
+         <dc:identifier>(OCoLC)256041321</dc:identifier>
+         <dc:identifier>(OCoLC)256041321</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sdnb): 13a</dc:subject>
+         <dc:subject>Klassifikation (rvk): LS 48200</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_119369370"/>
+         <dc:title>Das Jazzbuch</dc:title>
+         <bf:subtitle>von Rag bis Rock ; Entwicklung, Elemente, Definition des Jazz, Musiker, Sänger, Combos, Big Bands, Electric Jazz, Jazz-Rock der siebziger Jahre ; mit ausführlicher Discographie</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Joachim Ernst Berendt</dc:description>
+         <dc:description xml:lang="de">Auflage:  458. - 472. Tsd.</dc:description>
+         <rdau:P60162>[Frankfurt am Main]</rdau:P60162>
+         <dc:publisher>Fischer-Taschenbuchverl.</dc:publisher>
+         <dcterms:issued rdf:resource="1977-01-01T00:00:00Z_1977-12-31T23:59:59Z"
+                         rdf:label="1977"/>
+         <dcterms:extent xml:lang="de">426 S., graph. Darst., Notenbeisp, 18 cm</dcterms:extent>
+         <dcterms:isPartOf>Fischer Taschenbücher</dcterms:isPartOf>
+         <bf:partNumber>6246 = Bücher des Wissens</bf:partNumber>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_009795839">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_009795839"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-012875570"/>
+         <edm:isShownAt rdf:resource="http://www.gbv.de/dms/hbz/toc/ht002912501.pdf"/>
+         <edm:isShownAt rdf:resource="http://digitale-objekte.hbz-nrw.de/webclient/DeliveryManager?pid=2462925&amp;custom_att_2=simple_viewer"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-012875570">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://www.gbv.de/dms/hbz/toc/ht002912501.pdf">
+         <dc:description>Inhaltsverzeichnis; Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://digitale-objekte.hbz-nrw.de/webclient/DeliveryManager?pid=2462925&amp;custom_att_2=simple_viewer">
+         <dc:description>Inhaltsverzeichnis; Das Ballett und die Künste</dc:description>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_009795839">
+         <dc:identifier>009795839</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <bibo:isbn>3922224024</bibo:isbn>
+         <dc:identifier>(DE-627)012875570</dc:identifier>
+         <dc:identifier>(DE-576)009795839</dc:identifier>
+         <dc:identifier>(DE-599)GBV012875570</dc:identifier>
+         <dc:identifier>(OCoLC)9646714</dc:identifier>
+         <dc:identifier>(OCoLC)310573192</dc:identifier>
+         <dc:identifier>(DE-604)8059885300</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:language>eng</dc:language>
+         <dc:subject>Klassifikation (sfb): TH 350</dc:subject>
+         <dc:subject>Klassifikation (sfb): TH 365</dc:subject>
+         <dc:subject>Klassifikation (rvk): LR 53180</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 88000</dc:subject>
+         <dc:title>Das Ballett und die Künste</dc:title>
+         <bf:subtitle>25 Jahre Internationale Sommerakademie des Tanzes, Köln = Ballet and the arts</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Lindemann, Stewart W. u.a. [Übers.]. Internationale Sommerakademie des Tanzes, Köln</dc:description>
+         <dcterms:alternative>Ballet and the arts</dcterms:alternative>
+         <dcterms:alternative>Ballet and the arts</dcterms:alternative>
+         <rdau:P60162>Köln</rdau:P60162>
+         <dc:publisher>Ballett-Bühnen-Verl.</dc:publisher>
+         <dcterms:issued rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"
+                         rdf:label="1981"/>
+         <dcterms:extent xml:lang="de">238 S, Ill, 31 cm</dcterms:extent>
+         <dc:description xml:lang="de">Text teilw. dt und engl</dc:description>
+         <rdau:P60385>Lindemann, Stewart W.</rdau:P60385>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_104667982"/>
+         <dc:contributor>Internationale Sommerakademie des Tanzes, Köln</dc:contributor>
+         <edm:wasPresentAt rdf:resource="http://performing-arts.eu/event/gnd_2069807-0"/>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_077999703">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_077999703"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-012725439"/>
+         <edm:isShownAt rdf:resource="http://digitale-objekte.hbz-nrw.de/webclient/DeliveryManager?pid=2462937&amp;custom_att_2=simple_viewer"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-012725439">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://digitale-objekte.hbz-nrw.de/webclient/DeliveryManager?pid=2462937&amp;custom_att_2=simple_viewer">
+         <dc:description>Inhaltsverzeichnis; Der Traum vom Ballett</dc:description>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_077999703">
+         <dc:identifier>077999703</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>80,A49,0581</dc:identifier>
+         <bibo:isbn>3275007475</bibo:isbn>
+         <dc:identifier>(DE-627)012725439</dc:identifier>
+         <dc:identifier>(DE-576)077999703</dc:identifier>
+         <dc:identifier>(DE-599)GBV012725439</dc:identifier>
+         <dc:identifier>(OCoLC)83397873</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sdnb): 13a</dc:subject>
+         <dc:subject>Klassifikation (rvk): LR 53188</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 87500</dc:subject>
+         <rdau:P60434>Cosi, Liliana</rdau:P60434>
+         <dcterms:alternative>Sarò ballerina &lt;dt.&gt;</dcterms:alternative>
+         <dc:title>Der Traum vom Ballett</dc:title>
+         <bf:subtitle>eine Einführung in die Welt des klassischen Tanzes</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Liliana Cosi. [Aus d. Italien. übers. von Eva Ferrario]</dc:description>
+         <rdau:P60162>Rüschlikon-Zürich</rdau:P60162>
+         <rdau:P60162>Stuttgart</rdau:P60162>
+         <rdau:P60162>Wien</rdau:P60162>
+         <dc:publisher>Müller</dc:publisher>
+         <dcterms:issued rdf:resource="1980-01-01T00:00:00Z_1980-12-31T23:59:59Z"
+                         rdf:label="1980"/>
+         <dcterms:extent xml:lang="de">61 S., zahlr. Ill.</dcterms:extent>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4151278-9"/>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_026750899">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_026750899"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-012613975"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-012613975">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_026750899">
+         <dc:identifier>026750899</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>81,A02,0378</dc:identifier>
+         <dc:identifier>810022621</dc:identifier>
+         <bibo:isbn>3884530100</bibo:isbn>
+         <dc:identifier>(DE-627)012613975</dc:identifier>
+         <dc:identifier>(DE-576)026750899</dc:identifier>
+         <dc:identifier>(DE-599)GBV012613975</dc:identifier>
+         <dc:identifier>(OCoLC)180429341</dc:identifier>
+         <dc:identifier>(OCoLC)180429341</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sfb): TH 435 BEJ 2</dc:subject>
+         <dc:subject>Klassifikation (sdnb): 13a</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 87350</dc:subject>
+         <dc:subject>Klassifikation (rvk): LR 53186</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118508547"/>
+         <dcterms:alternative>Un instant dans la vie d autrui &lt;dt.&gt;</dcterms:alternative>
+         <dc:title>Ein Augenblick in der Haut eines anderen</dc:title>
+         <bf:subtitle>Memoiren</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Maurice Béjart</dc:description>
+         <rdau:P60162>München</rdau:P60162>
+         <dc:publisher>Noack-Hübner</dc:publisher>
+         <dcterms:issued rdf:resource="1980-01-01T00:00:00Z_1980-12-31T23:59:59Z"
+                         rdf:label="1980"/>
+         <dcterms:extent xml:lang="de">282 S, Ill.</dcterms:extent>
+         <dc:subject>Béjart, Maurice / Biographie</dc:subject>
+         <dc:subject>Biographie / Tänzer / Einz. Pers. Béjart, M.</dc:subject>
+         <dc:subject>Lebenserinnerungen / Tänzer / Einz. Pers. Béjart, M.</dc:subject>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4003939-0"/>
+         <rdau:P60385 rdf:resource="http://performing-arts.eu/agent/DE-627_1234287439"/>
+      </edm:ProvidedCHO>
+      <foaf:Person rdf:about="http://performing-arts.eu/agent/DE-627_1234287439">
+         <skos:prefLabel>Kobbert, Ursula</skos:prefLabel>
+         <dc:identifier>(DE-627)1234287439</dc:identifier>
+         <dc:identifier>(DE-576)164287434</dc:identifier>
+      </foaf:Person>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_037870076">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_037870076"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-012403091"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-012403091">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_037870076">
+         <dc:identifier>037870076</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>80,N14,0247</dc:identifier>
+         <dc:identifier>80,A31,0908</dc:identifier>
+         <bibo:isbn>376309038X</bibo:isbn>
+         <dc:identifier>(DE-627)012403091</dc:identifier>
+         <dc:identifier>(DE-576)037870076</dc:identifier>
+         <dc:identifier>(DE-599)GBV012403091</dc:identifier>
+         <dc:identifier>(OCoLC)76701158</dc:identifier>
+         <dc:identifier>(OCoLC)76701158</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sfb): TH 435 PAN 1</dc:subject>
+         <dc:subject>Klassifikation (rvk): LR 53186</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 81750</dc:subject>
+         <dc:subject>Klassifikation (bkl): 24.01</dc:subject>
+         <dc:subject>Klassifikation (bkl): 15.74</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118591576"/>
+         <dcterms:alternative>To dance &lt;dt.&gt;</dcterms:alternative>
+         <dc:title>Ballett</dc:title>
+         <bf:subtitle>mein Leben</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Valery Panov ; unter Mitarbeit von George Feifer ; aus dem Englischen übertragen von Marieluise Desing</dc:description>
+         <rdau:P60162>Stuttgart [u.a.]</rdau:P60162>
+         <dc:publisher>Belser</dc:publisher>
+         <dcterms:issued rdf:resource="1980-01-01T00:00:00Z_1980-12-31T23:59:59Z"
+                         rdf:label="1980"/>
+         <dcterms:extent xml:lang="de">463 S., Ill.</dcterms:extent>
+         <dc:subject>Panov, Valery</dc:subject>
+         <dc:subject>Ballett</dc:subject>
+         <dc:subject>Lebenserinnerungen / Tänzer / Einz. Pers. Panov, V.</dc:subject>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4003939-0"/>
+         <dc:contributor>Feifer, George</dc:contributor>
+         <dc:contributor>Desing, Marieluise</dc:contributor>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_025647385">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_025647385"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-01201401X"/>
+         <edm:isShownAt rdf:resource="http://d-nb.info/850365163/04"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-01201401X">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://d-nb.info/850365163/04">
+         <dc:description>Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_025647385">
+         <dc:identifier>025647385</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>85,A18,0603</dc:identifier>
+         <dc:identifier>850365163</dc:identifier>
+         <bibo:isbn>3463400065</bibo:isbn>
+         <dc:identifier>(DE-627)01201401X</dc:identifier>
+         <dc:identifier>(DE-576)025647385</dc:identifier>
+         <dc:identifier>(DE-599)GBV01201401X</dc:identifier>
+         <dc:identifier>(OCoLC)74679667</dc:identifier>
+         <dc:identifier>(OCoLC)74679667</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sfb): TH 435 BAR</dc:subject>
+         <dc:subject>Klassifikation (rvk): ZX 3850</dc:subject>
+         <dc:subject>Klassifikation (bkl): 24.01</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/DE-627_1238180949"/>
+         <dcterms:alternative>Baryshnikov in Russia &lt;dt.&gt;</dcterms:alternative>
+         <dc:title>Baryschnikow</dc:title>
+         <bf:subtitle>die frühen Jahre</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Nina Alovert. [Aus d. Amerikan. von Christa E. Seibicke]</dc:description>
+         <rdau:P60162>München</rdau:P60162>
+         <dc:publisher>Kindler</dc:publisher>
+         <dcterms:issued rdf:resource="1985-01-01T00:00:00Z_1985-12-31T23:59:59Z"
+                         rdf:label="1985"/>
+         <dcterms:extent xml:lang="de">223 S., zahlr. Ill.</dcterms:extent>
+         <dc:description xml:lang="de">Nina Alovert: "Baryschnikow. Die frühen Jahre". Eine Biographie. Aus dem Amerikanischen von Christa E. Seibicke. Kindler Verlag. München 1985. 224 S., zahlr. Abb., geb., 78,- Mark</dc:description>
+         <dc:subject>Baryšnikov, Michail N.</dc:subject>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4006804-3"/>
+      </edm:ProvidedCHO>
+      <foaf:Person rdf:about="http://performing-arts.eu/agent/DE-627_1238180949">
+         <skos:prefLabel>Alovert, Nina</skos:prefLabel>
+         <dc:identifier>(DE-627)1238180949</dc:identifier>
+         <dc:identifier>(DE-576)168180944</dc:identifier>
+      </foaf:Person>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_009999213">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_009999213"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-01201172X"/>
+         <edm:isShownAt rdf:resource="http://d-nb.info/850364132/04"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-01201172X">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://d-nb.info/850364132/04">
+         <dc:description>Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_009999213">
+         <dc:identifier>009999213</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>85,N16,0301</dc:identifier>
+         <dc:identifier>85,A36,0819</dc:identifier>
+         <dc:identifier>850364132</dc:identifier>
+         <bibo:isbn>3802521668</bibo:isbn>
+         <dc:identifier>(DE-627)01201172X</dc:identifier>
+         <dc:identifier>(DE-576)009999213</dc:identifier>
+         <dc:identifier>(DE-599)GBV01201172X</dc:identifier>
+         <dc:identifier>(OCoLC)35814554</dc:identifier>
+         <dc:identifier>(OCoLC)144800837</dc:identifier>
+         <dc:identifier>(DE-604)8009709606</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:language>eng</dc:language>
+         <dc:subject>Klassifikation (sfb): TH 380</dc:subject>
+         <dc:subject>Klassifikation (sfb): TH 435</dc:subject>
+         <dc:subject>Klassifikation (sdnb): 49</dc:subject>
+         <dc:subject>Klassifikation (rvk): ZY 5070</dc:subject>
+         <dc:subject>Klassifikation (bkl): 24.15</dc:subject>
+         <rdau:P60434>Clarke, Mary</rdau:P60434>
+         <dcterms:alternative>Dancer &lt;dt.&gt;</dcterms:alternative>
+         <dc:title>Tänzer</dc:title>
+         <dc:description xml:lang="de">Weitere Angaben: Mary Clarke und Clement Crisp. [Übers.: Jutta Zipprich]</dc:description>
+         <dc:description xml:lang="de">Auflage:  1. Aufl.</dc:description>
+         <rdau:P60162>Köln</rdau:P60162>
+         <dc:publisher>Verl.-Ges. Schulfernsehen</dc:publisher>
+         <dcterms:issued rdf:resource="1985-01-01T00:00:00Z_1985-12-31T23:59:59Z"
+                         rdf:label="1985"/>
+         <dcterms:extent xml:lang="de">208 S, zahlr. Ill, 28 cm</dcterms:extent>
+         <dc:subject>Tänzer</dc:subject>
+         <dc:subject>Tanz</dc:subject>
+         <rdau:P60434>Crisp, Clement</rdau:P60434>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_063324202">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_063324202"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-011828390"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-011828390">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_063324202">
+         <dc:identifier>063324202</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <bibo:isbn>3630618707</bibo:isbn>
+         <dc:identifier>(DE-627)011828390</dc:identifier>
+         <dc:identifier>(DE-576)063324202</dc:identifier>
+         <dc:identifier>(DE-599)GBV011828390</dc:identifier>
+         <dc:identifier>(OCoLC)21461482</dc:identifier>
+         <dc:identifier>(OCoLC)21461482</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (rvk): AP 73900</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 88750</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118577476"/>
+         <dc:title>Die Weltkunst der Pantomime</dc:title>
+         <dc:description xml:lang="de">Weitere Angaben: Marcel Marceau. Nach Gesprächen aufgez. von Herbert Jhering</dc:description>
+         <rdau:P60162>Frankfurt am Main</rdau:P60162>
+         <dc:publisher>Luchterhand Literaturverl.</dc:publisher>
+         <dcterms:issued rdf:resource="1989-01-01T00:00:00Z_1989-12-31T23:59:59Z"
+                         rdf:label="1989"/>
+         <dcterms:extent xml:lang="de">103 S, Ill</dcterms:extent>
+         <dcterms:isPartOf>Sammlung Luchterhand</dcterms:isPartOf>
+         <bf:partNumber>870</bf:partNumber>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118708627"/>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_006460615">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_006460615"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-010862676"/>
+         <edm:isShownAt rdf:resource="http://www.gbv.de/dms/hbz/toc/ht000292946.pdf"/>
+         <edm:isShownAt rdf:resource="http://d-nb.info/780255003/04"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-010862676">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://www.gbv.de/dms/hbz/toc/ht000292946.pdf">
+         <dc:description>Inhaltsverzeichnis; Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://d-nb.info/780255003/04">
+         <dc:description>Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_006460615">
+         <dc:identifier>006460615</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>78,A26,0618</dc:identifier>
+         <dc:identifier>780255003</dc:identifier>
+         <bibo:isbn>3485018198</bibo:isbn>
+         <dc:identifier>(DE-627)010862676</dc:identifier>
+         <dc:identifier>(DE-576)006460615</dc:identifier>
+         <dc:identifier>(DE-599)GBV010862676</dc:identifier>
+         <dc:identifier>(OCoLC)4113092</dc:identifier>
+         <dc:identifier>(OCoLC)310467466</dc:identifier>
+         <dc:identifier>(DE-604)8036055360</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (asb): Scn 1</dc:subject>
+         <dc:subject>Klassifikation (sfb): TH 380</dc:subject>
+         <dc:subject>Klassifikation (sfb): TH 435</dc:subject>
+         <dc:subject>Klassifikation (sdnb): 13a</dc:subject>
+         <dc:subject>Klassifikation (rvk): LR 53180</dc:subject>
+         <dc:subject>Klassifikation (rvk): ZY 5070</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 88000</dc:subject>
+         <rdau:P60434>Niehaus, Max</rdau:P60434>
+         <dc:title>Ballett-Faszination</dc:title>
+         <bf:subtitle>ein Kompendium der internationalen Ballett-Szene</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Max Niehaus</dc:description>
+         <dc:description xml:lang="de">Auflage:  Neuausg.</dc:description>
+         <rdau:P60162>Muenchen</rdau:P60162>
+         <dc:publisher>Nymphenburger Verlagsbuchhandl.</dc:publisher>
+         <dcterms:issued rdf:resource="1978-01-01T00:00:00Z_1978-12-31T23:59:59Z"
+                         rdf:label="1978"/>
+         <dcterms:extent xml:lang="de">179 S, zahlr. Ill, 8°</dcterms:extent>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4066724-8"/>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_024077909">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_024077909"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-010641076"/>
+         <edm:isShownAt rdf:resource="http://d-nb.info/901053341/04"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-010641076">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://d-nb.info/901053341/04">
+         <dc:description>Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_024077909">
+         <dc:identifier>024077909</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>90,N38,0437</dc:identifier>
+         <dc:identifier>90,A51,1126</dc:identifier>
+         <dc:identifier>901053341</dc:identifier>
+         <bibo:isbn>3924588198</bibo:isbn>
+         <dc:identifier>(DE-627)010641076</dc:identifier>
+         <dc:identifier>(DE-576)024077909</dc:identifier>
+         <dc:identifier>(DE-599)GBV010641076</dc:identifier>
+         <dc:identifier>(OCoLC)25823516</dc:identifier>
+         <dc:identifier>(OCoLC)25823516</dc:identifier>
+         <dc:identifier>(OCoLC)246778935</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sdnb): 49</dc:subject>
+         <dc:subject>Klassifikation (rvk): LR 53186</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 87350</dc:subject>
+         <dc:title>Die Kraft des Tanzes, Hilde Holger</dc:title>
+         <bf:subtitle>Wien, Bombay, London ; über das Leben und Werk der Tänzerin, Choreographin und Tanzpädagogin</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Hirschbach, Denny u.a. [Hrsg.]</dc:description>
+         <rdau:P60162>Bremen</rdau:P60162>
+         <dc:publisher>Zeichen u. Spuren</dc:publisher>
+         <dcterms:issued rdf:resource="1990-01-01T00:00:00Z_1990-12-31T23:59:59Z"
+                         rdf:label="1990"/>
+         <dcterms:extent xml:lang="de">95 S, zahlr. Ill</dcterms:extent>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4143413-4"/>
+         <rdau:P60393>Hirschbach, Denny</rdau:P60393>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_026295415">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_026295415"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-010600604"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-010600604">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_026295415">
+         <dc:identifier>026295415</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <bibo:isbn>9780819561602</bibo:isbn>
+         <bibo:isbn>0819561606</bibo:isbn>
+         <dc:identifier>(DE-627)010600604</dc:identifier>
+         <dc:identifier>(DE-576)026295415</dc:identifier>
+         <dc:identifier>(DE-599)GBV010600604</dc:identifier>
+         <dc:identifier>(OCoLC)219763023</dc:identifier>
+         <dc:identifier>(OCoLC)311550958</dc:identifier>
+         <dc:identifier>(OCoLC)174410848</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>eng</dc:language>
+         <dc:subject>Klassifikation (rvk): AP 87860</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1057380288"/>
+         <dc:title>Terpichore in sneakers</dc:title>
+         <bf:subtitle>post-modern dance ; with a new introduction</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Sally Banes</dc:description>
+         <dc:description xml:lang="de">Auflage:  Reprinted</dc:description>
+         <rdau:P60162>Middletown, Conn.</rdau:P60162>
+         <dc:publisher>Wesleyan Univ. Press</dc:publisher>
+         <dcterms:issued rdf:resource="1987-01-01T00:00:00Z_1987-12-31T23:59:59Z"
+                         rdf:label="1987"/>
+         <dcterms:extent xml:lang="de">XXXIX, 270 S., Ill.</dcterms:extent>
+         <dc:description xml:lang="de">Literaturverz. S. [245] - 253</dc:description>
+         <dc:subject>Modern dance</dc:subject>
+         <dc:subject>Postmodern dance</dc:subject>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4143413-4"/>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_013835203">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_013835203"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-010326421"/>
+         <edm:isShownAt rdf:resource="http://d-nb.info/880048697/04"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-010326421">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://d-nb.info/880048697/04">
+         <dc:description>Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_013835203">
+         <dc:identifier>013835203</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>88,N02,0385</dc:identifier>
+         <bibo:isbn>3806844097</bibo:isbn>
+         <dc:identifier>(DE-627)010326421</dc:identifier>
+         <dc:identifier>(DE-576)013835203</dc:identifier>
+         <dc:identifier>(DE-599)GBV010326421</dc:identifier>
+         <dc:identifier>(OCoLC)19360594</dc:identifier>
+         <dc:identifier>(OCoLC)19360594</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (rvk): ZY 5062</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 86650</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 86100</dc:subject>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/DE-627_1234707640"/>
+         <dc:title>Tanzstunde</dc:title>
+         <bf:subtitle>das Welttanzprogramm leicht gelernt</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Gerhard Hädrich</dc:description>
+         <rdau:P60162>Niedernhausen/Ts.</rdau:P60162>
+         <dc:publisher>Falken-Verl.</dc:publisher>
+         <dcterms:issued rdf:resource="1988-01-01T00:00:00Z_1988-12-31T23:59:59Z"
+                         rdf:label="1988"/>
+         <dcterms:extent xml:lang="de">163 S., zahlr. Ill., graph. Darst.</dcterms:extent>
+         <dc:subject rdf:resource="http://performing-arts.eu/concept/gnd_4020651-8"/>
+      </edm:ProvidedCHO>
+      <foaf:Person rdf:about="http://performing-arts.eu/agent/DE-627_1234707640">
+         <skos:prefLabel>Hädrich, Gerd</skos:prefLabel>
+         <dc:identifier>(DE-627)1234707640</dc:identifier>
+         <dc:identifier>(DE-576)164707646</dc:identifier>
+      </foaf:Person>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_017043247">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_017043247"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-010323880"/>
+         <edm:isShownAt rdf:resource="http://d-nb.info/880446153/04"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-010323880">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://d-nb.info/880446153/04">
+         <dc:description>Inhaltsverzeichnis</dc:description>
+         <dc:format>application/pdf</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_017043247">
+         <dc:identifier>017043247</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>88,N14,0293</dc:identifier>
+         <dc:identifier>88,A35,1029</dc:identifier>
+         <dc:identifier>880446153</dc:identifier>
+         <bibo:isbn>3802521781</bibo:isbn>
+         <dc:identifier>(DE-627)010323880</dc:identifier>
+         <dc:identifier>(DE-576)017043247</dc:identifier>
+         <dc:identifier>(DE-599)GBV010323880</dc:identifier>
+         <dc:identifier>(OCoLC)74965733</dc:identifier>
+         <dc:identifier>(OCoLC)74965733</dc:identifier>
+         <dc:identifier>(AT-OBV)AC01334073</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (sfb): TH 380</dc:subject>
+         <dc:subject>Klassifikation (sfb): TH 435</dc:subject>
+         <dc:subject>Klassifikation (sdnb): 49</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 87740</dc:subject>
+         <dc:subject>Klassifikation (bkl): 24.15</dc:subject>
+         <rdau:P60434>Clarke, Mary</rdau:P60434>
+         <dcterms:alternative>Ballerina &lt;dt.&gt;</dcterms:alternative>
+         <dc:title>Ballerina</dc:title>
+         <bf:subtitle>Frauen im klassischen Ballett</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Mary Clarke u. Clement Crisp. Dt. von Uta Haas</dc:description>
+         <dc:description xml:lang="de">Auflage:  Erstausg.</dc:description>
+         <rdau:P60162>Köln</rdau:P60162>
+         <dc:publisher>Vgs</dc:publisher>
+         <dcterms:issued rdf:resource="1988-01-01T00:00:00Z_1988-12-31T23:59:59Z"
+                         rdf:label="1988"/>
+         <dcterms:extent xml:lang="de">192 S, zahlr. Ill, 28 cm</dcterms:extent>
+         <dc:description xml:lang="de">Lizenzausg</dc:description>
+         <rdau:P60434>Crisp, Clement</rdau:P60434>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+   <rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/"
+            xmlns:ore="http://www.openarchives.org/ore/terms/"
+            xmlns:edm="http://www.europeana.eu/schemas/edm/"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+            xmlns:foaf="http://xmlns.com/foaf/0.1/"
+            xmlns:bibo="http://purl.org/ontology/bibo/"
+            xmlns:rdau="http://rdaregistry.info/Elements/u/"
+            xmlns:eclap="http://www.eclap.eu/schema/eclap/"
+            xmlns:bf="http://id.loc.gov/ontologies/bibframe/">
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TAL_035801883">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TAL_035801883"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="https://katalog.ub.uni-leipzig.de/Record/0-010213201"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Link zum Recherchezugang des Datengebers Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://katalog.ub.uni-leipzig.de/Record/0-010213201">
+         <dc:description>Link zu diesem Titel im Katalog der Universitätsbibliothek Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TAL_035801883">
+         <dc:identifier>035801883</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dc:identifier>87,N41,0421</dc:identifier>
+         <dc:identifier>89,A17,1062</dc:identifier>
+         <dc:identifier>871167204</dc:identifier>
+         <bibo:isbn>3610084677</bibo:isbn>
+         <dc:identifier>(DE-627)010213201</dc:identifier>
+         <dc:identifier>(DE-576)035801883</dc:identifier>
+         <dc:identifier>(DE-599)GBV010213201</dc:identifier>
+         <dc:identifier>(OCoLC)21527520</dc:identifier>
+         <dc:identifier>(OCoLC)21527520</dc:identifier>
+         <dc:identifier>DE-576</dc:identifier>
+         <dc:language>ger</dc:language>
+         <dc:subject>Klassifikation (rvk): LR 53181</dc:subject>
+         <dc:subject>Klassifikation (rvk): AP 87740</dc:subject>
+         <rdau:P60434>Lorenz, Verna</rdau:P60434>
+         <dc:title>Prima Ballerina</dc:title>
+         <bf:subtitle>der zerbrechliche Traum auf Spitzen</bf:subtitle>
+         <dc:description xml:lang="de">Weitere Angaben: Verna Lorenz</dc:description>
+         <rdau:P60162>Frankfurt am Main</rdau:P60162>
+         <dc:publisher>Athenäum</dc:publisher>
+         <dcterms:issued rdf:resource="1987-01-01T00:00:00Z_1987-12-31T23:59:59Z"
+                         rdf:label="1987"/>
+         <dcterms:extent xml:lang="de">148 S, zahlr. Ill.</dcterms:extent>
+         <dcterms:isPartOf>Die weisse Reihe</dcterms:isPartOf>
+         <dc:description xml:lang="de">Literaturverz. S. 143 - 147</dc:description>
+         <dc:description xml:lang="de">Verna Lorenz: "Prima Ballerina. Der zerbrechliche Traum auf Spitze". Athenäum Verlag, Frankfurt am Main 1987. 148 S., zahlr. Abb., br., 38,- DM</dc:description>
+      </edm:ProvidedCHO>
+   </rdf:RDF>
+</rdf:Bag>

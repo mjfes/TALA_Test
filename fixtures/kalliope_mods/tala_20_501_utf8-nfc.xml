@@ -1,0 +1,3369 @@
+<collection xmlns:srw="http://www.loc.gov/zing/srw/"
+            xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3401958</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3401958</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181019</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Beziehungen zur Wegrichtung (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Beziehungen zur Wegrichtung.
+Relating to the direction of the path.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1967-05-31</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Essen-Werden</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/21</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>9 Bl. (17 masch. u. hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3401995</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3401995</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181019</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Kreiswege in senkrechten Ebenen (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Kreiswege in senkrechten Ebenen (Rad- und Purzelbaumwege).
+Circular paths in vertical planes (cart-wheel and somersault paths).</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1967-09-20</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Essen-Werden</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/22</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>14 Bl. (28 masch. u. hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402045</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402045</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181019</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/12738779X">
+         <mods:namePart>Szentpál, Mária Sz. (1919-1995)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Übersetzung des Artikels (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Übersetzung eines Artikels aus dem Labanotator: Positionszeichen neben Richtungszeichen (Das Problem der Mittellinie).</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1965-05-01</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/24</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>6 Bl. (11 masch. u. hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402062</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402062</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181019</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Einführungskurse in die Kinetographie Laban (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Resümee des Einführungskurses in die Kinetographie Laban am 01.Mai 1959 in Lindenfels von Dr. Felix Hoerberger-Regensburg mit Anmerkungen dazu.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1959-11-01</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Essen-Werden</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/25</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>29 Bl. (masch.; hs.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402073</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402073</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181019</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:titleInfo>
+         <mods:title>Der Tanz in der Laienkunst (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Notizen zum Laientanz.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/26</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>8 Bl. (6 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402138</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402138</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181022</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Die Notierung von Feinheiten (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Die Notierung von Feinheiten der Tänze verschiedener Völker.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Essen-Werden</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/27</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>3 Bl. (3 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402139</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402139</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181022</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:titleInfo>
+         <mods:title>Das originale Notations-System (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Das originale Notations-System der bulgarischen Volkstänze in den Verschiedenheiten der geraden, ungeraden und gemischten Takte.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/28</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>12 Bl. (12 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402143</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402143</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181022</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Besprechung des Kinetogramms vom Lang-Englisch (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Besprechung des Kinetogramms vom Lang-Englisch.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1966-03-11</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Essen-Werden</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/29</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (4 masch. u. hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402149</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402149</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181022</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Vergleich der Aufzeichnung (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Vergleich der Aufzeichnung des Tampet aus Bad Berka durch I. Baier mit der Aufzeichnung des Tampet von A. Knust, vermittelt durch A. Ulrich.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1966-02-26</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Essen-Werden</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/30</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>3 Bl. (6 masch. u. hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402166</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402166</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181022</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:titleInfo>
+         <mods:title>Stitching Centraal Dansberaad (Hölländische Berufsorganisation Den Haag) (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Über Anwendungsmöglichkeiten der Kinetographie Laban - an die niederländischen Choreographen, Tanzpädagogen und Tänzer.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1961</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Den Haag</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/31</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402169</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402169</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181022</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Die körperliche und räumliche Enge und Weite (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Die körperliche und die räumliche Enge und Weite.
+Body narrowness and wideness and space narrowness and wideness.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1970-01-01</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Hamburg-Bergedorf</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/32</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>14 Bl. (28 masch. u. hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402312</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402312</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181023</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Circular Paths in Vertical Planes (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Circular paths in vertical planes (cart-wheel and somersault paths).
+Kinetographische Zeichnungen.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1967-09-20</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Essen-Werden</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/33</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>13 Bl. (26 masch. u. hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402316</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402316</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181023</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/517044-8">
+         <mods:namePart>Dance Notation Bureau (New York, NY)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1156810094">
+         <mods:namePart>Venable, Lucy (1936-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/106331271X">
+         <mods:namePart>Miles, Allan</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Reply to Knust's pelvic paper (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Summary of discussions on Knust's paper on pelvic movements.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1965</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/34</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>6 Bl. (9 masch. u. hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402323</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402323</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181023</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181023</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/12738779X">
+         <mods:namePart>Szentpál, Mária Sz. (1919-1995)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Táncjelírás (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Táncjelírás. Laban - kinetografia.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1964</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">hun</mods:languageTerm>
+         <mods:languageTerm type="text">Ungarisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/35</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Hefte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3440179</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3440179</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181101</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71944</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71944</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Die Bildhaftigkeit (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Die Bildhaftigkeit der Kinetographie Laban (Labanotation).
+The visuality of Kinetography Laban (Labanotation).</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/4/23</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>5 Bl. (10 masch. u. hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71945</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-71945</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20180928</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200417</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70335</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70335</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>5</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402335</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402335</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181023</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71945</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71945</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/16222472-2">
+         <mods:namePart>International Council of Kinetography Laban</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>For 1975 ICKL conference</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">The direction of the progression and the direction of the path.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1975</mods:dateCreated>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/5/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>24 Bl. (masch.; hs.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402499</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402499</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181023</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71945</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71945</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/12738779X">
+         <mods:namePart>Szentpál, Mária Sz. (1919-1995)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Supports on all fours</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Two new systems of writing positions and progressions.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/5/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>26 Bl. (masch.; hs.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402508</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402508</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181023</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71945</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71945</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:titleInfo>
+         <mods:title>Benesh Movement-Notation (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Benesh Dance Notation.
+Part 1, Lesson 1.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1955</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/5/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>6 Bl. (4 masch. S.); 1 Beil.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402552</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402552</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181023</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71945</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71945</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:titleInfo>
+         <mods:title>Institute of choreology (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Institute of choreology - Progress report, November 1965.
+Zeitungsartikel: "An alphabet of movement" von Fernau Hall.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1965</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/5/4</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>3 Bl. (3 masch. S.); 1 Beil.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402575</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402575</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181023</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71945</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71945</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:titleInfo>
+         <mods:title>Brief</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Reaktion auf eine Anfrage.
+Mitsendung einer Broschüre über den Studiengang der Benesh Dance Notation.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1966-04-20</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">London</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/5/5</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3402598</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3402598</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181023</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71945</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71945</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/122769317">
+         <mods:namePart>Guest, Ann Hutchinson (1918-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>For the 1975 ICKL conference (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Shape, shape writing.
+Indication of a surface.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1975</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/5/6</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>12 Bl. (12 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71946</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-71946</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20180928</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200417</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70335</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70335</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 392/6: Andere Datenträger (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>6</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71947</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-71947</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20180928</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181001</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71946</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71946</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 392/6/1: Magnettonbänder (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>1</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3440185</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3440185</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181101</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71947</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71947</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/1: Magnettonbänder</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:titleInfo>
+         <mods:title>Inhalt des Magnettonbandes (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Rote Seite:
+1.Schottische Tänze
+Grüne Seite:
+1.Musik zum Gruppentanz
+2.Walzer aus Les Sylphides
+3.Grossrussisch
+4.Schottische Tänze</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/6/1/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>3 Bl. (2 masch. u. 1 hs. S.); 1 Beil.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3440199</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3440199</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181101</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181101</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71947</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71947</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/1: Magnettonbänder</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:titleInfo>
+         <mods:title>Tschardas (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tschardas
+Kolo
+Schwanensee - 4 kleine Schwäne
+Männervariationen
+Jota
+Händel - Klassische Studie Laura Maris
+Schwanensee - 2. Frauenvariationen P. d. tr.
+Schwanensee - Prinzenadagio P. d. tr.
+Schwanensee - 1. Frauenvariation P. d. tr.
+Corrente
+Gique
+Sarabande
+Rumänische Männertänze
+Gaillarde
+Kallendara
+Corrente
+Polonaise</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/6/1/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.); 1 Beil.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71948</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-71948</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20180928</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181001</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71946</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71946</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 392/6/2: Mikrofilme (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>2</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3440855</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3440855</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181107</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71948</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71948</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/2: Mikrofilme</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1062020359">
+         <mods:namePart>Hanff, Lothar</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>PAS DE TROIS (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Bewegungsnotation zu:
+Pas de trois - aus dem Ballett "Der Schwanensee".</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1968</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/6/2/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Rollfilm</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3440867</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3440867</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181107</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71948</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71948</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/2: Mikrofilme</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/121806642">
+         <mods:namePart>Dunhill, Thomas Frederick (1877-1946)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118596721">
+         <mods:namePart>Prokof'ev, Sergej S. (1891-1953)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Each character in this tale is represented by a different motive and (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Peter and the wolf - A musical tale for children.
+Composition for piano solo by Th. F. Dunhill.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1968</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/6/2/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Rollfilm</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3440914</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3440914</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181107</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181107</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71948</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71948</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/2: Mikrofilme</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:titleInfo>
+         <mods:title>HÖLDERLIN Hälfte des Lebens (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Rollfilm 1
+Gedichte
+Bewegungsnotationen zu:
+Hölderin - Hälfte des Lebens
+Rilke - Wir bauen an dir; Ich lebe mein Leben
+Mörike - Chor jüdischer Mädchen; Er ist's
+Goethe - Glückliche Fahrt; Meeresstille
+Rollfilm 2
+Bewegungsnotationen zu:
+[Fabritio] Caroso - Italy 1630
+Bulgarischer Volkstanz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">bul</mods:languageTerm>
+         <mods:languageTerm type="text">Bulgarisch</mods:languageTerm>
+      </mods:language>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/6/2/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Rollfilme</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3440947</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3440947</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181107</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181107</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71948</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71948</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/2: Mikrofilme</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:titleInfo>
+         <mods:title>Zeichen für Adresse (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Rollfilm 1
+Bewegungsnotationen verschiedener Systeme:
+Benesh
+Morris
+Arndt
+Zorn
+Babitz
+Loring
+Feuillet
+Eshkol
+Contè
+Jay
+Stepanow
+Nikolais
+Saunders
+Rollfilm 2
+Bewegungsnotation für:
+Bulgarischer Volkstanz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">bul</mods:languageTerm>
+         <mods:languageTerm type="text">Bulgarisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/6/2/4</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Rollfilme</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71949</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-71949</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20180928</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71946</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71946</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 392/6/3: Fotos, Dias (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>3</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3441904</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3441904</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181112</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181112</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71949</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71949</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/3: Fotos, Dias</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:titleInfo>
+         <mods:title>- (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Glasdias mit Volkstänzen, Volkstrachten, Tanzbeschreibungen, Kinetogrammen.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">bul</mods:languageTerm>
+         <mods:languageTerm type="text">Bulgarisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/6/3/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>83 Dias</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3441915</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3441915</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181112</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181112</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71949</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71949</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/3: Fotos, Dias</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>- (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Glasdias mit balinesischen Mudras - Gesamtansichten und Handdetails mit Kinetogrammen, Kongress Dresden 1957.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1957</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ban</mods:languageTerm>
+         <mods:languageTerm type="text">Balinesisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/6/3/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>48 Dias</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3441918</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3441918</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181112</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181112</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71949</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71949</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/3: Fotos, Dias</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>- (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Glasdias mit balinesischen Mudras - Gesamtansichten.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ban</mods:languageTerm>
+         <mods:languageTerm type="text">Balinesisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/6/3/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>44 Dias</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-71951</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20180928</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20200417</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70335</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70335</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 392/7: Sammlung (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>7</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3441144</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3441144</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181107</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181107</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2014419-2">
+         <mods:namePart>Institut für Volkskunstforschung (Leipzig)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124097820">
+         <mods:namePart>Lange, Roderyk (1930-2017)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Institut für Volkskunstforschung (Leipzig)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Schreibt über ihre beider langjährigen Bekanntschaft. Ist im Besitz von Roderyk Langes "The Nature of Dance". Bittet um Meinung zu einer vom Autor angefragten Veröffentlichung des Werkes in der DDR und schildert ein dbzgl. stattgefundenes Telephongespräch mit Frau Goldschmidt. Berichtet von ihrem beruflichen Tun.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1975-12-18</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Babelsberg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3441355</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3441355</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181108</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181108</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124097820">
+         <mods:namePart>Lange, Roderyk (1930-2017)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Kurt Petermann an Ingeborg Baier-Fraenger</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Antwort auf den Brief vom 18.12.1975.
+Fortführung der Überlegung über eine Veröffentlichungsmöglichkeit von Roderyk Langes Werk "The Nature of Dance" in deutscher Sprache.
+Kündigt den Aufenthalt von Albrecht Knust im März 1976 in Leipzig an.
+Hofft auf baldiges Wiedersehen.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-02-12</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3441371</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3441371</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181108</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181108</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124097820">
+         <mods:namePart>Lange, Roderyk (1930-2017)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Antwort auf den Brief vom 12.02.1976.
+Sendet Glückwünsche zur Institutseingliederung in die Akademie der Künste.
+Ist erfreut über die Kontaktmöglichkeit zum Cheflektor des Henschelverlags in Bezug auf die angestrebte Veröffentlichung des Werkes "The Nature of Dance" von Roderyk Lange.
+Besuchsankündigung für den 23. und 24. März 1976 in Leipzig.
+Strebt ein Aufeinandertreffen mit Albrecht Knust an.
+Dazu eine Nachfrage bzgl. des dortigen Vorhandenseins ihrer kinetographischen Notierungen.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-02-14</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Babelsberg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3441436</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3441436</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181108</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181108</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124097820">
+         <mods:namePart>Lange, Roderyk (1930-2017)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Kurt Petermann an Ingeborg Baier-Fraenger</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Antwort auf den Brief vom 14.02.1976
+Berichtet über ein Gespräch mit Herrn Wandry vom Henschelverlag und der Aufgeschlossenheit der Verantwortlichen bzgl. der angestrebten Publikation von Roderyk Langes "The Nature of Dance".
+Erkundigt sich nach an der Kinetographie Laban interessierten Tänzern der Berliner Schule zur Planung weiterer Veranstaltungen mit Albrecht Knust.
+Thema des ersten Kolloquiums am 22. März: Fragen des modernen Tanzes der 20er und 30er Jahre mit Albrecht Knust als Gesprächspartner.
+Mitsendung einer Liste der im Tanzarchiv vorhandenen Kinetogramme.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-02-18</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/4</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3441466</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3441466</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181108</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181108</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124097820">
+         <mods:namePart>Lange, Roderyk (1930-2017)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Antwort auf den Brief vom 18.02.1976.
+Gedanken zu den angefragten kinetographisch interessierten, ehemaligen Schülern.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-02-24</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Babelsberg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/5</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442118</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442118</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181113</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181113</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Legler, Hannelore</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Hannelore Legler an Ingeborg Baier-Fraenger</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Dankt im Namen von Dr. Kurt Petermann für die Namensliste ehemaliger, kinetographisch interessierter Schüler.
+Übermittelt Grüße.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-02-26</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/6</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442130</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442130</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181113</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181113</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124097820">
+         <mods:namePart>Lange, Roderyk (1930-2017)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1172316562">
+         <mods:namePart>Wandrey, Horst (1929-2012)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Anschreiben zur Übersendung der erbetenen Kinetogramme.
+Schreibt von zuversichtlicher Haltung gegenüber einer möglichen Veröffentlichung von R. Langes "The Nature of Dance", aufgrund eines Briefes von [Horst] Wandrey.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-03-03</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Babelsberg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/7</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442304</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442304</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181113</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181113</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118692380">
+         <mods:namePart>Fraenger, Wilhelm (1890-1964)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118542907">
+         <mods:namePart>Grünewald, Matthias (1480-1528)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Engelhardt, Gustav</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1027646042">
+         <mods:namePart>Zorn, Friedrich Albert (1816-1895)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Äußert sich zu einem an sie geschickten Fragebogen.
+Sortiert und bearbeitet die Aufzeichnungen von Wilhelm Fraenger über Matthias Grünewald.
+Befürwortet ein von Dr. Petermann geplantes Tanzlexikon.
+Offeriert, sich in ihrem Besitz befindende, von Gustav Engelhardt gezeichnete, Tanztafeln: Notierung von Zorn.
+Gedanken über die Begegnung mit Knust in Leipzig.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-07-05</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Babelsberg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/8</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442391</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442391</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Legler, Hannelore</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Hannelore Legler von Deutsches Tanzarchiv Leipzig an Ingeborg Baier-Fraenger</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Antwort auf den Brief vom 5. Juli 1976.
+Dankt für die Rückübersendung des Fragebogens.
+Informiert über Dr. Petermanns Reise nach Varna zum Internationalen Ballettwettbewerb.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-07-09</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/9</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442484</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442484</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Legler, Hannelore</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1027646042">
+         <mods:namePart>Zorn, Friedrich Albert (1816-1895)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Ingeborg Baier-Fraenger an Hannelore Legler an Deutsches Tanzarchiv Leipzig</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Informiert über den Versand der angebotenen Tanztafeln.
+Bedauert, nicht mehr Material des Lehrsystems von Zorn gerettet gekonnt zu haben.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-07-19</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Babelsberg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/10</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442495</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442495</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Legler, Hannelore</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Hannelore Legler von Deutsches Tanzarchiv Leipzig an Ingeborg Baier-Fraenger</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Bestätigt den Empfang der Tanztafeln.
+Dankt im Namen von Dr. Petermann für den Erhalt.
+Informiert über dessen erwartete Rückkehr.
+Brief ohne Unterzeichnung.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-07-22</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/11</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442502</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442502</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Legler, Hannelore</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Hannelore Legler von Deutsches Tanzarchiv Leipzig an Ingeborg Baier-Fraenger</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Ankündigung eines Paketes mit einem Manuskript von A. Knust.
+Berichtet über große Freude von Dr. Petermann bzgl. der Tanztafeln und dankt erneut in seinem Namen.
+Informiert über Dr. Petermanns Urlaubsabsenz und die im Anschluss erfolgende Reise nach Ungarn zur Filmdokumentation traditionell überlieferter Volkstänze.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-01-09</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/12</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442506</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442506</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Legler, Hannelore</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Ingeborg Baier-Fraenger an Hannelore Legler an Deutsches Tanzarchiv Leipzig</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Dankt und bestätigt den Erhalt des Manuskriptes von A. Knust.
+Richtet Wünsche und gute Erholung an Dr. Petermann.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-09-07</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Babelsberg [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/13</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442518</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442518</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124097820">
+         <mods:namePart>Lange, Roderyk (1930-2017)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Anschreiben zur Übersendung des Durchschlags, eines von R. Lange erbetenen Beitrags, verfasst von I. Baier-Fraenger, für die Festschrift zum 80. Geburtstag von Albrecht Knust.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1976-10-01</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Babelsberg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/14</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.); 1 Beil. 20 Bl. (20 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442527</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442527</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124097820">
+         <mods:namePart>Lange, Roderyk (1930-2017)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Gute Wünsche zum neuen Jahr.
+Bittet um eine fotografische Gesamtaufnahme der Teilnehmer des Dredner Kongresses von 1957.
+Erkundigt sich über mögliche Neuigkeiten bzgl. der angestrebten Veröffentlichung des Werkes "The Nature of Dance" von R. Lange, da von Seiten des Henschelverlages entsprechend vorantreibende Schritte bisher ausbleiben.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1977-02-03</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Babelsberg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/15</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442546</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442546</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124097820">
+         <mods:namePart>Lange, Roderyk (1930-2017)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1172316562">
+         <mods:namePart>Wandrey, Horst (1929-2012)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Ingeborg Baier-Fraenger</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Antwort auf den Brief vom 03.02.1977.
+Informiert, dass sich das Tanzarchiv nicht im Besitz von Fotoaufnahmen des Dresdener Kongresses von 1957 befindet.
+Empfiehlt eine Anfrage bei der Dresdener Tagespresse.
+Kündigt an, beim nächsten Treffen mit Horst Wandrey den Stand der Verhandlungen zur Veröffentlichung des Werkes von R. Lange "The Nature of Dance" zu thematisieren.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1977-02-28</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/16</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442568</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442568</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118945459">
+         <mods:namePart>Loesch, Ilse (1909-2006)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118568434">
+         <mods:namePart>Laban, Rudolf von (1879-1958)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1019152222">
+         <mods:namePart>Klingenbeck, Fritz (1904-1990)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/121945774">
+         <mods:namePart>Moll, Marg (1884-1977)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Bekundet Anteilnahme am angeschlagenem Gesundheitszustand von Dr. Petermann.
+Thematisiert die geplante Ausstellung zum 100. Geburtstag von Rudolf von Laban: inhaltliche und organisatorische Belange.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1978-10-27</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Babelsberg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/17</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442583</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442583</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118568434">
+         <mods:namePart>Laban, Rudolf von (1879-1958)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118945459">
+         <mods:namePart>Loesch, Ilse (1909-2006)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Ingeborg Baier-Fraenger</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Antwort auf den Brief vom 27.10.1978.
+Bestätigung unklarer Verantwortlichkeiten bzgl. der geplanten Ausstellung zum 100. Geburtstag von Rudolf von Laban.
+Dazu: inhaltliche und organisatorische Belange.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1978-11-02</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/18</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442596</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442596</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2030656-8">
+         <mods:namePart>Deutsches Tanzarchiv Leipzig (-1993)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118692380">
+         <mods:namePart>Fraenger, Wilhelm (1890-1964)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/16222472-2">
+         <mods:namePart>International Council of Kinetography Laban</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Lobt die Arbeit von Dr. Petermann an Reprint-Ausgaben alter Tanzbücher und erfragt deren Titel.
+Ekundigt sich nach Tonaufnahmen von A. Knust über das Tanzgeschehen der 20er Jahre.
+Fragt, ob Interesse an der Übernahme ihres Archivs besteht, zur testamentarischen Festlegung.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1983-10-18</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Babelsberg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/19</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442619</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442619</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/11217616X">
+         <mods:namePart>Baier-Fraenger, Ingeborg (1926-1994)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123384516">
+         <mods:namePart>Leeder, Sigurd (1902-1981)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Kalenderblatt für Sigurd Leder (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Zeitungsartikel über Sigurd Leeder.
+Flyer "My first Dancebook" in Labanotation.
+Flyer "Three Rs for Dancing" in Labanotation.
+3 Flyer für Workshops im Laban/Bartenieff Institute of Movement Studies.
+Katalog inkl. Bestellschein mit einer Auswahl von "Ballett Books".
+Kursangebot der Sigurd Leeder school of dance mit Antragsformular - blanko.
+Antragsformular des Rudolf Laban meorial fund.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1963/1981</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/20</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>7 Bl. (masch.S.); 4 Hefte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3442659</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3442659</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20181114</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20181114</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-71951</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-71951</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1137531886">
+         <mods:namePart>Knust, Albrecht (1896-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1080965491">
+         <mods:namePart>Danker, Inge</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Albrecht Knust</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Anschreiben zur Anlage: Neue Fassung des Abschnitts F VIII. Oberkörperbewegungen des "Abriß der Kinetographie Laban".</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1951/1953</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Essen-Werden</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 392/7/21</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>5 Bl. (5 masch. S.); 1 Beil.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+</collection>

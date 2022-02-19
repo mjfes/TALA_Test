@@ -1,0 +1,2733 @@
+<collection xmlns:srw="http://www.loc.gov/zing/srw/"
+            xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543223</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543223</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1065871058">
+         <mods:namePart>Zentrum für Bewegungskunst (Laban-Tanzschule)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>3. Europäisches Laban-Tanzfest in Marburg (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Informationsschrift über Kurse und weitere Aktivitäten im Bereich der "Kunst der Bewegung" (im speziellen Moderner Ausdruckstanz, oder Freier Kreativer Tanz).</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1994]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Kanton Zürich</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2650</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Faltbl.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543232</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543232</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>10 Jahre Volkstanzgruppe des VEB Großbuchbinderei (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Heftschrift für die Volkstanzgruppe des VEB Großbuchbinderei anläßlich des 10-jährigen Bestehens.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1961]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2651</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>4 Bl. (4 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543237</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543237</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1025516869">
+         <mods:namePart>Hoerisch, Werner (1905-1975)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>Deutsche Künstler-Agentur (Berlin)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Folkwangballett Essen (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmheft zum Gastspiel des Folkwangballetts Essen in der Deutschen Demokratischen Republik Januar 1964.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1964]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2652</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543269</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543269</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/115253688">
+         <mods:namePart>Padilla, Graziela (1939-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/120965380">
+         <mods:namePart>Lex, Maja (1906-1986)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/37100-2">
+         <mods:namePart>Deutsche Sporthochschule Köln (1965-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>Tanzgruppe Maja Lex (1969-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanzgruppe Maja Lex (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programm Tanzgruppe Maja Lex.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1984-06-03</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Köln</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2653</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>4 Bl. (6 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543282</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543282</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118715992">
+         <mods:namePart>Kreutzberg, Harald (1902-1968)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Harald Kreutzberg (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmheft zu Tänzen von Harald Kreutzberg.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1949-01-22</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Wien</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2654</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (4 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543294</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543294</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Education of professional dances (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Ssummary of a report from the Swedish Comittee of Inquiry into Dancing Education Stockholm in June 1976.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1976]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Stockholm</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2655</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>22 gedr. S.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543304</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543304</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/123791413">
+         <mods:namePart>Petermann, Kurt (1930-1984)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/126404151">
+         <mods:namePart>Ehm-Schulz, Rosemarie (1922-2005)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1002263-6">
+         <mods:namePart>International Folk Music Council (1947-1981)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Grundlagen der Struktur- und Formanalyse des Volkstanzes (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Grundlagen der Struktur- und Formanalyse des Volkstanzes.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1976]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2656</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>23 gedr. S.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543311</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543311</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/119282682">
+         <mods:namePart>Wekwerth, Manfred (1929-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/320028267">
+         <mods:namePart>Akademie der Künste der DDR (Berlin, Ost)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Eröffnungsrede zur Internationalen Plenartagung am 19.11.1987 (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Eröffnungsrede zur Internationalen Plenartagung am 19.11.1987.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1987]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2657</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>20 gedr. S.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543323</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543323</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>DDR Meisterschaft 1956 (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Festschrift aus Anlaß der DDR-Meisterschaft der Amateure im Gesellschaftstanz am 1.Dezember 1956 in Zwickau.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1956]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zwickau</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2658</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543336</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543336</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2062984-9">
+         <mods:namePart>Zentrum für Pflege Erzgebirgischen und Vogtländischen Folklore (Schneeberg)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Zur Geschichte und zum Gegenwartswirken der erzgebirgischen Bergbrüder- und Bergknappschaften im Kulturbund der Deutschen Demokratischen Republik (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Vorträge des Kolloquiums vom 23.November 1985 in Annaberg-Buchholz.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1986]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Schneeberg (Erzgebirgskreis)</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2659</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>46 masch. S.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543349</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543349</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2062145-0">
+         <mods:namePart>Vue Touristique Idegenforgalmi Propaganda és Kiadó Vállalat (Budapest)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Das Ungarische Staatliche Volksensemble (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Das Ungarische Staatliche Volksensemble.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Budapest</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2660</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543357</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543357</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/5094363-7">
+         <mods:namePart>Projekttheater (Dresden) (1990-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Projekttheater Dresden (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmheft zum Projekttheater Dresden, Mai, Juni, Juli 1997.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1997]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Dresden</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2661</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>3 Bl. (6 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543369</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543369</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1021253154">
+         <mods:namePart>Sollich, Eva (1937-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanzhaus Benshausen (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Informationsbroschüre zum Tanzhaus Benshausen.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Benshausen (Region)</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2662</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Faltbl.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543374</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543374</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/5509471-5">
+         <mods:namePart>Europäische Werkstatt für Kunst und Kultur Hellerau (1990-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Festspielhaus Hellerau (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Informationsbroschüre zum Festspielhaus Hellerau.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Hellerau</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2663</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>3 Bl. (6 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543389</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543389</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191129</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/10357917-5">
+         <mods:namePart>Fremdenverkehrs-Informationsdienst (Budapest)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Transdanubien Ungarn (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Heft mit Informtionen zu Transdanubien, Ungarn; Zettel zu Unterkunftsmöglichkeiten in Transdanubien.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Budapest</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2664</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft / 1 Bl. (1 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543550</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543550</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>Magdeburger Tanz-Sport-Club "Grün-Rot" (1957-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>Magdeburger Tanz-Sport-Club "Grün-Rot" (1957-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/5307576-6">
+         <mods:namePart>Tanzklub Schwarz-Gold (Hannover)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Mannschaftsvergleichskampf "Der Magdeburger Tanzklub" gegen "T.v.H. Schwarz-Gold, Hannover" (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Punktezettel des Mannschaftsvergleichskampf 1961 zwischen "Der Magdeburger Tanzklub" und "T.v.H. Schwarz-Gold, Hannover".</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1961]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Magdeburg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2665</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543553</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543553</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Berlin - Kulturstadt Europas 1988 (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmheft, herausgegeben durch "Werkstatt Berlin 1988 e.V.".</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1988]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2666</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (4 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543558</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543558</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Schlitzerländer Trachten- und Volkstanzkreis (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Informationsheft zum Schlitzerländer Trachten- und Volkstanzkreis.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Schlitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2667</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>3 Bl. (6 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543566</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543566</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118772953">
+         <mods:namePart>Zimmermann, Udo (1943-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/131411810">
+         <mods:namePart>Linke, Susanne (1944-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>Dresdner Zentrum für zeitgenössische Musik (Dresden)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>1. Dresdner Tage der zeitgenössichen Musik (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmheft zu den 1. Dresdner Tagen der zeitgenössischen Musik ("Solos" - Tanzabend Susanne Linke) am 4. Oktober 1987.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1987]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Dresden</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2668</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>4 Bl. (8 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543570</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543570</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118536109">
+         <mods:namePart>Frisch, Max (1911-1991)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118945459">
+         <mods:namePart>Loesch, Ilse (1909-2006)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Don Juan oder die Liebe zur Geometrie (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmheft zur Komödie von Max Frisch "Don Juan oder die Liebe zur Geometrie", Premiere am 25.November 1966.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1966]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Frankfurt am Main</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2669</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (4 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543576</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543576</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2015876-2">
+         <mods:namePart>Akademie der Künste</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2175393-3">
+         <mods:namePart>Hebbel-Theater (Berlin)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2174166-9">
+         <mods:namePart>Tanzfabrik Berlin (1978-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanzwinter Berlin 89/90 (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmheft "Tanzwinter Berlin" 1989/90.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1989/1990]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2670</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>8 Bl. (16 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543582</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543582</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/120021153">
+         <mods:namePart>Kuckart, Judith (17.06.1959-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2015876-2">
+         <mods:namePart>Akademie der Künste</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/4257086-4">
+         <mods:namePart>Tanztheater Skoronel</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanztheater Skoronel - "Homme Fatal" - ein Stück von Judith Kuckart (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmzettel zum Tanztheater Skoronel mit dem Stück "Homme Fatal" von Judith Kuckart vom 1.-5. Septemeber 1993 in der Akademie der Künste.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1993]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2671</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543585</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543585</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118568434">
+         <mods:namePart>Laban, Rudolf von (1879-1958)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1069075027">
+         <mods:namePart>Bereska, Dussia (1885-1953)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/10163569-2">
+         <mods:namePart>Laban Centre for Movement and Dance (1975-1997)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Re-creations of Laban's Kammertanzbühne 1923-1926 (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programm- und Informationsheft des Laban Centre for Movement and Dance 1987.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1987]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">London</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">eng</mods:languageTerm>
+         <mods:languageTerm type="text">Englisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2672</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (4 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543597</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543597</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/3017881-2">
+         <mods:namePart>Staatliche Ballettschule (Berlin)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Satzung des Vereins zur Förderung von Tanz und Ausbildung an der Staatlichen Ballettschule Berlin e.V. (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Satzung des Vereins zur Förderung von Tanz und Ausbildung an der Staatlichen Ballettschule Berlin e.V..</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1988-03-26</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2673</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Faltbl.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543609</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543609</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118638157">
+         <mods:namePart>Cajkovskij, Pëtr I. (1840-1893)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1099475201">
+         <mods:namePart>Linkens, Jan (1958-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/46015-1">
+         <mods:namePart>Komische Oper Berlin (1947-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Dornröschen (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmzettel zur Tanztheater-Premiere "Dornröschen" am 21.März 1999 an der Komischen Oper Berlin.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1999]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2674</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543619</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543619</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/4602277-6">
+         <mods:namePart>Palucca-Schule</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/5205682-X">
+         <mods:namePart>Deutsche Volksbühne</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Palucca Schule (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmheft der Palucca-Schule in Dresden.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1948]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Dresden</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2675</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (4 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543626</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543626</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/6065803-4">
+         <mods:namePart>Konzertdirektion Kempf (Wiesbaden)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/4602277-6">
+         <mods:namePart>Palucca-Schule</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanzabend Palucca (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmheft zu einem Tanzabend Palucca am 24.Januar 1950.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1950-01-24</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Dresden</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2676</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (4 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543703</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543703</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2027041-0">
+         <mods:namePart>Zentralhaus für Kulturarbeit der DDR</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Einladung zur Bühnentanz-Fachtagung am 2. und 3. Juni 1966 in Rudolstadt-Schwarza (Ansetzungssachtitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Einladung des Zentralhauses für Kulturarbeit ZAG Folklore und Bühnentanz der DDR zur Bühnentanz-Fachtagung am 2. und 3. Juni 1966 in Rudolstadt-Schwarza.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1966]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Rudolstadt-Schwarza</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2677</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (4 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543719</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543719</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/16018678-X">
+         <mods:namePart>Tanz- und Folkfest (Rudolstadt)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/16018678-X">
+         <mods:namePart>Tanz- und Folkfest (Rudolstadt)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>TFF Rudolstadt 2010 (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmzettel zum TFF Rudolstadt vom 2.- 4.Juli 2010.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [2010]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Rudolstadt</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2678</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543740</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543740</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2135924-6">
+         <mods:namePart>Landeszentrale für Politische Bildung des Landes Sachsen-Anhalt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>50 Jahre kulturhistorisches Symposium - Bitterfelder Weg (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmheft der Landeszentrale für politische Bildung Sachsen-Anhalt zur Veranstaltung "50 Jahre Kulturhistorisches Symposium - Bitterfelder Weg" vom 23. - 24. April 2009.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [2009]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Magdeburg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2679</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>4 Bl. (8 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543754</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543754</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1203808860">
+         <mods:namePart>Petzold, Fred (1932-2007)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2027041-0">
+         <mods:namePart>Zentralhaus für Kulturarbeit der DDR</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/5187854-9">
+         <mods:namePart>Bezirk Halle (Saale) / Bezirkskabinett für Kulturarbeit</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>2. Tanzlibrettosammlung für den Laienbühnentanz (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">2. Tanzlibrettosammlung für den Laienbühnentanz.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1975]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig</mods:placeTerm>
+         </mods:place>
+         <mods:place>
+            <mods:placeTerm type="text">Halle (Saale)</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2680</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>32 S.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543779</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543779</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118577476">
+         <mods:namePart>Marceau, Marcel (1923-2007)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/3071435-7">
+         <mods:namePart>BB Promotion GmbH (Mannheim)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Ein Abend mit Marcel Marceau (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmheft "Ein Abend mit Marcel Marceau".</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2681</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (4 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543788</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543788</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Frauen unserer Tage (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">"Frauen unserer Tage", Zeitungsartikel von Horst W. Lukas.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2682</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (4 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543799</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543799</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191202</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/3017881-2">
+         <mods:namePart>Staatliche Ballettschule (Berlin)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Staatliche Ballettschule Berlin (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Informationsflyer und -zettel zu den tänzerischen Ausbildungsmöglichkeiten an der Staatlichen Ballettschule Berlin.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2683</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Faltbl. / 1 Bl. (1 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543954</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543954</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/135177421">
+         <mods:namePart>Dittrich, Fred (1911-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2008980-6">
+         <mods:namePart>Deutsches Turn- und Sportfest der DDR (5, 1969, Leipzig) (1969-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>V. Deutsches Turn- und Sportfest 1969 der DDR - Festübungen der Frauen (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten zu den Festübungen der Frauen zum V. Deutschen Turn- und Sportfest 1969 der DDR.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1969]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2684</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>4 Bl. (8 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543956</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543956</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2082917-6">
+         <mods:namePart>Deutsche Gesellschaft für Volkstanz</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Volkstanz (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Zusammenstellung bestehend aus Einzelartikeln der Vierteljahreszeitschrift "Volkstanz" der Deutschen Gesellschaft für Volkstanz e.V. im Jahr 1985; einmalige Auflage von 10 Exemplaren.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1985]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Koblenz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2685</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>39 Bl. (39 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543959</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543959</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Folkloro festivalis - skamba skamba kankliai (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmheft zum Folklore-Festival, herausgegeben durch die Kulturabteilung der Stadtverwaltung von Vilnius 1992.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1992]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Wilna</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">lit</mods:languageTerm>
+         <mods:languageTerm type="text">Litauisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2686</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>4 Bl. (8 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543965</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543965</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1197539263">
+         <mods:namePart>Schermer, Günter (1928-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/16205342-3">
+         <mods:namePart>Arbeitsgemeinschaft der Sudetendeutschen Jugend</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2007503-0">
+         <mods:namePart>Deutsche Jugend des Ostens (1951-1974)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Der Schwertertanz zu Eger im 15.Jahrhundert (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Der Schwertertanz zu Eger im 15.Jahrhundert; Sonderheft 6 von "Unser Arbeitsbrief".</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1980]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ingolstadt</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2687</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543982</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543982</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Nörder Danzkoppel e.V. (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Informationsheft zur Volkstanzgruppe "Nörder Danzkoppel e.V.".</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Norden (Landkreis Aurich)</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2688</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (4 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3543996</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3543996</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1069656488">
+         <mods:namePart>Volkstanzkreis Reinickendorf (1951-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>40 Jahre Volkstanzkreis Reinickendorf (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmzettel zum 40. Jubiläum des Volkstanzkreises Reinickendorf im Jahr 1999.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1990]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Reinickendorf</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2689</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (4 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3544013</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3544013</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/5098425-1">
+         <mods:namePart>Berlin-Reinickendorf. Jugendförderung</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1069656488">
+         <mods:namePart>Volkstanzkreis Reinickendorf (1951-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>25 Jahre Volkstanzkreis der Jugendförderung Reinickendorf 1950-1975 (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Heft zum 25. Jubiläum des Volkstanzkreises der Jugendförderung Reinickendorf.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Reinickendorf</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2690</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3544028</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3544028</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210319</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>Tanzhaus Benshausen (1977-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>20 Jahre Tanzhaus Benshausen (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Heft zum 20. Jubiläum des Tanzhauses Benshausen, Festtage vom 9.-11. Mai 1997.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1997]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Benshausen (Region)</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2691</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3544040</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3544040</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/5013570-3">
+         <mods:namePart>Tchibo Frisch-Röst-Kaffee Max Herz (Hamburg)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Wandern und schauen (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Heft mit Wanderliedern und Wegweisern durch die Natur.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Hamburg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2692</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3544050</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3544050</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210318</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>Rheinische Arbeitsgemeinschaft Tanz im Regierungsbezirk Düsseldorf (1949-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>40 Jahre Rheinische Arbeitsgemeinschaft Tanz im Regierungsbezirk Düsseldorf (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Heft zum 40. Jubiläum der Rheinischen Arbeitsgemeinschaft Tanz im Regierungsbezirk Düsseldorf e.V..</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1989]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Düsseldorf</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2693</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3544065</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3544065</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/80530-0">
+         <mods:namePart>Universidade do Vale do Rio dos Sinos (São Leopoldo) (1969-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/80530-0">
+         <mods:namePart>Universidade do Vale do Rio dos Sinos (São Leopoldo) (1969-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Volkstanzgruppe "Liebe zum Leben" (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Informationsheft über die Unisinos - die Universität des Sinostals.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">São Leopoldo</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">por</mods:languageTerm>
+         <mods:languageTerm type="text">Portugiesisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2694</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3544079</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3544079</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210318</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1012785254">
+         <mods:namePart>Kögler, Walter (1929-2007)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/129588369">
+         <mods:namePart>Medau, Hinrich (1891-1974)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Bewegungsmusik für moderne Gymnastik von Hinrich Medau (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Heft mit Choreographien zur Bewegungsmusik für moderne Gymnastik von Hinrich Medau.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Stuttgart</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2695</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3544094</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3544094</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210318</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/115189205X">
+         <mods:namePart>Zunft der Leineweber</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Zunft der Leineweber - Volkstanzmusik und Volkstanz zum Mitmachen (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Leineweberbuch mit Tanzbeschreibungen.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1985]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Hannover</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2696</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>52 Bl. (104 gedr.; hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3544109</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3544109</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210318</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1158827709">
+         <mods:namePart>Holland, Hedo (1933-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1158827709">
+         <mods:namePart>Holland, Hedo (1933-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/115146645X">
+         <mods:namePart>Preuß, Helga (1938-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>LAG-Tanz Hamburg (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Informations- und Programmheft zur LAG-Tanz Hamburg; Einladung der LAG-Tanz Hamburg zu Festen, Kursen, Seminaren; Brief an Helga Preuß von Hedo Holland (LAG Tanz Hamburg).</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1997]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Hamburg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2697</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>4 Bl. (8 gedr. S.) / 2 Bl. (4 gedr. S.) / 1 Bl. (1 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3544118</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3544118</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210318</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>De Blomendaler (1987-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>10 Jahre Volkstanz im Haus Blomendal (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Heft zum 10-Jährigen Jubiläum der Volkstanzgruppe "De Blomendaler" am 8. Juni 1997; Aufnahmeantrag Mitgliedschaft im Verein "Haus Blomendal".</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1997]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Bremen</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2698</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft / 1 Bl. (1 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3544131</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3544131</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210318</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1034707140">
+         <mods:namePart>Dubiel, Wilfried</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/5173267-1">
+         <mods:namePart>Landestrachtenverband Niedersachsen</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Utkiek (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Zeitschrift "Utkiek", 10. Jahrgang, Heft 4/1996.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1996]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2699</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3544136</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3544136</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20191203</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20210318</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-73030</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-73030</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1034707140">
+         <mods:namePart>Dubiel, Wilfried</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/5173267-1">
+         <mods:namePart>Landestrachtenverband Niedersachsen</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Utkiek (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Zeitschrift "Utkiek", 9. Jahrgang, Heft 4/95.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D. [1995]</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 380/9/2700</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+</collection>

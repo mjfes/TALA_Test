@@ -1,0 +1,2981 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:Bag xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:edm="http://www.europeana.eu/schemas/edm/"
+         xmlns:ore="http://www.openarchives.org/ore/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:bibo="http://purl.org/ontology/bibo/"
+         xmlns:bf="http://id.loc.gov/ontologies/bibframe/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdau="http://rdaregistry.info/Elements/u/"
+         xmlns:eclap="http://www.eclap.eu/schema/eclap/">
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-70359">
+         <dc:identifier>DE-611-BF-70359</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Nachlass Eberhard Rebling (Titel)</dc:title>
+         <dc:description>Material zum publizistischen Schaffen (Notizen, Manuskripte, Fotos, Rechercheunterlagen)</dc:description>
+         <dcterms:created rdf:resource="1959-01-01T00:00:00Z_1982-12-31T23:59:59Z"/>
+         <bf:shelfMark>NL 400</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-70359">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-70359"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-70359"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-70359">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-74156">
+         <dc:identifier>DE-611-BF-74156</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Nachlass Eberhard Rebling: 1. Werk (Titel)</dc:title>
+         <dc:description>Hauptsächlich Manuskripte und Vorarbeiten zur "Tanzkunst Indiens"</dc:description>
+         <bf:shelfMark>1</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-74156">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-74156"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-74156"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-74156">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474337">
+         <dc:identifier>DE-611-HS-3474337</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Ballett in der Hauptstadt (Incipit der Unterlage)</dc:title>
+         <dc:description>Abhandlung über die Ballettstädten in Berlin (Komische Oper etc.)</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/1</bf:shelfMark>
+         <dcterms:extent>4 Bl. (4 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474337">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474337"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474337"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474337">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474341">
+         <dc:identifier>DE-611-HS-3474341</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Der internationale Wettbewerb in Varna. Erfahrungen und Lehren (Incipit der Unterlage)</dc:title>
+         <dc:description>Bericht über den internationalen Tanzwettbewerb in Varna.</dc:description>
+         <dcterms:created rdf:resource="1972-07-25T00:00:00Z_1972-07-25T23:59:59Z"/>
+         <rdau:P60163>Warna</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/2</bf:shelfMark>
+         <dcterms:extent>3 Bl. (3 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474341">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474341"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474341"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474341">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474365">
+         <dc:identifier>DE-611-HS-3474365</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Tanzkonferenz am 23./24. März 1953 (Incipit der Unterlage)</dc:title>
+         <bf:subtitle>Der sozialistische Realismus in der Tanzkunst : Thesen</bf:subtitle>
+         <dc:description>Schrift in Vorbereitung einer Konferenz.</dc:description>
+         <dcterms:created rdf:resource="1953-03-23T00:00:00Z_1953-03-24T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/3</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474365">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474365"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474365"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474365">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474371">
+         <dc:identifier>DE-611-HS-3474371</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Der sozialistische Realismus in der Tanzkunst : Thesen (Incipit der Unterlage)</dc:title>
+         <dc:description>Auflistung von Thesen aus dem Bereich Tanz.</dc:description>
+         <dcterms:created rdf:resource="1953-01-01T00:00:00Z_1953-12-31T23:59:59Z"/>
+         <rdau:P60163>Eichwalde</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/4</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474371">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474371"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474371"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474371">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474390">
+         <dc:identifier>DE-611-HS-3474390</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118510479"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118537911"/>
+         <dc:contributor>Internationaler Ballettwettbewerb Warna (4., 1968, Warna) (1968-)</dc:contributor>
+         <dc:title>Hervorragender Erfolg der DDR-Tänzer in Varna (Incipit der Unterlage)</dc:title>
+         <dc:description>Bericht über den vierten Internationalen Ballettwettbewerb in Varna.</dc:description>
+         <dcterms:created rdf:resource="1968-07-19T00:00:00Z_1968-07-19T23:59:59Z"/>
+         <rdau:P60163>Eichwalde</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/5</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474390">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474390"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474390"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474390">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474614">
+         <dc:identifier>DE-611-HS-3474614</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13329319X"/>
+         <dc:title>Kommentare zum Programm des Indischen Folklore-Ensembles (Incipit der Unterlage)</dc:title>
+         <dc:description>Bericht über das Indische Folklore-Ensemble.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/6</bf:shelfMark>
+         <dcterms:extent>5 Bl. (5 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474614">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474614"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474614"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474614">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474625">
+         <dc:identifier>DE-611-HS-3474625</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13329319X"/>
+         <dc:title>Texte zu der Sendung: Folklore-Ensemble aus Indien (Incipit der Unterlage)</dc:title>
+         <dc:description>Bericht über das Indische Folklore-Ensemble, welches zu einem Gastspiel in Cottbus aufgetreten ist. Leiterin dieses Ensembles ist Usha Bhagat.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/7</bf:shelfMark>
+         <dcterms:extent>5 Bl. (5 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474625">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474625"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474625"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474625">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474685">
+         <dc:identifier>DE-611-HS-3474685</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13329319X"/>
+         <dc:title>Indien ist ein Land uralter kultureller Traditionen ... (Incipit der Unterlage)</dc:title>
+         <dc:description>Beitrag zur indischen Tanzkunst.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/8</bf:shelfMark>
+         <dcterms:extent>5 Bl. (5 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474685">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474685"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474685"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474685">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474721">
+         <dc:identifier>DE-611-HS-3474721</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Erklärung zu Darbietungen des Indischen Folklore-Ensembles : Berliner Festtage 1976 (Incipit der Unterlage)</dc:title>
+         <dc:description>Liste von indischen Tänzen.</dc:description>
+         <dcterms:created rdf:resource="1976-01-01T00:00:00Z_1976-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/9</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474721">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474721"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474721"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474721">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474723">
+         <dc:identifier>DE-611-HS-3474723</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_46015-1"/>
+         <dc:title>Kammertanz in der Komischen Oper Berlin (Incipit der Unterlage)</dc:title>
+         <dc:description>Beitrag über den Kammertanz an der Komischen Oper Berlin für den ND Kultur.</dc:description>
+         <dcterms:created rdf:resource="1976-01-01T00:00:00Z_1976-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/10</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474723">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474723"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474723"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474723">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474731">
+         <dc:identifier>DE-611-HS-3474731</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Tradition und Neuerertum im Ballettschaffen der DDR (Incipit der Unterlage)</dc:title>
+         <dc:description>Beleuchtet die Verknüpfung von Tradition und Neuerungen im Ballett der sozialistischen Länder.</dc:description>
+         <dcterms:created rdf:resource="1975-01-01T00:00:00Z_1975-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/11</bf:shelfMark>
+         <dcterms:extent>9 Bl. (9 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474731">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474731"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474731"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474731">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474733">
+         <dc:identifier>DE-611-HS-3474733</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>I want to make some remarks ... (Incipit der Unterlage)</dc:title>
+         <dc:description>Redemanuskript von Rebling mit Anmerkungen zu einer Diskussion am vorigen Tag zu Themen des Ballettes.</dc:description>
+         <rdau:P60163>Warna</rdau:P60163>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 400/1/12</bf:shelfMark>
+         <dcterms:extent>2 Bl. (3 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474733">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474733"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474733"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474733">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474735">
+         <dc:identifier>DE-611-HS-3474735</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Als Swandida zog Monika Lubitz alle Register ... (Incipit der Unterlage)</dc:title>
+         <dc:description>3. Seite eines Manuskripes über eine Weihnachts-Doppelpremiere.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/13</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch., hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474735">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474735"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474735"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474735">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474737">
+         <dc:identifier>DE-611-HS-3474737</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Abschrift aus dem Heft "Gesangs- und Tanzensemble der Mongolischen Volksarmee" (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus einem Programmheft.</dc:description>
+         <dcterms:created rdf:resource="1978-01-01T00:00:00Z_1978-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/14</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474737">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474737"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474737"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474737">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474754">
+         <dc:identifier>DE-611-HS-3474754</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Bewegliches Ensemble (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einer Aufführung.</dc:description>
+         <dcterms:created rdf:resource="1972-01-01T00:00:00Z_1972-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/15</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474754">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474754"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474754"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474754">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474770">
+         <dc:identifier>DE-611-HS-3474770</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_46015-1"/>
+         <dc:title>Ballettabend in der Komischen Oper (Incipit der Unterlage)</dc:title>
+         <dc:description>Bericht von einer Ballettpremiere an der Komischen Oper Berlin.</dc:description>
+         <dcterms:created rdf:resource="1971-05-09T00:00:00Z_1971-05-09T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/16</bf:shelfMark>
+         <dcterms:extent>3 Bl. (3 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474770">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474770"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474770"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474770">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474772">
+         <dc:identifier>DE-611-HS-3474772</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_46015-1"/>
+         <dc:title>Doppelgänger (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einer Aufführung.</dc:description>
+         <dcterms:created rdf:resource="1969-01-01T00:00:00Z_1969-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/17</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474772">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474772"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474772"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474772">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474777">
+         <dc:identifier>DE-611-HS-3474777</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5053416-6"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_10204207-X"/>
+         <dc:title>Ballade vom Glück (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einer Aufführung.</dc:description>
+         <dcterms:created rdf:resource="1967-01-01T00:00:00Z_1967-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/18</bf:shelfMark>
+         <dcterms:extent>3 Bl. (6 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474777">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474777"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474777"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474777">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474778">
+         <dc:identifier>DE-611-HS-3474778</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Assel (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einer Aufführung.</dc:description>
+         <dcterms:created rdf:resource="1967-02-07T00:00:00Z_1967-02-07T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/19</bf:shelfMark>
+         <dcterms:extent>5 Bl. (8 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474778">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474778"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474778"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474778">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474780">
+         <dc:identifier>DE-611-HS-3474780</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118718363"/>
+         <dc:title>Martha Graham (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einer Aufführung.</dc:description>
+         <dcterms:created rdf:resource="1954-01-01T00:00:00Z_1954-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/20</bf:shelfMark>
+         <dcterms:extent>5 Bl. (7 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474780">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474780"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474780"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474780">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474786">
+         <dc:identifier>DE-611-HS-3474786</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Fiesta Götana : Flamenco-Tänze spanischer Zigeuner, Leitung H. J. da Silva (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einer Aufführung. Erwähnt wird Axel Hesse.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/21</bf:shelfMark>
+         <dcterms:extent>4 Bl. (4 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474786">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474786"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474786"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474786">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474790">
+         <dc:identifier>DE-611-HS-3474790</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Mexiko: Ballet Folkloristico de Mexico Amalia Hernandez (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu verschiedenen Ensembles.</dc:description>
+         <dcterms:created rdf:resource="1968-01-01T00:00:00Z_1968-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/23</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474790">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474790"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474790"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474790">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474795">
+         <dc:identifier>DE-611-HS-3474795</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Doina (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Ensemble : Staatliches Tanz- und Gesangsensemble der Sozialistischen Republik Rumänien.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/24</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474795">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474795"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474795"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474795">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474796">
+         <dc:identifier>DE-611-HS-3474796</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Frula (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Ensemble : Jugoslawisches Nationalballett.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/25</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474796">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474796"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474796"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474796">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474797">
+         <dc:identifier>DE-611-HS-3474797</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Djolika (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Ensemble : Nationalballett der Republik Guinea.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/22</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474797">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474797"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474797"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474797">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474799">
+         <dc:identifier>DE-611-HS-3474799</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Nationalensemble Dahomey (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Nationalensemble Dahomey.</dc:description>
+         <dcterms:created rdf:resource="1966-01-01T00:00:00Z_1966-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/26</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474799">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474799"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474799"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474799">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474800">
+         <dc:identifier>DE-611-HS-3474800</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Nationales Ensemble Mali (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Nationalensemble Mali.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/27</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474800">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474800"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474800"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474800">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474801">
+         <dc:identifier>DE-611-HS-3474801</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1205570268"/>
+         <dc:title>Sla'sk Staatliches Volkskunst-Ensemble für Gesang und Tanz (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einem Ensemble.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/28</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474801">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474801"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474801"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474801">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474862">
+         <dc:identifier>DE-611-HS-3474862</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Sla'sk (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einem Ensemble.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/29</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474862">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474862"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474862"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474862">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474864">
+         <dc:identifier>DE-611-HS-3474864</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Staatliches Ensemble für sorbische Volkskultur (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einem Ensemble.</dc:description>
+         <dcterms:created rdf:resource="1960-01-01T00:00:00Z_1960-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/30</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474864">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474864"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474864"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474864">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474865">
+         <dc:identifier>DE-611-HS-3474865</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Saatliches Ensemble für Volkslieder und Tänze aus Bulgarien (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einem Ensemble.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/31</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474865">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474865"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474865"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474865">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474866">
+         <dc:identifier>DE-611-HS-3474866</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Saatliches Gesangs- und Tanzensemble der Kasachischen SSR (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einem Ensemble.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/32</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474866">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474866"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474866"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474866">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474867">
+         <dc:identifier>DE-611-HS-3474867</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Das Ungarische Staatliche Volksensemble (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einem Ensemble.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/33</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474867">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474867"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474867"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474867">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474868">
+         <dc:identifier>DE-611-HS-3474868</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Das ungarische Jugendkunstensemble (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einem Ensemble.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/34</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474868">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474868"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474868"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474868">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474880">
+         <dc:identifier>DE-611-HS-3474880</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Der Tanz der Völker - Heute (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einem Ensemble.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/35</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474880">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474880"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474880"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474880">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474882">
+         <dc:identifier>DE-611-HS-3474882</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Kambodscha (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einem Ensemble.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/36</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474882">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474882"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474882"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474882">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474885">
+         <dc:identifier>DE-611-HS-3474885</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Straznice (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einem Ensemble.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/37</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474885">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474885"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474885"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474885">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474889">
+         <dc:identifier>DE-611-HS-3474889</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Trojaelaki [?] (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zu einem Ensemble.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <dc:language>dut</dc:language>
+         <bf:shelfMark>NL 400/1/38</bf:shelfMark>
+         <dcterms:extent>7 Bl. (7 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474889">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474889"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474889"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474889">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474892">
+         <dc:identifier>DE-611-HS-3474892</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zur Bedeutung der sowjetischen Ballettkunst für die Ballettkunst der DDR und der Welt (Incipit der Unterlage)</dc:title>
+         <dc:description>Evtl. Notizen zu einem Artikel.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/39</bf:shelfMark>
+         <dcterms:extent>7 Bl. (7 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474892">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474892"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474892"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474892">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474926">
+         <dc:identifier>DE-611-HS-3474926</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Notizzettelsammlung (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizzettelsammlung.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/40</bf:shelfMark>
+         <dcterms:extent>27 Bl. (34 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474926">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474926"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474926"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474926">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474928">
+         <dc:identifier>DE-611-HS-3474928</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Afrika tanzt (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschriften aus dem Werk: Afrika tanzt / Dominique Darbois, 1962.</dc:description>
+         <dcterms:created rdf:resource="1962-01-01T00:00:00Z_1962-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/41</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474928">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474928"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474928"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474928">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474933">
+         <dc:identifier>DE-611-HS-3474933</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128889721"/>
+         <dc:title>Fritz Böhme : Ausdruckstanz (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschriften aus einer Publikation.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/42</bf:shelfMark>
+         <dcterms:extent>4 Bl. (4 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474933">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474933"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474933"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474933">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474941">
+         <dc:identifier>DE-611-HS-3474941</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Moiseyev's Dance Company (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschriften aus einer Publikation: Moiseyev's Dance Company / photographs by Yevgeny Umnov, 1966.</dc:description>
+         <dcterms:created rdf:resource="1966-01-01T00:00:00Z_1966-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/43</bf:shelfMark>
+         <dcterms:extent>4 Bl. (4 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474941">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474941"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474941"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474941">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474951">
+         <dc:identifier>DE-611-HS-3474951</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Die Tanzkunst in Indien (Incipit der Unterlage)</dc:title>
+         <bf:subtitle>Inhaltsverzeichnis</bf:subtitle>
+         <dc:description>Entwurf des Inhaltsverzeichnisses zu: Die Tanzkunst Indiens / Eberhard Rebling. Mit hs. Anmerkungen.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/44</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474951">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474951"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474951"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474951">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474955">
+         <dc:identifier>DE-611-HS-3474955</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>1. Wesen, Theorie und Technik des klassischen Tanzes in Indien (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 1, S. 1-11 zu: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/45</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474955">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474955"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474955"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474955">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474956">
+         <dc:identifier>DE-611-HS-3474956</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>1. Wesen, Theorie und Technik des klassischen Tanzes in Indien (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 1, S. 12-20 zu: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/46</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474956">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474956"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474956"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474956">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474959">
+         <dc:identifier>DE-611-HS-3474959</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>2. Die Entwicklung des Tanzes in Indien bis zur Entstehung des Najasohastra (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 2, S. 1-10 zu: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/47</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474959">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474959"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474959"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474959">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474961">
+         <dc:identifier>DE-611-HS-3474961</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>2. Die Entwicklung des Tanzes in Indien bis zur Entstehung des Najasohastra (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 2, S. 11-20 zu: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/48</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474961">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474961"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474961"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474961">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3474963">
+         <dc:identifier>DE-611-HS-3474963</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>2. Die Entwicklung des Tanzes in Indien bis zur Entstehung des Najasohastra (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 2, S. 20-31 zu: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/49</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3474963">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3474963"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3474963"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3474963">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476187">
+         <dc:identifier>DE-611-HS-3476187</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>2.2 Der Tanz in der Industriegesellschaft (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 2.2 zu: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/50</bf:shelfMark>
+         <dcterms:extent>6 Bl. (6 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476187">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476187"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476187"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476187">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476192">
+         <dc:identifier>DE-611-HS-3476192</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>2.3. Der Tanz in der vedisch-brahmanischen Kultur bis zum Großreich Uaghada (etwa 1200-325 v.u.Z.) (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 2.3 zu: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/51</bf:shelfMark>
+         <dcterms:extent>13 Bl. (13 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476192">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476192"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476192"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476192">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476198">
+         <dc:identifier>DE-611-HS-3476198</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>4. die Wirkung des Tanzes bis zur klassischen Blüte (Incipit der Unterlage)</dc:title>
+         <bf:subtitle>Der Tanz im Großreich der Maurya</bf:subtitle>
+         <dc:description>Manuskript Kapitel 4, S. 1-10 zu: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/52</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476198">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476198"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476198"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476198">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476205">
+         <dc:identifier>DE-611-HS-3476205</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>2. Die Wirkung des Tanzes bis zur klassischen Blüte (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 2.4, S. 11-19 zu: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/53</bf:shelfMark>
+         <dcterms:extent>8 Bl. (8 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476205">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476205"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476205"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476205">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476212">
+         <dc:identifier>DE-611-HS-3476212</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>3. Die Regionalstile des klassischen indischen Tanzes (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 3, S. 1-8 zu: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/54</bf:shelfMark>
+         <dcterms:extent>8 Bl. (8 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476212">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476212"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476212"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476212">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476222">
+         <dc:identifier>DE-611-HS-3476222</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>3. Die Regionalstile des klassischen indischen Tanzes (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 3, S. 9-17 zu: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/55</bf:shelfMark>
+         <dcterms:extent>9 Bl. (9 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476222">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476222"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476222"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476222">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476225">
+         <dc:identifier>DE-611-HS-3476225</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>3. Die Regionalstile des klassischen indischen Tanzes (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 3, S. 18-25 zu: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/56</bf:shelfMark>
+         <dcterms:extent>8 Bl. (8 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476225">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476225"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476225"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476225">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476228">
+         <dc:identifier>DE-611-HS-3476228</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>3. Odissi (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 3: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/57</bf:shelfMark>
+         <dcterms:extent>16 Bl. (16 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476228">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476228"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476228"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476228">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476229">
+         <dc:identifier>DE-611-HS-3476229</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>3. Kathakali (Incipit der Unterlage)</dc:title>
+         <bf:subtitle>a. Historische Entwicklung</bf:subtitle>
+         <dc:description>Manuskript Kapitel 3: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/58</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476229">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476229"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476229"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476229">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476230">
+         <dc:identifier>DE-611-HS-3476230</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>3. Kathakali II (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 3: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/59</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476230">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476230"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476230"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476230">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476231">
+         <dc:identifier>DE-611-HS-3476231</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>3.4 Tschhau-Tänze (Incipit der Unterlage)</dc:title>
+         <bf:subtitle>Chhau-Tänze</bf:subtitle>
+         <dc:description>Manuskript Kapitel 3: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/60</bf:shelfMark>
+         <dcterms:extent>12 Bl. (12 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476231">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476231"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476231"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476231">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476232">
+         <dc:identifier>DE-611-HS-3476232</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>3.5 Kathak (Incipit der Unterlage)</dc:title>
+         <bf:subtitle>a. Historische Entwicklung</bf:subtitle>
+         <dc:description>Manuskript Kapitel 3: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/61</bf:shelfMark>
+         <dcterms:extent>15 Bl. (15 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476232">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476232"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476232"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476232">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476234">
+         <dc:identifier>DE-611-HS-3476234</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>3.6 Manipuri (Incipit der Unterlage)</dc:title>
+         <bf:subtitle>a. Historische Entwicklung</bf:subtitle>
+         <dc:description>Manuskript Kapitel 3.6: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/62</bf:shelfMark>
+         <dcterms:extent>14 Bl. (14 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476234">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476234"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476234"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476234">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476235">
+         <dc:identifier>DE-611-HS-3476235</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>4. Wiedergeburt, Weiterentwicklung und Perspektiven der indischen Tanzkunst (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript Kapitel 4: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/63</bf:shelfMark>
+         <dcterms:extent>12 Bl. (12 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476235">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476235"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476235"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476235">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476236">
+         <dc:identifier>DE-611-HS-3476236</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Natyaschastra, Manuskriptseiten 46-48 (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/64</bf:shelfMark>
+         <dcterms:extent>3 Bl. (3 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476236">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476236"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476236"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476236">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476243">
+         <dc:identifier>DE-611-HS-3476243</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Bharata Natyam, Manuskriptseite 211 (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/65</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476243">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476243"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476243"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476243">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476245">
+         <dc:identifier>DE-611-HS-3476245</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Bhagavata Mela, Manuskriptseite 225 (Incipit der Unterlage)</dc:title>
+         <dc:description>Manuskript: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/66</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476245">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476245"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476245"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476245">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476257">
+         <dc:identifier>DE-611-HS-3476257</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Gliederung zu "Die Tanzkunst Indiens" (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Manuskript: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/67</bf:shelfMark>
+         <dcterms:extent>4 Bl. (5 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476257">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476257"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476257"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476257">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476262">
+         <dc:identifier>DE-611-HS-3476262</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Wesen (Spezifik, Eigenart, Theorie) des klassischen indischen Tanzes (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Manuskript: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/68</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476262">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476262"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476262"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476262">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476263">
+         <dc:identifier>DE-611-HS-3476263</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Der Tanz in der vedisch-brahmanischen Kultur (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Manuskript: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/69</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476263">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476263"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476263"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476263">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476264">
+         <dc:identifier>DE-611-HS-3476264</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Bharata Natyam (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Manuskript: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/70</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476264">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476264"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476264"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476264">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476265">
+         <dc:identifier>DE-611-HS-3476265</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Kathak (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Manuskript: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/71</bf:shelfMark>
+         <dcterms:extent>3 Bl. (3 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476265">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476265"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476265"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476265">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476266">
+         <dc:identifier>DE-611-HS-3476266</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Manipuri (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Manuskript: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/72</bf:shelfMark>
+         <dcterms:extent>4 Bl. (4 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476266">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476266"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476266"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476266">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476268">
+         <dc:identifier>DE-611-HS-3476268</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Wiedergeburt und Perspektiven (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Manuskript: Die Tanzkunst Indiens / Eberhard Rebling.</dc:description>
+         <dcterms:created rdf:resource="1981-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/73</bf:shelfMark>
+         <dcterms:extent>3 Bl. (3 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476268">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476268"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476268"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476268">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476284">
+         <dc:identifier>DE-611-HS-3476284</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus dem Werk: Folk-Dance of Maharashtra / Agarkan, A. J., Bombay, 1950.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/74</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476284">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476284"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476284"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476284">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476285">
+         <dc:identifier>DE-611-HS-3476285</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus dem Werk: Die Kunst Indiens / Baktay, Erwin, 1963.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/75</bf:shelfMark>
+         <dcterms:extent>4 Bl. (4 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476285">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476285"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476285"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476285">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476286">
+         <dc:identifier>DE-611-HS-3476286</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus dem Werk: Die orientalische Welt / Brentjes, Burchard, 1970.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/76</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476286">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476286"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476286"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476286">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476287">
+         <dc:identifier>DE-611-HS-3476287</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus dem Werk: Chane, Sultane, Emire / Brentjes, Burchard, 1974.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/77</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476287">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476287"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476287"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476287">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3476289">
+         <dc:identifier>DE-611-HS-3476289</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus dem Werk: Einführung in die indische Musik / Danielou, Alain, 1975.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/78</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3476289">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3476289"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3476289"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3476289">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477301">
+         <dc:identifier>DE-611-HS-3477301</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus dem Werk: Sagen und Märchen Altindiens / Essigmann, Alois, 1920.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/79</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477301">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477301"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477301"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477301">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477306">
+         <dc:identifier>DE-611-HS-3477306</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus dem Werk: Hinduistische und islamische Kunst Indiens / Franz, Heinrich Gerhard, 1962.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/80</bf:shelfMark>
+         <dcterms:extent>4 Bl. (4 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477306">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477306"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477306"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477306">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477309">
+         <dc:identifier>DE-611-HS-3477309</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus dem Werk: Buddhistische Kunst Indiens / Franz, Heinrich Gerhard, 1965.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/81</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477309">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477309"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477309"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477309">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477313">
+         <dc:identifier>DE-611-HS-3477313</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus dem Werk: Notizen zu Pallava / Franz, Heinrich Gerhard.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/82</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477313">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477313"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477313"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477313">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477315">
+         <dc:identifier>DE-611-HS-3477315</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus dem Werk: Reise zu den Naga / Ganguli, Milada, 1976.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/83</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477315">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477315"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477315"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477315">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477327">
+         <dc:identifier>DE-611-HS-3477327</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus dem Werk: Spuren des Prometheus / Herrmann, Joachim, 1975.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/84</bf:shelfMark>
+         <dcterms:extent>3 Bl. (3 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477327">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477327"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477327"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477327">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477335">
+         <dc:identifier>DE-611-HS-3477335</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift aus dem Werk: The theatric Universe / Kale, Pramod, 1974.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/85</bf:shelfMark>
+         <dcterms:extent>17 Bl. (17 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477335">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477335"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477335"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477335">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477336">
+         <dc:identifier>DE-611-HS-3477336</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus dem Werk: Das alte Indien / Kosambi, Damodar Dharmanand, 1969.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/86</bf:shelfMark>
+         <dcterms:extent>5 Bl. (5 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477336">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477336"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477336"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477336">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477345">
+         <dc:identifier>DE-611-HS-3477345</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus dem Werk: Alte Briefe aus Indien / Lehmann, Otto, 1957.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/87</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477345">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477345"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477345"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477345">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477348">
+         <dc:identifier>DE-611-HS-3477348</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus dem Werk: Kunst der Urgesellschaft / Mirimanow, Wil B. 1973.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/88</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477348">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477348"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477348"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477348">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477357">
+         <dc:identifier>DE-611-HS-3477357</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus einem Werk: Mang[?].</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/89</bf:shelfMark>
+         <dcterms:extent>5 Bl. (5 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477357">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477357"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477357"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477357">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477368">
+         <dc:identifier>DE-611-HS-3477368</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus einem Werk: Adavus / Mang[?].</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/90</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477368">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477368"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477368"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477368">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477373">
+         <dc:identifier>DE-611-HS-3477373</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus einem Werk: Das frühe Indien / Mode, Heinz, 1960.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/91</bf:shelfMark>
+         <dcterms:extent>5 Bl. (5 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477373">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477373"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477373"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477373">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477379">
+         <dc:identifier>DE-611-HS-3477379</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus einem Werk: Odissi Dance / Patnaik, Dhirendra Nath, 1971.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/92</bf:shelfMark>
+         <dcterms:extent>7 Bl. (7 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477379">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477379"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477379"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477379">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477385">
+         <dc:identifier>DE-611-HS-3477385</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus einem Werk: Die gesellschaftliche Entwicklung im Alten Indien. Band 5 / Ruben, Walter, 1976-1973.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/93</bf:shelfMark>
+         <dcterms:extent>19 Bl. (19 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477385">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477385"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477385"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477385">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477391">
+         <dc:identifier>DE-611-HS-3477391</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus einem Werk: Die gesellschaftliche Entwicklung im Alten Indien. Band 5 / Ruben, Walter, 1976-1973.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/94</bf:shelfMark>
+         <dcterms:extent>22 Bl. (22 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477391">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477391"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477391"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477391">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477392">
+         <dc:identifier>DE-611-HS-3477392</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus einem Werk: Die gesellschaftliche Entwicklung im Alten Indien. Band 5 / Ruben, Walter, 1976-1973.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/95</bf:shelfMark>
+         <dcterms:extent>9 Bl. (9 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477392">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477392"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477392"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477392">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477394">
+         <dc:identifier>DE-611-HS-3477394</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus einem Werk: Die gesellschaftliche Entwicklung im Alten Indien. Band 5 / Ruben, Walter, 1976-1973.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/96</bf:shelfMark>
+         <dcterms:extent>9 Bl. (9 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477394">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477394"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477394"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477394">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477398">
+         <dc:identifier>DE-611-HS-3477398</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus einem Werk: Eine Weltgeschichte des Tanzes / Sachs, Curt, 1933.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/97</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477398">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477398"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477398"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477398">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3477405">
+         <dc:identifier>DE-611-HS-3477405</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Eberhard Rebling - Nachlass Eberhard Rebling: 1. Werk</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118816772"/>
+         <dc:title>Zusammenfassung von Publikationen</dc:title>
+         <dc:description>Abschrift aus einem Werk: Das Geheimnis der Toda / Schaposchnikowa, Ljudmilla, 1976.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 400/1/98</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3477405">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3477405"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3477405"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3477405">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+</rdf:Bag>

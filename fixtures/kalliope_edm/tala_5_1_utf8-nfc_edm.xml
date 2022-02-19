@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:Bag xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:edm="http://www.europeana.eu/schemas/edm/"
+         xmlns:ore="http://www.openarchives.org/ore/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:bibo="http://purl.org/ontology/bibo/"
+         xmlns:bf="http://id.loc.gov/ontologies/bibframe/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdau="http://rdaregistry.info/Elements/u/"
+         xmlns:eclap="http://www.eclap.eu/schema/eclap/">
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-54339">
+         <dc:identifier>DE-611-BF-54339</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <rdau:P60849>Männer-Gesang-Verein Zeitz (1826-)</rdau:P60849>
+         <dc:title>Musikalien Männer-Gesang-Verein Zeitz (Titel)</dc:title>
+         <dc:description>Musikalien, Abschriften volkstümlicher Musik / Volkstänze</dc:description>
+         <bf:shelfMark>NL 363</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-54339">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-54339"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-54339"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-54339">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2933447">
+         <dc:identifier>DE-611-HS-2933447</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Musikalien Männer-Gesang-Verein Zeitz</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134488075"/>
+         <dc:title>Tänze. I. Bransles (Manuskripttitel)</dc:title>
+         <dc:description>Stimmen für Streichorchester (Flöte, Oboe, Violine I, Violine II, Violoncello, Kontrabass), teilw. gedruckt Ausg. vom Georg Kallmeyer Verlag, teilw. handschriftlich abgeschrieben.</dc:description>
+         <dcterms:created rdf:resource="1927-01-01T00:00:00Z_1927-12-31T23:59:59Z"/>
+         <rdau:P60163>Wolfenbüttel/Berlin [Verlagsort der Musikdrucke]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 363/1</bf:shelfMark>
+         <dcterms:extent>4 Stimmen (je 8 gedr. S.), 6 Stimmen (9 Bl.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2933447">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2933447"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2933447"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2933447">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2933611">
+         <dc:identifier>DE-611-HS-2933611</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Musikalien Männer-Gesang-Verein Zeitz</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1045658677"/>
+         <dc:contributor>Hülße, Karl</dc:contributor>
+         <dc:title>Tänze. Dölziger Mühle (Manuskripttitel)</dc:title>
+         <dc:description>Partitur und Stimmen (Violine I (5x), Violine II (3x), Cello (3x), Flöte (2x), Basso, Bratsche, Gitarre (2x)) für Orchester zum Tanzstück "Dölziger Mühle"</dc:description>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 363/2</bf:shelfMark>
+         <dcterms:extent>Partitur (7 Bl., 13 hs. S.), Stimmen (20 Bl., 38 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2933611">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2933611"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2933611"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2933611">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2933693">
+         <dc:identifier>DE-611-HS-2933693</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Musikalien Männer-Gesang-Verein Zeitz</dcterms:isPartOf>
+         <dc:contributor>Hülße, Karl</dc:contributor>
+         <dc:title>Gänsereigen, Danz. Quieselche (Manuskripttitel)</dc:title>
+         <dc:description>Stimmen für Orchester zu den Stücken: Gänsereigen und Danz. Quieselche (Klavier, Violine I, Violine II, Bratsche, Violoncello, Bass, Flöte, Oboe, Klarinette, Trompete, Schlagteug)</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 363/3</bf:shelfMark>
+         <dcterms:extent>11 Stimmen (17 Bl., 33 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2933693">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2933693"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2933693"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2933693">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2933747">
+         <dc:identifier>DE-611-HS-2933747</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Musikalien Männer-Gesang-Verein Zeitz</dcterms:isPartOf>
+         <dc:contributor>Hülße, Karl</dc:contributor>
+         <dc:title>Tanz-Singspiel. Bauernhochzeit (Manuskripttitel)</dc:title>
+         <dc:description>Instrumentalstimme für Orchester + Gesangstimmen für Männerstimme und Frauenstimme (Kopien) für das Werk Bauernhochzeit</dc:description>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 363/4</bf:shelfMark>
+         <dcterms:extent>17 Instrumentalstimmen (26 Bl., 47 hs. S.) , Gesangstimmen (72 Bl., 144 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2933747">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2933747"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2933747"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2933747">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2933771">
+         <dc:identifier>DE-611-HS-2933771</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Musikalien Männer-Gesang-Verein Zeitz</dcterms:isPartOf>
+         <dc:contributor>Hülße, Karl</dc:contributor>
+         <dc:title>Karneval Musik - Einzugsmarsch, Spanisch, Bajadere, Negertanz (Manuskripttitel)</dc:title>
+         <dc:description>Stimmen für versschiedene Stücke zum Karneval (Karnevalsmusik - Die Waldgeister, Einzugsmarsch, Spanisch (Bolero), Bajadere, Negertanz</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 363/5</bf:shelfMark>
+         <dcterms:extent>59 Bl. (116 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2933771">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2933771"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2933771"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2933771">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2933832">
+         <dc:identifier>DE-611-HS-2933832</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Musikalien Männer-Gesang-Verein Zeitz</dcterms:isPartOf>
+         <dc:contributor>Hülße, Karl</dc:contributor>
+         <dc:title>4 Tänze (Manuskripttitel)</dc:title>
+         <dc:description>Partituren und Stimmen (Orchester) für 4 Tänze: - Ecossaisen v. Beethoven, für Liebhaberorchester bearb. von Karl Hülsze - Das Mädchen, das geht im Tanze, bearb. K. Hülsze - Deutsche Tänze. Fr. Schubert, bearb. für Liebhaberorchester von Karl Hülsze - Tanzen und Springen, Deutscher Tanz 1601, bearb. von Karl Hülsze</dc:description>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 363/6</bf:shelfMark>
+         <dcterms:extent>3 Partituren (22 Bl. 43 hs. S.), 14 Stimmen (50 Bl., 86 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2933832">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2933832"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2933832"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2933832">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2933845">
+         <dc:identifier>DE-611-HS-2933845</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Musikalien Männer-Gesang-Verein Zeitz</dcterms:isPartOf>
+         <dc:contributor>Hülße, Karl</dc:contributor>
+         <dc:title>Die Eifersüchtige, Puppentanz (Manuskripttitel)</dc:title>
+         <dc:description>Partitur und Stimmen für Streichorchester</dc:description>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 363/7</bf:shelfMark>
+         <dcterms:extent>1 Partitur (4 Bl., 8 hs. S.), 11 Stimmen (11 Bl., 22 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2933845">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2933845"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2933845"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2933845">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2933864">
+         <dc:identifier>DE-611-HS-2933864</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Musikalien Männer-Gesang-Verein Zeitz</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134332911"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_130897817"/>
+         <dc:title>Kopien handschriftlicher Notenabschriften (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Handschriftliche Abschriften von Noten für Klavier: - Coda (zu "Packt an!"), Guido Masunetz - Fischer und Matrosentanz, Hans Boll - Groteske, Wolfram Heicking</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 363/8</bf:shelfMark>
+         <dcterms:extent>14 Bl. (14 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2933864">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2933864"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2933864"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2933864">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2933882">
+         <dc:identifier>DE-611-HS-2933882</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Musikalien Männer-Gesang-Verein Zeitz</dcterms:isPartOf>
+         <dc:contributor>Hülße, Karl</dc:contributor>
+         <dc:title>Ins Federbett. Thür. Volkstanz (Manuskripttitel)</dc:title>
+         <dc:description>Kopien von handschriftlichen Abschriften der Noten zu "Ins Federbett" für gemischten Chor</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 363/9</bf:shelfMark>
+         <dcterms:extent>8 Bl. (16 hs. S./Kopien)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2933882">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2933882"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2933882"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2933882">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2933932">
+         <dc:identifier>DE-611-HS-2933932</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Musikalien Männer-Gesang-Verein Zeitz</dcterms:isPartOf>
+         <dc:contributor>Hülße, Karl [vermutlich]</dc:contributor>
+         <dc:title>Fragmente von Noten (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Fragmente von vermutlich Bearbeitungen/Abschriften von Noten</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 363/10</bf:shelfMark>
+         <dcterms:extent>5 Bl. (9 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2933932">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2933932"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2933932"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2933932">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2933959">
+         <dc:identifier>DE-611-HS-2933959</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Musikalien Männer-Gesang-Verein Zeitz</dcterms:isPartOf>
+         <dc:contributor>Hülße, Karl</dc:contributor>
+         <dc:title>Die schwarzbraune Hexe. Der letzte Abend (Manuskripttitel)</dc:title>
+         <dc:description>- Partitur für Streichorchester und Stimmen (Hörner, Schlagzeug) zur Bearbeitung von "Die schwarzbraune Hexe" - Partitur für Streichorchester zur Bearbeitung von "Der letzte Abend"</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 363/11</bf:shelfMark>
+         <dcterms:extent>22 Bl. (43 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2933959">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2933959"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2933959"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2933959">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3077757">
+         <dc:identifier>DE-611-HS-3077757</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Musikalien Männer-Gesang-Verein Zeitz</dcterms:isPartOf>
+         <dc:contributor>Hülße, Karl</dc:contributor>
+         <dc:title>Erntespiel (Manuskripttitel)</dc:title>
+         <dc:description>Partitur und Stimmen für Streichorchester</dc:description>
+         <rdau:P60163>Zeitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 363/12</bf:shelfMark>
+         <dcterms:extent>62 Bl. (111 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3077757">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3077757"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3077757"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3077757">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+</rdf:Bag>

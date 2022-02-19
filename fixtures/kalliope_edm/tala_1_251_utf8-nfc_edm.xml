@@ -1,0 +1,1670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:Bag xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:edm="http://www.europeana.eu/schemas/edm/"
+         xmlns:ore="http://www.openarchives.org/ore/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:bibo="http://purl.org/ontology/bibo/"
+         xmlns:bf="http://id.loc.gov/ontologies/bibframe/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdau="http://rdaregistry.info/Elements/u/"
+         xmlns:eclap="http://www.eclap.eu/schema/eclap/">
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771437">
+         <dc:identifier>DE-611-HS-1771437</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Sammlung</dcterms:isPartOf>
+         <dc:contributor>Kendel, Adolf</dc:contributor>
+         <dc:title>Wohl eins, zwei, drei : den Tanz- und Hausmusikanten eine Klavierausgabe zu den beiden Heften von Richard Hinz und Karl Horak "Volkstänze aus Schwaben</dc:title>
+         <dc:description>Sammlung von Volksliedern mit Noten zum musizieren.</dc:description>
+         <dcterms:created rdf:resource="1935-01-01T00:00:00Z_1935-12-31T23:59:59Z"/>
+         <rdau:P60163>Kassel</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/4/75, Blatt 75</bf:shelfMark>
+         <dcterms:extent>19 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771437">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771437"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771437"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771437">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771442">
+         <dc:identifier>DE-611-HS-1771442</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Sammlung</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_127996389"/>
+         <dc:title>Bunte Tänze aus acht Jahrhunderten für Laute gesetzt : ausgewählte Volkstänze mit Singreimen, Liedern, Bildern und Tanzbeschreibungen</dc:title>
+         <dc:description>Sammlung von Volksliedern mit Noten zum musizieren.</dc:description>
+         <dcterms:created rdf:resource="1919-01-01T00:00:00Z_1919-12-31T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/4/76, Blatt 76</bf:shelfMark>
+         <dcterms:extent>80 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771442">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771442"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771442"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771442">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771445">
+         <dc:identifier>DE-611-HS-1771445</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Sammlung</dcterms:isPartOf>
+         <dc:contributor>Ochs, Gerd (1903-1977)</dc:contributor>
+         <dc:title>Volkstänze für zwei Blockflöten oder zwei Violinen mit Buchstsben für Lauten-(Gitarren-)Begleitung ad libitum</dc:title>
+         <dc:description>Sammlung von Volksliedern mit Noten zum musizieren.</dc:description>
+         <rdau:P60163>Halle (Saale)</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/4/78, Blatt 78</bf:shelfMark>
+         <dcterms:extent>15 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771445">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771445"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771445"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771445">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771449">
+         <dc:identifier>DE-611-HS-1771449</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Sammlung</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134560019"/>
+         <dc:title>Volkstanzbüchlein VI: "Appenzeller Ländler" für Altblockflöte oder ein anderes Melodieinstrument und Klavier</dc:title>
+         <dc:description>Volkslied mit Noten zum musizieren.</dc:description>
+         <rdau:P60163>Halle (Saale)</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/4/79, Blatt 79</bf:shelfMark>
+         <dcterms:extent>9 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771449">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771449"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771449"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771449">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771453">
+         <dc:identifier>DE-611-HS-1771453</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Sammlung</dcterms:isPartOf>
+         <dc:contributor>Dieckelmann, Heinrich</dc:contributor>
+         <dc:contributor>Laudan, Max</dc:contributor>
+         <dc:title>Jungmöhl : niederdeutsche Volkstänze der Gegwenwart</dc:title>
+         <dc:description>Volkslieder mit Noten zum musizieren.</dc:description>
+         <dcterms:created rdf:resource="1925-01-01T00:00:00Z_1925-12-31T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/4/80, Blatt 80</bf:shelfMark>
+         <dcterms:extent>31 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771453">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771453"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771453"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771453">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771454">
+         <dc:identifier>DE-611-HS-1771454</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Sammlung</dcterms:isPartOf>
+         <dc:contributor>Prinke, Siegfried</dc:contributor>
+         <dc:contributor>Pröll, Hans</dc:contributor>
+         <dc:title>Altsteirische Volkstänze</dc:title>
+         <dc:description>Volkslied mit Noten zum musizieren.</dc:description>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/4/81, Blatt 81</bf:shelfMark>
+         <dcterms:extent>15,6 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771454">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771454"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771454"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771454">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771464">
+         <dc:identifier>DE-611-HS-1771464</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Bunte Tänze, wie wir sie suchten und fanden</dc:title>
+         <dc:description>Volkslieder mit Noten zum musizieren.</dc:description>
+         <dcterms:created rdf:resource="1957-01-23T00:00:00Z_1957-01-23T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/4/82, Blatt 82</bf:shelfMark>
+         <dcterms:extent>173 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771464">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771464"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771464"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771464">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771592">
+         <dc:identifier>DE-611-HS-1771592</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Sammlung</dcterms:isPartOf>
+         <dc:title>Packt an - wir bauen den Sozialismus</dc:title>
+         <dc:description>Choreografie für "Die Maisernte", "Fischer- und Matrosentanz" und "Coda"</dc:description>
+         <dcterms:created rdf:resource="1960-01-01T00:00:00Z_1960-12-31T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/4/83, Blatt 83</bf:shelfMark>
+         <dcterms:extent>1 Heft (22 S.), Pläne (10 S.), 3 Notenhefte (6,10,5 S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771592">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771592"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771592"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771592">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771608">
+         <dc:identifier>DE-611-HS-1771608</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Sammlung</dcterms:isPartOf>
+         <dc:title>Sammlung von Noten (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Notenblätter für Volkstänze, z.B. Walzer, Schottisch, Polka, Rheinländer,Siebenschritt usw.</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/4/84, Blatt 84</bf:shelfMark>
+         <dcterms:extent>70 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771608">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771608"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771608"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771608">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2947156">
+         <dc:identifier>DE-611-HS-2947156</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2161280-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Ausstellung: Vom Wandervogel bis Rudolstadt (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>2 Flyer zur Eröffnung der Ausstellung "Vom Wandervogel bis Rudolstadt - Erich Janietz, ein Leben für den Volkstanz" anlässlich zum 100. Geburtstag</dc:description>
+         <dcterms:created rdf:resource="2003-01-01T00:00:00Z_2004-12-31T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <rdau:P60163>Hannover</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/4/85</bf:shelfMark>
+         <dcterms:extent>3 Bl. (6 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2947156">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2947156"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2947156"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2947156">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-2947165">
+         <dc:identifier>DE-611-HS-2947165</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Sammlung</dcterms:isPartOf>
+         <dc:title>Freydal Glasplattennegative (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>36 Glasplattennegative mit Kopien der Miniaturen zu mittelalterlichen Tänzen, vermutlich aus dem "Freydal" Turnierbuch</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/4/86</bf:shelfMark>
+         <dcterms:extent>36 Glasplatten</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-2947165">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-2947165"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-2947165"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-2947165">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-32397">
+         <dc:identifier>DE-611-BF-32397</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Nachlass Erich Janietz, Werke (Titel)</dc:title>
+         <bf:shelfMark>1</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-32397">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-32397"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-32397"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-32397">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766209">
+         <dc:identifier>DE-611-HS-1766209</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Vorwort zu den "Mecklenburgischen Bauerntänzen"</dc:title>
+         <dc:description>Vorwort zu einem 1958 erschienenen Buch: "Mecklenburgische Bauerntänze / Bearb. von Fritz Diederich. - Berlin : VEB Lied d. Zeit, 1958."</dc:description>
+         <dcterms:created rdf:resource="1958-01-01T00:00:00Z_1958-12-31T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/1, Blatt 1</bf:shelfMark>
+         <dcterms:extent>Manuskript, 9 Bl. (4 masch. S. / 5 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766209">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766209"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766209"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766209">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766212">
+         <dc:identifier>DE-611-HS-1766212</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_117174181"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_16326517-3"/>
+         <dc:title>Lose Blätter vom Jugendtanz</dc:title>
+         <dc:description>Musiknoten zu Volkstänzen.</dc:description>
+         <dcterms:created rdf:resource="1930-01-01T00:00:00Z_1930-12-31T23:59:59Z"/>
+         <rdau:P60163>Merseburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/44, Blatt 44</bf:shelfMark>
+         <dcterms:extent>44, 12 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766212">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766212"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766212"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766212">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766215">
+         <dc:identifier>DE-611-HS-1766215</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Referat des Genossen Erich Janietz</dc:title>
+         <dc:description>Referat des Genossen Erich Janietz auf der Konferenz der Laientanzschaffenden der DDR anlässlich des 5. Festes des Deutschen Volkstanzes.</dc:description>
+         <dcterms:created rdf:resource="1960-01-01T00:00:00Z_1960-12-31T23:59:59Z"/>
+         <rdau:P60163>Rudolstadt</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/3, Blatt 3</bf:shelfMark>
+         <dcterms:extent>45 Bl. (45 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766215">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766215"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766215"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766215">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766226">
+         <dc:identifier>DE-611-HS-1766226</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Zur Frage des Realismus im Tanz</dc:title>
+         <dc:description>Handschriftliche Notizen zur "Zur Frage des Realismus im Tanz : Das Vorbild der SU" und zur Bedeutung des sowjetischen Balletts.</dc:description>
+         <dc:description>o.D. [ca. 1948]</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/4, Blatt 4</bf:shelfMark>
+         <dcterms:extent>17 Bl. (17 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766226">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766226"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766226"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766226">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766232">
+         <dc:identifier>DE-611-HS-1766232</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027065-3"/>
+         <dc:title>Gewissenszwang : ein Beispiel politischer Agitation im Tanz</dc:title>
+         <dc:description>Diskussionsmaterial für das 4. Fest des Deutschen Volkstanzes in Rudolstadt 1958 zum Thema Gewissenszwang im Tanz.</dc:description>
+         <dcterms:created rdf:resource="1958-01-01T00:00:00Z_1958-12-31T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/5, Blatt 5</bf:shelfMark>
+         <dcterms:extent>2 Ex. mit je 8 Bl. (15 S.), Noten</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766232">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766232"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766232"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766232">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766237">
+         <dc:identifier>DE-611-HS-1766237</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Zu Fragen der Laientanzarbeit</dc:title>
+         <dc:description>Notizen zu einem Kulturfunktionärs-Lehrgang des Ministeriums für Kultur.</dc:description>
+         <dcterms:created rdf:resource="1957-06-20T00:00:00Z_1957-06-20T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/6, Blatt 6</bf:shelfMark>
+         <dcterms:extent>6 Bl. (5 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766237">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766237"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766237"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766237">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766241">
+         <dc:identifier>DE-611-HS-1766241</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Über die Aufgaben des Gesellschaftstanzes</dc:title>
+         <dc:description>Notizen zum Referat über Fragen des Gesellschaftstanzes und der Tanzlehrer für die Tagung der Gesellschaft für Tanzlehrer in Jena am 10.5.1955.</dc:description>
+         <dcterms:created rdf:resource="1955-05-10T00:00:00Z_1955-05-10T23:59:59Z"/>
+         <rdau:P60163>Jena</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/6, Blatt 6</bf:shelfMark>
+         <dcterms:extent>30 Bl. (30 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766241">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766241"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766241"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766241">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766249">
+         <dc:identifier>DE-611-HS-1766249</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027065-3"/>
+         <dc:title>Von der Erziehung in den Volkstanzgruppen</dc:title>
+         <dc:description>Zeitschriftenartikel zum Thema Erziehung in den Volkstanzgruppen.</dc:description>
+         <dcterms:created rdf:resource="1956-03-01T00:00:00Z_1956-03-31T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/7, Blatt 7</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766249">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766249"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766249"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766249">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766436">
+         <dc:identifier>DE-611-HS-1766436</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027065-3"/>
+         <dc:title>Zu den Aufgaben im sozialistischen Laientanzschaffen</dc:title>
+         <dc:description>Referat von Erich Janietz auf der Konferenz der Laientanzschaffenden der DDR anlässlich des 5. Festes des Deutschen Volkstanzes 1960 in Rudolstadt.</dc:description>
+         <dcterms:created rdf:resource="1960-01-01T00:00:00Z_1960-12-31T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/8, Blatt 8</bf:shelfMark>
+         <dcterms:extent>2 Hefte je 32 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766436">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766436"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766436"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766436">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766438">
+         <dc:identifier>DE-611-HS-1766438</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Der Volkstanz lebt!</dc:title>
+         <dc:description>Artikel in einem Programmheft des Rates der Stadt Rudolstadt zum Tanzfest in Rudolstadt vom 24.-26.6.1955.</dc:description>
+         <dcterms:created rdf:resource="1955-01-01T00:00:00Z_1955-12-31T23:59:59Z"/>
+         <rdau:P60163>Rudolstadt</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/9, Blatt 9</bf:shelfMark>
+         <dcterms:extent>3 S. (Ill.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766438">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766438"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766438"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766438">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766443">
+         <dc:identifier>DE-611-HS-1766443</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027065-3"/>
+         <dc:title>Über die "Kleine Form" im Tanz</dc:title>
+         <dc:description>Zeitschriftenartikel über die "Kleine Form" im Tanz.</dc:description>
+         <dcterms:created rdf:resource="1956-02-01T00:00:00Z_1956-02-29T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/10, Blatt 10</bf:shelfMark>
+         <dcterms:extent>2 Bl. (3 S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766443">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766443"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766443"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766443">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766451">
+         <dc:identifier>DE-611-HS-1766451</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor>Kleinschmidt, Elfriede</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027065-3"/>
+         <dc:title>Die künstlerische Gestaltung der Volkstänze</dc:title>
+         <dc:description>Arbeitsheft mit dem Inhalt: Aufgaben der künstlerischen Gestaltung, Thesen zum Fachgespräch, Anlagen zu den Thesen.</dc:description>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/11, Blatt 11</bf:shelfMark>
+         <dcterms:extent>2 Hefte mit je 22 masch. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766451">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766451"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766451"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766451">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766467">
+         <dc:identifier>DE-611-HS-1766467</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027065-3"/>
+         <dc:title>Der Volkstanz in der Schule und in den außerschulischen Arbeitsgemeinschaften</dc:title>
+         <dc:description>Arbeitsheft mit dem Inhalt: Volkstanz in der Schule und in den außerschulischen Arbeitsgemeinschaften.</dc:description>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/12, Blatt 12</bf:shelfMark>
+         <dcterms:extent>9 masch. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766467">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766467"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766467"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766467">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766471">
+         <dc:identifier>DE-611-HS-1766471</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027065-3"/>
+         <dc:title>Zu Fragen des Gesellschaftstanzes</dc:title>
+         <dc:description>Arbeitsheft mit dem Inhalt: Die Aufgaben der Lehrer des Gesellschaftstanzes bei der Entwicklung der sozialistischen Kultur : Referat anläßlich der konstituierenden Tagung der Arbeitsgemeinschaft der hauptberuflich tätigen Lehrer für Gesellschaftstanz in Erfurt am 29.9.1958. Im Anhang: Kommunique über die Konferenz der Lehrer für Gesellschaftstanz in Erfurt.</dc:description>
+         <dcterms:created rdf:resource="1958-09-29T00:00:00Z_1958-09-29T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/13, Blatt 13</bf:shelfMark>
+         <dcterms:extent>22, 1 masch. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766471">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766471"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766471"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766471">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1766483">
+         <dc:identifier>DE-611-HS-1766483</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_117318078"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118891480"/>
+         <dc:title>Berlin in sieben Jahrhunderten deutscher Geschichte</dc:title>
+         <dc:description>Heftspiel zur Feier des 700 jährigen Bestehens der Reichshauptstadt aufgeführt im Olympia-Stadion am 18. August 1937, 20.30 Uhr. Wiederholungen am 21. und 22. August 1937, 20.30 Uhr. Manuskript nach Ideen von Erich Streubel. Gesamtspielleitung Dr. Hanns Riedecken-Gebhard. Tanzgestaltung u.a. Erich Janietz.</dc:description>
+         <dcterms:created rdf:resource="1937-07-15T00:00:00Z_1937-07-15T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/14, Blatt 14</bf:shelfMark>
+         <dcterms:extent>42 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1766483">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1766483"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1766483"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1766483">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770718">
+         <dc:identifier>DE-611-HS-1770718</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_124391141"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027065-3"/>
+         <dc:title>Zur Volkstanzforschung</dc:title>
+         <dc:description>Arbeitsheft mit einem Referat von Erich Janietz zur Tagung der Deutschen Akademie der Wissenschaften zu Berlin am 5.9. 1953.</dc:description>
+         <dc:description>o.D. [ca. 1953]</dc:description>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/16, Blatt 16</bf:shelfMark>
+         <dcterms:extent>20, 2 masch. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770718">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770718"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770718"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770718">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770719">
+         <dc:identifier>DE-611-HS-1770719</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_117174181"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Kleines Stossaisenspiel</dc:title>
+         <dc:description>Anleitung für ein Tanzspiel.</dc:description>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/17, Blatt 17</bf:shelfMark>
+         <dcterms:extent>2 Bl., (4 S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770719">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770719"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770719"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770719">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770725">
+         <dc:identifier>DE-611-HS-1770725</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027065-3"/>
+         <dc:title>Sozialistische Thematik im Tanz : Versuche in Lehrgängen des Zentralhauses</dc:title>
+         <dc:description>Übersicht über die Versusche in den Lehrgängen.</dc:description>
+         <dcterms:created rdf:resource="1958-10-22T00:00:00Z_1958-10-22T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/18, Blatt 18</bf:shelfMark>
+         <dcterms:extent>11 masch. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770725">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770725"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770725"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770725">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770726">
+         <dc:identifier>DE-611-HS-1770726</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027065-3"/>
+         <dc:title>Sozialistische Thematik im Tanz II : Disposition eines Referates</dc:title>
+         <dc:description>Disposition eines Referates von Erich Janietz bei der Tagung der Bezirksarbeitgemeinschaft Volkstanz im Bezirk Gera in Rudolstadt am 6.12.1958.</dc:description>
+         <dcterms:created rdf:resource="1958-12-06T00:00:00Z_1958-12-06T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/19, Blatt 19</bf:shelfMark>
+         <dcterms:extent>8 masch. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770726">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770726"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770726"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770726">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770728">
+         <dc:identifier>DE-611-HS-1770728</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5095639-5"/>
+         <dc:title>Volks- und Laientanz in der sozialistischen Volkskunstbewegung</dc:title>
+         <dc:description>Arbeitserklärung.</dc:description>
+         <dcterms:created rdf:resource="1958-01-01T00:00:00Z_1958-01-31T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/20, Blatt 20</bf:shelfMark>
+         <dcterms:extent>7 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770728">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770728"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770728"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770728">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770760">
+         <dc:identifier>DE-611-HS-1770760</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Notizbuchfragment zu schulischen Fragen</dc:title>
+         <dc:description>Notizbuch ohne Titel und Datierung zu Fragen des Schulaltags etc.</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/21, Blatt 21</bf:shelfMark>
+         <dcterms:extent>S.17-49</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770760">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770760"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770760"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770760">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770763">
+         <dc:identifier>DE-611-HS-1770763</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Über den Ursprung der Kunst (und auch des Tanzes)</dc:title>
+         <dc:description>Abhandlung zu tanztheoretischen Fragen.</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/22, Blatt 22</bf:shelfMark>
+         <dcterms:extent>39 masch. S., 5 hs. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770763">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770763"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770763"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770763">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770766">
+         <dc:identifier>DE-611-HS-1770766</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Zu Fragen des Tanzes</dc:title>
+         <dc:description>Notizen und Zusammenstellung von Publikationen zu tanztheoretischen Fragen, teilweise handschriftlich.</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/23, Blatt 23</bf:shelfMark>
+         <dcterms:extent>6 Notizhefte</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770766">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770766"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770766"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770766">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770771">
+         <dc:identifier>DE-611-HS-1770771</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Der Volkstanz als geselliger Tanz</dc:title>
+         <dc:description>Schriftliche Version eines Vortages, der zu den Studientagen zum 2. Fest des Deutschen Volkstanzes gehalten wurde.</dc:description>
+         <dcterms:created rdf:resource="1956-01-01T00:00:00Z_1956-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/25, Blatt 25</bf:shelfMark>
+         <dcterms:extent>6 Bl. (6 S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770771">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770771"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770771"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770771">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770777">
+         <dc:identifier>DE-611-HS-1770777</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Vom Tanz in der Mark Brandenburg : ein Bericht in Auswertung der Rundfrage des "Atlas der deutschen Volkskunde von 1932"</dc:title>
+         <dc:description>2 teiliger Zeitschriftenaufsatz zur Tanzkunstforschung in der Mark Brandenburg.</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/24, Blatt 24</bf:shelfMark>
+         <dcterms:extent>5 Bl. (5 S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770777">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770777"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770777"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770777">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770984">
+         <dc:identifier>DE-611-HS-1770984</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Vorbereitungen zur Beratung der Fachmethodiker</dc:title>
+         <dc:description>Handschriftliche Notizen zur Vorbereitung einer Fachmethodikertagung.</dc:description>
+         <dcterms:created rdf:resource="1956-07-06T00:00:00Z_1956-07-07T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/26, Blatt 26</bf:shelfMark>
+         <dcterms:extent>4 Bl. (7 S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770984">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770984"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770984"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770984">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770987">
+         <dc:identifier>DE-611-HS-1770987</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Notizen zur Vorbeireitung des 2. Festes des Deutschen Volkstanzes</dc:title>
+         <dc:description>Handschriftliche Notizen zur Vorbereitung des Tanzfestes in Rudolstadt.</dc:description>
+         <dcterms:created rdf:resource="1956-05-26T00:00:00Z_1956-05-26T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/27, Blatt 27</bf:shelfMark>
+         <dcterms:extent>2 Bl. (3 S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770987">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770987"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770987"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770987">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770993">
+         <dc:identifier>DE-611-HS-1770993</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Notizen zur Tanzgeschichte</dc:title>
+         <dc:description>Notizen zur Tanzgeschichte.</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/28, Blatt 28</bf:shelfMark>
+         <dcterms:extent>14 hs. S., 13 masch. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770993">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770993"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770993"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770993">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770996">
+         <dc:identifier>DE-611-HS-1770996</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Vortragsnotizen zur Stalinfeier 21.12.1949</dc:title>
+         <dc:description>Vortragsnotizen zur Stalinfeier.</dc:description>
+         <dcterms:created rdf:resource="1949-12-21T00:00:00Z_1949-12-21T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/29, Blatt 29</bf:shelfMark>
+         <dcterms:extent>10 hs. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770996">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770996"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770996"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770996">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1770998">
+         <dc:identifier>DE-611-HS-1770998</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Vortragsnotizen zur Goethe-Feier der Schule am 27.11.1949</dc:title>
+         <dc:description>Vortragsnotizen zur Goethe-Feier.</dc:description>
+         <dcterms:created rdf:resource="1949-11-27T00:00:00Z_1949-11-27T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/30, Blatt 30</bf:shelfMark>
+         <dcterms:extent>10 Bl., 7 hs. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1770998">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1770998"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1770998"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1770998">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771001">
+         <dc:identifier>DE-611-HS-1771001</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Vortragsnotizen zur Entwicklung der Schule in der DDR</dc:title>
+         <dc:description>Vortragsnotizen zur Entwicklung der Schule in der DDR.</dc:description>
+         <dcterms:created rdf:resource="1955-01-01T00:00:00Z_1955-12-31T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/31, Blatt 31</bf:shelfMark>
+         <dcterms:extent>17 Bl., 16 hs. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771001">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771001"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771001"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771001">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771004">
+         <dc:identifier>DE-611-HS-1771004</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Notizen zur "Jugendbewegung"</dc:title>
+         <dc:description>Notizen zur "Jugendbewegung".</dc:description>
+         <dcterms:created rdf:resource="1955-01-01T00:00:00Z_1955-12-31T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/32, Blatt 32</bf:shelfMark>
+         <dcterms:extent>27 hs. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771004">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771004"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771004"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771004">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771009">
+         <dc:identifier>DE-611-HS-1771009</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Notizen zum Volkstanz und für den Aufruf der Volksmusikschaffenden der Stadt Leipzig</dc:title>
+         <dc:description>Notizen zum Volkstanz und für den Aufruf der Volksmusikschaffenden der Stadt Leipzig in Vorbereitung der 13. Arbeiterfestspiele für das 25 jährige Gründungsjubiläum der SED. Auffruf zur Fortführung der Volksmusikinitative.</dc:description>
+         <dcterms:created rdf:resource="1971-01-01T00:00:00Z_1971-12-31T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/33, Blatt 33</bf:shelfMark>
+         <dcterms:extent>10 hs. S., 6 masch. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771009">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771009"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771009"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771009">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771015">
+         <dc:identifier>DE-611-HS-1771015</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Politische Notizen</dc:title>
+         <dc:description>Politische Notizen zur Ablehnung der SPD.</dc:description>
+         <dcterms:created rdf:resource="1950-01-01T00:00:00Z_1950-12-31T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/34, Blatt 34</bf:shelfMark>
+         <dcterms:extent>6 hs. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771015">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771015"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771015"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771015">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771047">
+         <dc:identifier>DE-611-HS-1771047</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Schulentlassung Tietzow</dc:title>
+         <dc:description>Notizen zur Schulentlassung in der Schule Tietzow 1949. Notizen zum Festakt.</dc:description>
+         <dcterms:created rdf:resource="1949-07-23T00:00:00Z_1949-07-23T23:59:59Z"/>
+         <rdau:P60163>Nauen</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/36, Blatt 36</bf:shelfMark>
+         <dcterms:extent>22 Bl. 26 hs. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771047">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771047"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771047"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771047">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771052">
+         <dc:identifier>DE-611-HS-1771052</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Notizen zur "Demokratisierung" des gesellschaftlichen Lebens</dc:title>
+         <dc:description>Notizen zur "Demokratisierung" des gesellschaftlichen Lebens</dc:description>
+         <dcterms:created rdf:resource="1950-01-01T00:00:00Z_1950-12-31T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/37, Blatt 37</bf:shelfMark>
+         <dcterms:extent>2 Bl. 2 hs. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771052">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771052"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771052"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771052">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771055">
+         <dc:identifier>DE-611-HS-1771055</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Notizen zur Vorbereitung der IV. Weltfestspiele der Jugend</dc:title>
+         <dc:description>Notizen zur Vorbereitung der IV. Weltfestspiele der Jugend 1953 in Bukarest.</dc:description>
+         <dcterms:created rdf:resource="1953-01-01T00:00:00Z_1953-12-31T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/38, Blatt 38</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771055">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771055"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771055"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771055">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771058">
+         <dc:identifier>DE-611-HS-1771058</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Notizen zur Schulfeier zum Internationalen Frauentag</dc:title>
+         <dc:description>Redemanuskript und Programmfolge.</dc:description>
+         <dcterms:created rdf:resource="1949-03-08T00:00:00Z_1949-03-08T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/39, Blatt 39</bf:shelfMark>
+         <dcterms:extent>5 masch S., 1 masch. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771058">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771058"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771058"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771058">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771065">
+         <dc:identifier>DE-611-HS-1771065</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Revolutionsfeier 18.3.1948</dc:title>
+         <dc:description>Übersicht über 20 Programmpunkte und die dafür verantwortlichen Personen.</dc:description>
+         <dcterms:created rdf:resource="1948-03-18T00:00:00Z_1948-03-18T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/40, Blatt 40</bf:shelfMark>
+         <dcterms:extent>1 masch S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771065">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771065"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771065"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771065">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771069">
+         <dc:identifier>DE-611-HS-1771069</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Notizen zum Tanz</dc:title>
+         <dc:description>Verschiedene Notizen zum Thema Tanz und zu den Vorbereitungen der Tanzfeste in Rudolstadt.</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/41, Blatt 41</bf:shelfMark>
+         <dcterms:extent>20 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771069">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771069"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771069"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771069">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771335">
+         <dc:identifier>DE-611-HS-1771335</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Aufgabenstellung für das 2. "Fest des Deutschen Volkstanzes" in Rudolstadt am 1. und 2. September 1956</dc:title>
+         <dc:description>Aufgabenstellung im Zuge der Vorbereitungen für das 2. Tanzfest in Rudolstadt.</dc:description>
+         <dcterms:created rdf:resource="1956-01-01T00:00:00Z_1956-12-31T23:59:59Z"/>
+         <rdau:P60163>Rudolstadt</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/42, Blatt 68</bf:shelfMark>
+         <dcterms:extent>11 masch. S., 1 hs. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771335">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771335"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771335"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771335">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771339">
+         <dc:identifier>DE-611-HS-1771339</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:title>Merkblatt der Programm-Kommission zur Vorbereitung der Bezirksdelegation</dc:title>
+         <dc:description>3 Merkblätter im Zuge der Vorbereitungen des 2. Festes des Deutschen Volkstanzes 1956 in Rudolstadt.</dc:description>
+         <dcterms:created rdf:resource="1956-01-01T00:00:00Z_1956-12-31T23:59:59Z"/>
+         <rdau:P60163>Rudolstadt</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/43, Blatt 43</bf:shelfMark>
+         <dcterms:extent>3 Merkblätter, 10 masch. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771339">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771339"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771339"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771339">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-1771634">
+         <dc:identifier>DE-611-HS-1771634</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Erich Janietz - Nachlass Erich Janietz, Werke</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774930"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_117174181"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_16326517-3"/>
+         <dc:title>Lose Blätter vom Jugendtanz</dc:title>
+         <dc:description>Musiknoten zu Volkstänzen.</dc:description>
+         <dcterms:created rdf:resource="1930-01-01T00:00:00Z_1930-12-31T23:59:59Z"/>
+         <rdau:P60163>Merseburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 351/1/45, Blatt 45</bf:shelfMark>
+         <dcterms:extent>50 Bl. (100 S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-1771634">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-1771634"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-1771634"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-1771634">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+</rdf:Bag>

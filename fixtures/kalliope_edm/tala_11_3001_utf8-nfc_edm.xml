@@ -1,0 +1,1575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:Bag xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:edm="http://www.europeana.eu/schemas/edm/"
+         xmlns:ore="http://www.openarchives.org/ore/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:bibo="http://purl.org/ontology/bibo/"
+         xmlns:bf="http://id.loc.gov/ontologies/bibframe/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdau="http://rdaregistry.info/Elements/u/"
+         xmlns:eclap="http://www.eclap.eu/schema/eclap/">
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543223">
+         <dc:identifier>DE-611-HS-3543223</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1065871058"/>
+         <dc:title>3. Europäisches Laban-Tanzfest in Marburg (Drucktitel)</dc:title>
+         <dc:description>Informationsschrift über Kurse und weitere Aktivitäten im Bereich der "Kunst der Bewegung" (im speziellen Moderner Ausdruckstanz, oder Freier Kreativer Tanz).</dc:description>
+         <dc:description>o.D. [1994]</dc:description>
+         <rdau:P60163>Kanton Zürich</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2650</bf:shelfMark>
+         <dcterms:extent>1 Faltbl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543223">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543223"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543223"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543223">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543232">
+         <dc:identifier>DE-611-HS-3543232</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>10 Jahre Volkstanzgruppe des VEB Großbuchbinderei (Drucktitel)</dc:title>
+         <dc:description>Heftschrift für die Volkstanzgruppe des VEB Großbuchbinderei anläßlich des 10-jährigen Bestehens.</dc:description>
+         <dc:description>o.D. [1961]</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2651</bf:shelfMark>
+         <dcterms:extent>4 Bl. (4 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543232">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543232"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543232"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543232">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543237">
+         <dc:identifier>DE-611-HS-3543237</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1025516869"/>
+         <dc:contributor>Deutsche Künstler-Agentur (Berlin)</dc:contributor>
+         <dc:title>Folkwangballett Essen (Drucktitel)</dc:title>
+         <dc:description>Programmheft zum Gastspiel des Folkwangballetts Essen in der Deutschen Demokratischen Republik Januar 1964.</dc:description>
+         <dc:description>o.D. [1964]</dc:description>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2652</bf:shelfMark>
+         <dcterms:extent>1 Heft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543237">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543237"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543237"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543237">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543269">
+         <dc:identifier>DE-611-HS-3543269</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_115253688"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_120965380"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_37100-2"/>
+         <dc:contributor>Tanzgruppe Maja Lex (1969-)</dc:contributor>
+         <dc:title>Tanzgruppe Maja Lex (Drucktitel)</dc:title>
+         <dc:description>Programm Tanzgruppe Maja Lex.</dc:description>
+         <dcterms:created rdf:resource="1984-06-03T00:00:00Z_1984-06-03T23:59:59Z"/>
+         <rdau:P60163>Köln</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2653</bf:shelfMark>
+         <dcterms:extent>4 Bl. (6 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543269">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543269"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543269"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543269">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543282">
+         <dc:identifier>DE-611-HS-3543282</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118715992"/>
+         <dc:title>Harald Kreutzberg (Drucktitel)</dc:title>
+         <dc:description>Programmheft zu Tänzen von Harald Kreutzberg.</dc:description>
+         <dcterms:created rdf:resource="1949-01-22T00:00:00Z_1949-01-22T23:59:59Z"/>
+         <rdau:P60163>Wien</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2654</bf:shelfMark>
+         <dcterms:extent>2 Bl. (4 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543282">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543282"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543282"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543282">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543294">
+         <dc:identifier>DE-611-HS-3543294</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Education of professional dances (Drucktitel)</dc:title>
+         <dc:description>Ssummary of a report from the Swedish Comittee of Inquiry into Dancing Education Stockholm in June 1976.</dc:description>
+         <dc:description>o.D. [1976]</dc:description>
+         <rdau:P60163>Stockholm</rdau:P60163>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 380/9/2655</bf:shelfMark>
+         <dcterms:extent>22 gedr. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543294">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543294"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543294"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543294">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543304">
+         <dc:identifier>DE-611-HS-3543304</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_126404151"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1002263-6"/>
+         <dc:title>Grundlagen der Struktur- und Formanalyse des Volkstanzes (Drucktitel)</dc:title>
+         <dc:description>Grundlagen der Struktur- und Formanalyse des Volkstanzes.</dc:description>
+         <dc:description>o.D. [1976]</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2656</bf:shelfMark>
+         <dcterms:extent>23 gedr. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543304">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543304"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543304"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543304">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543311">
+         <dc:identifier>DE-611-HS-3543311</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_119282682"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_320028267"/>
+         <dc:title>Eröffnungsrede zur Internationalen Plenartagung am 19.11.1987 (Drucktitel)</dc:title>
+         <dc:description>Eröffnungsrede zur Internationalen Plenartagung am 19.11.1987.</dc:description>
+         <dc:description>o.D. [1987]</dc:description>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2657</bf:shelfMark>
+         <dcterms:extent>20 gedr. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543311">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543311"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543311"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543311">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543323">
+         <dc:identifier>DE-611-HS-3543323</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>DDR Meisterschaft 1956 (Drucktitel)</dc:title>
+         <dc:description>Festschrift aus Anlaß der DDR-Meisterschaft der Amateure im Gesellschaftstanz am 1.Dezember 1956 in Zwickau.</dc:description>
+         <dc:description>o.D. [1956]</dc:description>
+         <rdau:P60163>Zwickau</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2658</bf:shelfMark>
+         <dcterms:extent>1 Heft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543323">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543323"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543323"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543323">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543336">
+         <dc:identifier>DE-611-HS-3543336</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2062984-9"/>
+         <dc:title>Zur Geschichte und zum Gegenwartswirken der erzgebirgischen Bergbrüder- und Bergknappschaften im Kulturbund der Deutschen Demokratischen Republik (Drucktitel)</dc:title>
+         <dc:description>Vorträge des Kolloquiums vom 23.November 1985 in Annaberg-Buchholz.</dc:description>
+         <dc:description>o.D. [1986]</dc:description>
+         <rdau:P60163>Schneeberg (Erzgebirgskreis)</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2659</bf:shelfMark>
+         <dcterms:extent>46 masch. S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543336">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543336"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543336"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543336">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543349">
+         <dc:identifier>DE-611-HS-3543349</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2062145-0"/>
+         <dc:title>Das Ungarische Staatliche Volksensemble (Drucktitel)</dc:title>
+         <dc:description>Das Ungarische Staatliche Volksensemble.</dc:description>
+         <rdau:P60163>Budapest</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2660</bf:shelfMark>
+         <dcterms:extent>1 Heft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543349">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543349"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543349"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543349">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543357">
+         <dc:identifier>DE-611-HS-3543357</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5094363-7"/>
+         <dc:title>Projekttheater Dresden (Drucktitel)</dc:title>
+         <dc:description>Programmheft zum Projekttheater Dresden, Mai, Juni, Juli 1997.</dc:description>
+         <dc:description>o.D. [1997]</dc:description>
+         <rdau:P60163>Dresden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2661</bf:shelfMark>
+         <dcterms:extent>3 Bl. (6 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543357">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543357"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543357"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543357">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543369">
+         <dc:identifier>DE-611-HS-3543369</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1021253154"/>
+         <dc:title>Tanzhaus Benshausen (Drucktitel)</dc:title>
+         <dc:description>Informationsbroschüre zum Tanzhaus Benshausen.</dc:description>
+         <rdau:P60163>Benshausen (Region)</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2662</bf:shelfMark>
+         <dcterms:extent>1 Faltbl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543369">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543369"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543369"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543369">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543374">
+         <dc:identifier>DE-611-HS-3543374</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5509471-5"/>
+         <dc:title>Festspielhaus Hellerau (Drucktitel)</dc:title>
+         <dc:description>Informationsbroschüre zum Festspielhaus Hellerau.</dc:description>
+         <rdau:P60163>Hellerau</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2663</bf:shelfMark>
+         <dcterms:extent>3 Bl. (6 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543374">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543374"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543374"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543374">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543389">
+         <dc:identifier>DE-611-HS-3543389</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_10357917-5"/>
+         <dc:title>Transdanubien Ungarn (Drucktitel)</dc:title>
+         <dc:description>Heft mit Informtionen zu Transdanubien, Ungarn; Zettel zu Unterkunftsmöglichkeiten in Transdanubien.</dc:description>
+         <rdau:P60163>Budapest</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2664</bf:shelfMark>
+         <dcterms:extent>1 Heft / 1 Bl. (1 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543389">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543389"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543389"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543389">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543550">
+         <dc:identifier>DE-611-HS-3543550</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor>Magdeburger Tanz-Sport-Club "Grün-Rot" (1957-)</dc:contributor>
+         <dc:contributor>Magdeburger Tanz-Sport-Club "Grün-Rot" (1957-)</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5307576-6"/>
+         <dc:title>Mannschaftsvergleichskampf "Der Magdeburger Tanzklub" gegen "T.v.H. Schwarz-Gold, Hannover" (Drucktitel)</dc:title>
+         <dc:description>Punktezettel des Mannschaftsvergleichskampf 1961 zwischen "Der Magdeburger Tanzklub" und "T.v.H. Schwarz-Gold, Hannover".</dc:description>
+         <dc:description>o.D. [1961]</dc:description>
+         <rdau:P60163>Magdeburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2665</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543550">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543550"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543550"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543550">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543553">
+         <dc:identifier>DE-611-HS-3543553</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Berlin - Kulturstadt Europas 1988 (Drucktitel)</dc:title>
+         <dc:description>Programmheft, herausgegeben durch "Werkstatt Berlin 1988 e.V.".</dc:description>
+         <dc:description>o.D. [1988]</dc:description>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2666</bf:shelfMark>
+         <dcterms:extent>2 Bl. (4 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543553">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543553"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543553"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543553">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543558">
+         <dc:identifier>DE-611-HS-3543558</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Schlitzerländer Trachten- und Volkstanzkreis (Drucktitel)</dc:title>
+         <dc:description>Informationsheft zum Schlitzerländer Trachten- und Volkstanzkreis.</dc:description>
+         <rdau:P60163>Schlitz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2667</bf:shelfMark>
+         <dcterms:extent>3 Bl. (6 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543558">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543558"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543558"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543558">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543566">
+         <dc:identifier>DE-611-HS-3543566</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118772953"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_131411810"/>
+         <dc:contributor>Dresdner Zentrum für zeitgenössische Musik (Dresden)</dc:contributor>
+         <dc:title>1. Dresdner Tage der zeitgenössichen Musik (Drucktitel)</dc:title>
+         <dc:description>Programmheft zu den 1. Dresdner Tagen der zeitgenössischen Musik ("Solos" - Tanzabend Susanne Linke) am 4. Oktober 1987.</dc:description>
+         <dc:description>o.D. [1987]</dc:description>
+         <rdau:P60163>Dresden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2668</bf:shelfMark>
+         <dcterms:extent>4 Bl. (8 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543566">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543566"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543566"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543566">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543570">
+         <dc:identifier>DE-611-HS-3543570</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118536109"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Don Juan oder die Liebe zur Geometrie (Drucktitel)</dc:title>
+         <dc:description>Programmheft zur Komödie von Max Frisch "Don Juan oder die Liebe zur Geometrie", Premiere am 25.November 1966.</dc:description>
+         <dc:description>o.D. [1966]</dc:description>
+         <rdau:P60163>Frankfurt am Main</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2669</bf:shelfMark>
+         <dcterms:extent>2 Bl. (4 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543570">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543570"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543570"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543570">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543576">
+         <dc:identifier>DE-611-HS-3543576</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2015876-2"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2175393-3"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2174166-9"/>
+         <dc:title>Tanzwinter Berlin 89/90 (Drucktitel)</dc:title>
+         <dc:description>Programmheft "Tanzwinter Berlin" 1989/90.</dc:description>
+         <dc:description>o.D. [1989/1990]</dc:description>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2670</bf:shelfMark>
+         <dcterms:extent>8 Bl. (16 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543576">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543576"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543576"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543576">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543582">
+         <dc:identifier>DE-611-HS-3543582</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_120021153"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2015876-2"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_4257086-4"/>
+         <dc:title>Tanztheater Skoronel - "Homme Fatal" - ein Stück von Judith Kuckart (Drucktitel)</dc:title>
+         <dc:description>Programmzettel zum Tanztheater Skoronel mit dem Stück "Homme Fatal" von Judith Kuckart vom 1.-5. Septemeber 1993 in der Akademie der Künste.</dc:description>
+         <dc:description>o.D. [1993]</dc:description>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2671</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543582">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543582"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543582"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543582">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543585">
+         <dc:identifier>DE-611-HS-3543585</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118568434"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1069075027"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_10163569-2"/>
+         <dc:title>Re-creations of Laban's Kammertanzbühne 1923-1926 (Drucktitel)</dc:title>
+         <dc:description>Programm- und Informationsheft des Laban Centre for Movement and Dance 1987.</dc:description>
+         <dc:description>o.D. [1987]</dc:description>
+         <rdau:P60163>London</rdau:P60163>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 380/9/2672</bf:shelfMark>
+         <dcterms:extent>2 Bl. (4 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543585">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543585"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543585"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543585">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543597">
+         <dc:identifier>DE-611-HS-3543597</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_3017881-2"/>
+         <dc:title>Satzung des Vereins zur Förderung von Tanz und Ausbildung an der Staatlichen Ballettschule Berlin e.V. (Drucktitel)</dc:title>
+         <dc:description>Satzung des Vereins zur Förderung von Tanz und Ausbildung an der Staatlichen Ballettschule Berlin e.V..</dc:description>
+         <dcterms:created rdf:resource="1988-03-26T00:00:00Z_1988-03-26T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2673</bf:shelfMark>
+         <dcterms:extent>1 Faltbl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543597">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543597"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543597"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543597">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543609">
+         <dc:identifier>DE-611-HS-3543609</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118638157"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1099475201"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_46015-1"/>
+         <dc:title>Dornröschen (Drucktitel)</dc:title>
+         <dc:description>Programmzettel zur Tanztheater-Premiere "Dornröschen" am 21.März 1999 an der Komischen Oper Berlin.</dc:description>
+         <dc:description>o.D. [1999]</dc:description>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2674</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543609">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543609"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543609"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543609">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543619">
+         <dc:identifier>DE-611-HS-3543619</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_4602277-6"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5205682-X"/>
+         <dc:title>Palucca Schule (Drucktitel)</dc:title>
+         <dc:description>Programmheft der Palucca-Schule in Dresden.</dc:description>
+         <dc:description>o.D. [1948]</dc:description>
+         <rdau:P60163>Dresden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2675</bf:shelfMark>
+         <dcterms:extent>2 Bl. (4 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543619">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543619"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543619"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543619">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543626">
+         <dc:identifier>DE-611-HS-3543626</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_6065803-4"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_4602277-6"/>
+         <dc:title>Tanzabend Palucca (Drucktitel)</dc:title>
+         <dc:description>Programmheft zu einem Tanzabend Palucca am 24.Januar 1950.</dc:description>
+         <dcterms:created rdf:resource="1950-01-24T00:00:00Z_1950-01-24T23:59:59Z"/>
+         <rdau:P60163>Dresden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2676</bf:shelfMark>
+         <dcterms:extent>2 Bl. (4 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543626">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543626"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543626"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543626">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543703">
+         <dc:identifier>DE-611-HS-3543703</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027041-0"/>
+         <dc:title>Einladung zur Bühnentanz-Fachtagung am 2. und 3. Juni 1966 in Rudolstadt-Schwarza (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Einladung des Zentralhauses für Kulturarbeit ZAG Folklore und Bühnentanz der DDR zur Bühnentanz-Fachtagung am 2. und 3. Juni 1966 in Rudolstadt-Schwarza.</dc:description>
+         <dc:description>o.D. [1966]</dc:description>
+         <rdau:P60163>Rudolstadt-Schwarza</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2677</bf:shelfMark>
+         <dcterms:extent>2 Bl. (4 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543703">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543703"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543703"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543703">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543719">
+         <dc:identifier>DE-611-HS-3543719</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_16018678-X"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_16018678-X"/>
+         <dc:title>TFF Rudolstadt 2010 (Drucktitel)</dc:title>
+         <dc:description>Programmzettel zum TFF Rudolstadt vom 2.- 4.Juli 2010.</dc:description>
+         <dc:description>o.D. [2010]</dc:description>
+         <rdau:P60163>Rudolstadt</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2678</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543719">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543719"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543719"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543719">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543740">
+         <dc:identifier>DE-611-HS-3543740</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2135924-6"/>
+         <dc:title>50 Jahre kulturhistorisches Symposium - Bitterfelder Weg (Drucktitel)</dc:title>
+         <dc:description>Programmheft der Landeszentrale für politische Bildung Sachsen-Anhalt zur Veranstaltung "50 Jahre Kulturhistorisches Symposium - Bitterfelder Weg" vom 23. - 24. April 2009.</dc:description>
+         <dc:description>o.D. [2009]</dc:description>
+         <rdau:P60163>Magdeburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2679</bf:shelfMark>
+         <dcterms:extent>4 Bl. (8 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543740">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543740"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543740"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543740">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543754">
+         <dc:identifier>DE-611-HS-3543754</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1203808860"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027041-0"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5187854-9"/>
+         <dc:title>2. Tanzlibrettosammlung für den Laienbühnentanz (Drucktitel)</dc:title>
+         <dc:description>2. Tanzlibrettosammlung für den Laienbühnentanz.</dc:description>
+         <dc:description>o.D. [1975]</dc:description>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <rdau:P60163>Halle (Saale)</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2680</bf:shelfMark>
+         <dcterms:extent>32 S.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543754">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543754"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543754"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543754">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543779">
+         <dc:identifier>DE-611-HS-3543779</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118577476"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_3071435-7"/>
+         <dc:title>Ein Abend mit Marcel Marceau (Drucktitel)</dc:title>
+         <dc:description>Programmheft "Ein Abend mit Marcel Marceau".</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2681</bf:shelfMark>
+         <dcterms:extent>2 Bl. (4 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543779">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543779"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543779"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543779">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543788">
+         <dc:identifier>DE-611-HS-3543788</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Frauen unserer Tage (Drucktitel)</dc:title>
+         <dc:description>"Frauen unserer Tage", Zeitungsartikel von Horst W. Lukas.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2682</bf:shelfMark>
+         <dcterms:extent>2 Bl. (4 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543788">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543788"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543788"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543788">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543799">
+         <dc:identifier>DE-611-HS-3543799</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_3017881-2"/>
+         <dc:title>Staatliche Ballettschule Berlin (Drucktitel)</dc:title>
+         <dc:description>Informationsflyer und -zettel zu den tänzerischen Ausbildungsmöglichkeiten an der Staatlichen Ballettschule Berlin.</dc:description>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2683</bf:shelfMark>
+         <dcterms:extent>1 Faltbl. / 1 Bl. (1 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543799">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543799"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543799"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543799">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543954">
+         <dc:identifier>DE-611-HS-3543954</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_135177421"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2008980-6"/>
+         <dc:title>V. Deutsches Turn- und Sportfest 1969 der DDR - Festübungen der Frauen (Drucktitel)</dc:title>
+         <dc:description>Noten zu den Festübungen der Frauen zum V. Deutschen Turn- und Sportfest 1969 der DDR.</dc:description>
+         <dc:description>o.D. [1969]</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2684</bf:shelfMark>
+         <dcterms:extent>4 Bl. (8 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543954">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543954"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543954"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543954">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543956">
+         <dc:identifier>DE-611-HS-3543956</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2082917-6"/>
+         <dc:title>Volkstanz (Drucktitel)</dc:title>
+         <dc:description>Zusammenstellung bestehend aus Einzelartikeln der Vierteljahreszeitschrift "Volkstanz" der Deutschen Gesellschaft für Volkstanz e.V. im Jahr 1985; einmalige Auflage von 10 Exemplaren.</dc:description>
+         <dc:description>o.D. [1985]</dc:description>
+         <rdau:P60163>Koblenz</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2685</bf:shelfMark>
+         <dcterms:extent>39 Bl. (39 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543956">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543956"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543956"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543956">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543959">
+         <dc:identifier>DE-611-HS-3543959</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Folkloro festivalis - skamba skamba kankliai (Drucktitel)</dc:title>
+         <dc:description>Programmheft zum Folklore-Festival, herausgegeben durch die Kulturabteilung der Stadtverwaltung von Vilnius 1992.</dc:description>
+         <dc:description>o.D. [1992]</dc:description>
+         <rdau:P60163>Wilna</rdau:P60163>
+         <dc:language>lit</dc:language>
+         <bf:shelfMark>NL 380/9/2686</bf:shelfMark>
+         <dcterms:extent>4 Bl. (8 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543959">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543959"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543959"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543959">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543965">
+         <dc:identifier>DE-611-HS-3543965</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1197539263"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_16205342-3"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2007503-0"/>
+         <dc:title>Der Schwertertanz zu Eger im 15.Jahrhundert (Drucktitel)</dc:title>
+         <dc:description>Der Schwertertanz zu Eger im 15.Jahrhundert; Sonderheft 6 von "Unser Arbeitsbrief".</dc:description>
+         <dc:description>o.D. [1980]</dc:description>
+         <rdau:P60163>Ingolstadt</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2687</bf:shelfMark>
+         <dcterms:extent>1 Heft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543965">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543965"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543965"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543965">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543982">
+         <dc:identifier>DE-611-HS-3543982</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Nörder Danzkoppel e.V. (Drucktitel)</dc:title>
+         <dc:description>Informationsheft zur Volkstanzgruppe "Nörder Danzkoppel e.V.".</dc:description>
+         <rdau:P60163>Norden (Landkreis Aurich)</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2688</bf:shelfMark>
+         <dcterms:extent>2 Bl. (4 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543982">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543982"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543982"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543982">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3543996">
+         <dc:identifier>DE-611-HS-3543996</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1069656488"/>
+         <dc:title>40 Jahre Volkstanzkreis Reinickendorf (Drucktitel)</dc:title>
+         <dc:description>Programmzettel zum 40. Jubiläum des Volkstanzkreises Reinickendorf im Jahr 1999.</dc:description>
+         <dc:description>o.D. [1990]</dc:description>
+         <rdau:P60163>Reinickendorf</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2689</bf:shelfMark>
+         <dcterms:extent>2 Bl. (4 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3543996">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3543996"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3543996"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3543996">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3544013">
+         <dc:identifier>DE-611-HS-3544013</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5098425-1"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1069656488"/>
+         <dc:title>25 Jahre Volkstanzkreis der Jugendförderung Reinickendorf 1950-1975 (Drucktitel)</dc:title>
+         <dc:description>Heft zum 25. Jubiläum des Volkstanzkreises der Jugendförderung Reinickendorf.</dc:description>
+         <rdau:P60163>Reinickendorf</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2690</bf:shelfMark>
+         <dcterms:extent>1 Heft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3544013">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3544013"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3544013"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3544013">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3544028">
+         <dc:identifier>DE-611-HS-3544028</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor>Tanzhaus Benshausen (1977-)</dc:contributor>
+         <dc:title>20 Jahre Tanzhaus Benshausen (Drucktitel)</dc:title>
+         <dc:description>Heft zum 20. Jubiläum des Tanzhauses Benshausen, Festtage vom 9.-11. Mai 1997.</dc:description>
+         <dc:description>o.D. [1997]</dc:description>
+         <rdau:P60163>Benshausen (Region)</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2691</bf:shelfMark>
+         <dcterms:extent>1 Heft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3544028">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3544028"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3544028"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3544028">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3544040">
+         <dc:identifier>DE-611-HS-3544040</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5013570-3"/>
+         <dc:title>Wandern und schauen (Drucktitel)</dc:title>
+         <dc:description>Heft mit Wanderliedern und Wegweisern durch die Natur.</dc:description>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2692</bf:shelfMark>
+         <dcterms:extent>1 Heft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3544040">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3544040"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3544040"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3544040">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3544050">
+         <dc:identifier>DE-611-HS-3544050</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor>Rheinische Arbeitsgemeinschaft Tanz im Regierungsbezirk Düsseldorf (1949-)</dc:contributor>
+         <dc:title>40 Jahre Rheinische Arbeitsgemeinschaft Tanz im Regierungsbezirk Düsseldorf (Drucktitel)</dc:title>
+         <dc:description>Heft zum 40. Jubiläum der Rheinischen Arbeitsgemeinschaft Tanz im Regierungsbezirk Düsseldorf e.V..</dc:description>
+         <dc:description>o.D. [1989]</dc:description>
+         <rdau:P60163>Düsseldorf</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2693</bf:shelfMark>
+         <dcterms:extent>1 Heft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3544050">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3544050"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3544050"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3544050">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3544065">
+         <dc:identifier>DE-611-HS-3544065</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_80530-0"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_80530-0"/>
+         <dc:title>Volkstanzgruppe "Liebe zum Leben" (Drucktitel)</dc:title>
+         <dc:description>Informationsheft über die Unisinos - die Universität des Sinostals.</dc:description>
+         <rdau:P60163>São Leopoldo</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <dc:language>por</dc:language>
+         <bf:shelfMark>NL 380/9/2694</bf:shelfMark>
+         <dcterms:extent>1 Heft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3544065">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3544065"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3544065"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3544065">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3544079">
+         <dc:identifier>DE-611-HS-3544079</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1012785254"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_129588369"/>
+         <dc:title>Bewegungsmusik für moderne Gymnastik von Hinrich Medau (Drucktitel)</dc:title>
+         <dc:description>Heft mit Choreographien zur Bewegungsmusik für moderne Gymnastik von Hinrich Medau.</dc:description>
+         <rdau:P60163>Stuttgart</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2695</bf:shelfMark>
+         <dcterms:extent>1 Heft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3544079">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3544079"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3544079"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3544079">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3544094">
+         <dc:identifier>DE-611-HS-3544094</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_115189205X"/>
+         <dc:title>Zunft der Leineweber - Volkstanzmusik und Volkstanz zum Mitmachen (Drucktitel)</dc:title>
+         <dc:description>Leineweberbuch mit Tanzbeschreibungen.</dc:description>
+         <dc:description>o.D. [1985]</dc:description>
+         <rdau:P60163>Hannover</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2696</bf:shelfMark>
+         <dcterms:extent>52 Bl. (104 gedr.; hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3544094">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3544094"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3544094"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3544094">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3544109">
+         <dc:identifier>DE-611-HS-3544109</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_115146645X"/>
+         <dc:title>LAG-Tanz Hamburg (Drucktitel)</dc:title>
+         <dc:description>Informations- und Programmheft zur LAG-Tanz Hamburg; Einladung der LAG-Tanz Hamburg zu Festen, Kursen, Seminaren; Brief an Helga Preuß von Hedo Holland (LAG Tanz Hamburg).</dc:description>
+         <dc:description>o.D. [1997]</dc:description>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2697</bf:shelfMark>
+         <dcterms:extent>4 Bl. (8 gedr. S.) / 2 Bl. (4 gedr. S.) / 1 Bl. (1 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3544109">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3544109"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3544109"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3544109">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3544118">
+         <dc:identifier>DE-611-HS-3544118</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor>De Blomendaler (1987-)</dc:contributor>
+         <dc:title>10 Jahre Volkstanz im Haus Blomendal (Drucktitel)</dc:title>
+         <dc:description>Heft zum 10-Jährigen Jubiläum der Volkstanzgruppe "De Blomendaler" am 8. Juni 1997; Aufnahmeantrag Mitgliedschaft im Verein "Haus Blomendal".</dc:description>
+         <dc:description>o.D. [1997]</dc:description>
+         <rdau:P60163>Bremen</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2698</bf:shelfMark>
+         <dcterms:extent>1 Heft / 1 Bl. (1 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3544118">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3544118"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3544118"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3544118">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3544131">
+         <dc:identifier>DE-611-HS-3544131</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1034707140"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5173267-1"/>
+         <dc:title>Utkiek (Drucktitel)</dc:title>
+         <dc:description>Zeitschrift "Utkiek", 10. Jahrgang, Heft 4/1996.</dc:description>
+         <dc:description>o.D. [1996]</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2699</bf:shelfMark>
+         <dcterms:extent>1 Heft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3544131">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3544131"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3544131"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3544131">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3544136">
+         <dc:identifier>DE-611-HS-3544136</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammelmappen des Tanzarchivs Leipzig - NL 380/9/2401-2700: Sammelmappen des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1034707140"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5173267-1"/>
+         <dc:title>Utkiek (Drucktitel)</dc:title>
+         <dc:description>Zeitschrift "Utkiek", 9. Jahrgang, Heft 4/95.</dc:description>
+         <dc:description>o.D. [1995]</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 380/9/2700</bf:shelfMark>
+         <dcterms:extent>1 Heft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3544136">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3544136"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3544136"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3544136">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+</rdf:Bag>
