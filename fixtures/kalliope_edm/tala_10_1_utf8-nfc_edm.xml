@@ -1,0 +1,1874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:Bag xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:edm="http://www.europeana.eu/schemas/edm/"
+         xmlns:ore="http://www.openarchives.org/ore/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:bibo="http://purl.org/ontology/bibo/"
+         xmlns:bf="http://id.loc.gov/ontologies/bibframe/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdau="http://rdaregistry.info/Elements/u/"
+         xmlns:eclap="http://www.eclap.eu/schema/eclap/">
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-57907">
+         <dc:identifier>DE-611-BF-57907</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_2161280-8"/>
+         <dc:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig (Titel)</dc:title>
+         <dc:description>Handschriftliche Abschriften von Noten zu Volkstänzen überwiegend für Blasorchester</dc:description>
+         <bf:shelfMark>NL 375</bf:shelfMark>
+         <dcterms:extent>4 Kisten</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-57907">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-57907"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-57907"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-57907">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3051366">
+         <dc:identifier>DE-611-HS-3051366</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>Schüddel de Büx (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester von Otto Wagner: 10 Stimmen (Klarinette in Es, Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 4</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3051366">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3051366"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3051366"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3051366">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3051389">
+         <dc:identifier>DE-611-HS-3051389</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Helgoländer Söbensprung (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 9 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba); Niederdeutscher Volkstanz; Brautwerbetanz aufgezeichnet von Anna Helms-Blasche</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 8</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3051389">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3051389"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3051389"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3051389">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3052539">
+         <dc:identifier>DE-611-HS-3052539</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:title>Tampet (um 1820 in Deutschland) (Manuskripttitel)</dc:title>
+         <dc:description>Bearbeitung für Blasorchester von Willi Bauer: 1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Posaune, Tuba, Schlagzeug); - ein Kontratanz in Kolonnen</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 10</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3052539">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3052539"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3052539"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3052539">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3052573">
+         <dc:identifier>DE-611-HS-3052573</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:contributor>Klemm, Ehrhard</dc:contributor>
+         <dc:title>Knappentanz (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung von Willi Bauer für kleines Blasorchester, nach einer Bearbeitung von Ehrhard Klemm: 1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Posaune, Tuba, Schlagzeug)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 11</bf:shelfMark>
+         <dcterms:extent>24 Bl. (24 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3052573">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3052573"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3052573"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3052573">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3052575">
+         <dc:identifier>DE-611-HS-3052575</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:title>Der Schustertanz (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester von Willi Bauer: 1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Posaune, Tuba, Schlagzeug)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 14</bf:shelfMark>
+         <dcterms:extent>44 Bl. (44 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3052575">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3052575"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3052575"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3052575">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3052578">
+         <dc:identifier>DE-611-HS-3052578</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_117356611"/>
+         <dc:title>Hopskontra (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester von Willi Bauer, nach einer Klavierbearbeitung von Professor Hermann Wunsch: 1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Posaune, Tuba, Schlagzeug)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 15</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3052578">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3052578"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3052578"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3052578">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3052596">
+         <dc:identifier>DE-611-HS-3052596</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:title>Schwälmer (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Bariton, Posaune, 1. Tuba, 2. Tuba, Schlagzeug) - Hessischer Volkstanz</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 17</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3052596">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3052596"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3052596"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3052596">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3053689">
+         <dc:identifier>DE-611-HS-3053689</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1045658677"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134394593"/>
+         <dc:title>Dölziger Mühle (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester, umseitig auch für kleine Besetzung: 1 Partitur, 28 Stimmen (1. Klarinette in B, 2. Klarinette in B, 3. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 3. Trompete in B,1. Posaune, 2. Posaune, 3. Posaune, 1. Tenorhorn in B, 2. Tenorhorn in B, 3. Tenorhorn in B1. Horn in Es, 2. Horn in Es, 3. Horn in Es, Bariton, 1. Tuba, 2. Tuba, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Flöte, 2. Flöte, Oboe, Es-Klarinette, Fagott, Schlagwerk, Pauken); - Jugendtanz, entstanden 1925/25 im Märkischen Volkstanzkreis Berlin - Tanzform von Erich Janietz</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 19</bf:shelfMark>
+         <dcterms:extent>30 Bl. (37 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3053689">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3053689"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3053689"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3053689">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3053718">
+         <dc:identifier>DE-611-HS-3053718</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:title>Bulba (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Posaune, Posaune, Tuba, Schlagzeug)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 20</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3053718">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3053718"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3053718"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3053718">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3053782">
+         <dc:identifier>DE-611-HS-3053782</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134394593"/>
+         <dc:title>Stopp-Galopp (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester, umseitig auch für kleine Besetzung: 1 Partitur, 28 Stimmen (1. Flöte, 2. Flöte, Oboe, Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 3. Klarinette in B, Fagott, 1. Horn in Es, 2. Horn in Es. 3. Horn in Es, 1. Trompete in B, 2. Trompete in B, 3. Trompete in B, 1. Posaune, 2. Posaune, 3. Posaune, Pauken u. Triangel, Schlagwerk, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Tenorhorn in B, 2. Tenorhorn in B, 3. Tenorhorn in B, Bariton, 1. Tuba, 2. Tuba); - Melodie aus Mecklenburg, Tanzform von Anna Helms - Paartanz, Polkatanz</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 22</bf:shelfMark>
+         <dcterms:extent>29 Bl. (35 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3053782">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3053782"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3053782"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3053782">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3053809">
+         <dc:identifier>DE-611-HS-3053809</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:title>Katzberger (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 9 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Bariton, Posaune, 1. Tuba, 2. Tuba) Zwiefacher, vermutlich aus dem bayerischen Raum</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 24</bf:shelfMark>
+         <dcterms:extent>9 Bl. (9 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3053809">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3053809"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3053809"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3053809">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3053887">
+         <dc:identifier>DE-611-HS-3053887</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_132877082"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>Der Rudolstädter (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 18 Stimmen (Flöte, Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 3. Klarinette in B, 1. Trompete in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Tenorhorn in B, 2. Tenorhorn in B, 1. Horn in F, 2. Horn in F, Bariton, Posaune, 1./2. Tuba, Schlagwerk)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 28</bf:shelfMark>
+         <dcterms:extent>18 Bl. (18 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3053887">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3053887"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3053887"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3053887">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3058642">
+         <dc:identifier>DE-611-HS-3058642</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134429079"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:title>Volkstänze aus dem Vogtland und dem südöstlichen Teil Thüringens (Manuskripttitel)</dc:title>
+         <dc:description>Enthalten sind: Aufmarsch; Dorfwalzer I, Dorfwalzer II, Dreischritt, Stampfer, Oberländer Reigentanz, Volldreher, Halbdreher, Trio, Auskehrer, Masurisch, Hopser, Galopp; Noten; Bearbeitung für Blasorchester: 1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn, Posaune, Tuba, Schlagzeug)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 29</bf:shelfMark>
+         <dcterms:extent>69 Bl. (69 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3058642">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3058642"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3058642"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3058642">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3058658">
+         <dc:identifier>DE-611-HS-3058658</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:title>Thüringer Schleifer und Müllchestanz (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn, Posaune, Tuba, Schlagzeug) - bilden gemeinsam mit "Rühler Springer" die "Thüringer Tanzsuite"</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 30/1</bf:shelfMark>
+         <dcterms:extent>11 Bl. (12 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3058658">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3058658"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3058658"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3058658">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3058668">
+         <dc:identifier>DE-611-HS-3058668</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134751086"/>
+         <dc:title>Bückeburger Konter (Wicken und Schoppele) (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester von Willi Bauer, nach einer Bearbeitung von Alfred Pydde: 1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn, Posaune, Tuba, Schlagzeug) - Kontertanz aus Bückeburg, Niedersachsen</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 30/2</bf:shelfMark>
+         <dcterms:extent>11 Bl. (12 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3058668">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3058668"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3058668"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3058668">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3058687">
+         <dc:identifier>DE-611-HS-3058687</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor>Giebel, Adolf</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:title>Aufzug (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn, Posaune, Tuba, Schlagzeug)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 30/3</bf:shelfMark>
+         <dcterms:extent>11 Bl. (12 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3058687">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3058687"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3058687"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3058687">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3058697">
+         <dc:identifier>DE-611-HS-3058697</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_126661057"/>
+         <dc:title>Lustiger vor dem Tisch (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester von Willi Bauer, nach Satz von Hermann Horenburg: 1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn, Posaune, Tuba, Schlagzeug) - Volkstanz, Weiterentwicklung</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 30/4</bf:shelfMark>
+         <dcterms:extent>11 Bl. (12 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3058697">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3058697"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3058697"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3058697">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3058714">
+         <dc:identifier>DE-611-HS-3058714</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor>Putzke, Willy (1893-1960)</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>Kastilliano (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 36</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3058714">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3058714"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3058714"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3058714">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3058717">
+         <dc:identifier>DE-611-HS-3058717</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>Benneckensteiner-Tempo (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk) - Kontertanz in Kolonnen, aus dem Harz</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 37</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3058717">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3058717"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3058717"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3058717">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3058718">
+         <dc:identifier>DE-611-HS-3058718</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor>Putzke, Willy (1893-1960)</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>Pookendanz (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk) - Fischerlied geschrieben von Hans Bindernagel (vorliegende Notenausgabe ohne Text)</dc:description>
+         <dcterms:created rdf:resource="1956-01-01T00:00:00Z_1956-12-31T23:59:59Z"/>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 38</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3058718">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3058718"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3058718"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3058718">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3058720">
+         <dc:identifier>DE-611-HS-3058720</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>Dunkelschatten (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk) - Quadrille in Reihen aus Mecklenburg</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 39</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3058720">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3058720"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3058720"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3058720">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3065841">
+         <dc:identifier>DE-611-HS-3065841</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>2. Tempete (Tampeh) [Stolberger Tampet] (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 42</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3065841">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3065841"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3065841"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3065841">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3065854">
+         <dc:identifier>DE-611-HS-3065854</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>Schwanebecker Schäferreigen (Magdeburger) [Schwanebecker Tampet] (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 43</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3065854">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3065854"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3065854"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3065854">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3065869">
+         <dc:identifier>DE-611-HS-3065869</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_135177421"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2027065-3"/>
+         <dc:title>Wohlder Markttanz (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 23 Stimmen (1. Flöte, 2. Flöte, Oboe, Es-Klarinette,1. Klarinette in B, 2. Klarinette in B, Fagott, 1. Flügelhorn, 2. Flügelhorn, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, 3. Horn in Es, 1. Tenorhorn, 2. Tenorhorn, Bariton, 1. Posaune, 2. Posaune, 3. Posaune, 1. Tuba, 2. Tuba, Schlagwerk) - umseitig auf 1. Tenorhorn-Stimme: Siebenschritt-Rheinländer, Berolina - Tanz aus der Südheide, auch Wohlderer Markttanz und Föftehalfturiger mit'n Schott'schen</dc:description>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 44</bf:shelfMark>
+         <dcterms:extent>27 Bl. (32 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3065869">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3065869"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3065869"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3065869">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3065883">
+         <dc:identifier>DE-611-HS-3065883</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_103882375"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134394593"/>
+         <dc:title>Krüz-König (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 28 Stimmen (1. Flöte, 2. Flöte, Oboe, Es-Klarinette, 1. Klarinette in B, 2. Klarinette in B, 3. Klarinette in B, Fagott, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Trompete in B, 2. Trompete in B, 3. Trompete in B, 1. Horn in Es, 2. Horn in Es, 3. Horn in Es, 1. Tenorhorn in B, 2. Tenorhorn in B, 3. Tenorhorn in B, Bariton, 1. Posaune, 2. Posaune, 3. Posaune, 1. Tuba, 2. Tuba, Pauken, Schlagwerk) - Kontertanz in Kolonnen</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 45</bf:shelfMark>
+         <dcterms:extent>30 Bl. (32 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3065883">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3065883"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3065883"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3065883">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3065888">
+         <dc:identifier>DE-611-HS-3065888</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>Harnacks (Kontra Sayra) (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 46</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3065888">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3065888"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3065888"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3065888">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3065901">
+         <dc:identifier>DE-611-HS-3065901</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>Swjatok w Drjobinje (Sorben) (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 47</bf:shelfMark>
+         <dcterms:extent>20 Bl. (20 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3065901">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3065901"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3065901"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3065901">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3065903">
+         <dc:identifier>DE-611-HS-3065903</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>Stup dale (Sorben) (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 48</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3065903">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3065903"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3065903"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3065903">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3065904">
+         <dc:identifier>DE-611-HS-3065904</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>Delna serbska Frejta (Sorben) (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 49</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3065904">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3065904"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3065904"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3065904">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3065905">
+         <dc:identifier>DE-611-HS-3065905</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454921X"/>
+         <dc:title>Viertouriger (Mecklenburg) (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 52</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3065905">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3065905"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3065905"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3065905">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3065908">
+         <dc:identifier>DE-611-HS-3065908</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:title>Sauerländer Quadrille Nr. 5 (Manuskripttitel)</dc:title>
+         <bf:subtitle>Konvolut: Katzberger (Zwiefach)</bf:subtitle>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 9 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2 Tuba) - Volkstanz traditionell aus Neheim-Hüsten/Westfahlen; Quadrille im Kreuz</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 53</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3065908">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3065908"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3065908"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3065908">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3066291">
+         <dc:identifier>DE-611-HS-3066291</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor>Vollmann, Chr. F.</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2161280-8"/>
+         <dc:title>Klavierschule von 1805 (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>34 Stücke für Klavier (Seite 3, Seite 29 fehlen)</dc:description>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 57</bf:shelfMark>
+         <dcterms:extent>38 Bl. (38 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3066291">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3066291"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3066291"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3066291">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3066310">
+         <dc:identifier>DE-611-HS-3066310</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:title>Westgöta (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester von Willi Bauer: 1 Partitur - schwedischer Volkstanz, Kontratanz</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 62</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3066310">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3066310"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3066310"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3066310">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3066314">
+         <dc:identifier>DE-611-HS-3066314</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_137919573"/>
+         <dc:title>Allemande (Fischertanz) (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester von Willi Bauer: 1 Partitur - Dreiertanz aus Ostpreußen</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 63</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3066314">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3066314"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3066314"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3066314">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3066320">
+         <dc:identifier>DE-611-HS-3066320</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128047739"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134751108"/>
+         <dc:title>Das Lied vom glücklichen, jungen Kapitän (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Stimmen für Orchester: 4 gedruckte Stimmen (Gitarre, B-Instrument, Mandola, Bass) 10 handschriftliche Stimmen (1. Violine, 2. Violine, Flöte, Klarinette in B, Oboe, Trompete in B, Posaune)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 64</bf:shelfMark>
+         <dcterms:extent>12 Bl. (10 hs. S., 2 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3066320">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3066320"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3066320"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3066320">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3066326">
+         <dc:identifier>DE-611-HS-3066326</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1058450255"/>
+         <dc:title>Wir lieben das Leben! (Tanzpantomime Nr. 4) (Manuskripttitel)</dc:title>
+         <dc:description>Noten; 1 kleine Partitur (Klarinette in B, Trompete in B, kleine Trommel, Akkordeon, Klavier)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 65</bf:shelfMark>
+         <dcterms:extent>6 Bl. (9 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3066326">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3066326"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3066326"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3066326">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3077140">
+         <dc:identifier>DE-611-HS-3077140</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1079722203"/>
+         <dc:contributor>Weller, Hermann</dc:contributor>
+         <dc:title>Schwäbische Tanzfolge (Manuskripttitel)</dc:title>
+         <bf:subtitle>Schwäbische Tanz-Suite</bf:subtitle>
+         <dc:description>Tanzbeschreibung zur Schwäbischen Tanzfolge mit Noten: Schwäbische Tanz-Suite : eingerichtet für ein Melodieinstrument mit Bezifferung für Handharmonika / Hermann Weller, 1954</dc:description>
+         <dcterms:created rdf:resource="1957-01-01T00:00:00Z_1957-12-31T23:59:59Z"/>
+         <rdau:P60163>Stuttgart</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 66</bf:shelfMark>
+         <dcterms:extent>4 Bl. (gedr.; masch.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3077140">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3077140"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3077140"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3077140">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3077153">
+         <dc:identifier>DE-611-HS-3077153</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor>Ritter, R.</dc:contributor>
+         <dc:contributor>Kämling, Carl</dc:contributor>
+         <dc:title>Fantasie über lang lang ist's her für Clarinetto (Manuskripttitel)</dc:title>
+         <dc:description>Stimmen zu Fantasie über lang lang ist's her: Klarinette in B, 1. Violine, 2. Violine, Viola, Bass</dc:description>
+         <dcterms:created rdf:resource="1891-01-01T00:00:00Z_1891-12-31T23:59:59Z"/>
+         <rdau:P60163>Zierzow</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 67</bf:shelfMark>
+         <dcterms:extent>6 Bl. (6 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3077153">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3077153"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3077153"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3077153">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3077688">
+         <dc:identifier>DE-611-HS-3077688</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor>Scharschmidt, Werner</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_189424338"/>
+         <dc:contributor>Uhlemann, Dietmar</dc:contributor>
+         <dc:title>Die Schiffszieher (Manuskripttitel)</dc:title>
+         <dc:description>1 Partitur (4-stimmig) und ausführliche Tanzbeschreibung Choreographie von Margarete Franke und Dietmar Uhlemann</dc:description>
+         <rdau:P60163>Dresden [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 68</bf:shelfMark>
+         <dcterms:extent>18 Bl. (18 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3077688">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3077688"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3077688"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3077688">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3077735">
+         <dc:identifier>DE-611-HS-3077735</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_116551038"/>
+         <dc:title>Tänze der Wünschensuhler Tanzgruppe (Manuskripttitel)</dc:title>
+         <dc:description>Noten, Stimmen für Blasorchester (Klarinette in B, Klarinette in Es, 1. Tenorhorn in B, 2. Tenorhorn in B, Posaune, Althorn in Es, Piston in B, Tuba in B, Tuba in C, Trompete in B) Zusammenstellung: Bauernmarsch, Der Hüpfer, Der Schleifer, Der Springer</dc:description>
+         <rdau:P60163>Wünschensuhl [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 69</bf:shelfMark>
+         <dcterms:extent>47 Bl. (92 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3077735">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3077735"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3077735"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3077735">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3079608">
+         <dc:identifier>DE-611-HS-3079608</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor>Tränkner, Herbert</dc:contributor>
+         <dc:contributor>Fricke, Walter</dc:contributor>
+         <dc:title>Maismusketiere (Manuskripttitel)</dc:title>
+         <dc:description>1 Partitur Bearbeitung für Sinfonieorchester von Walter Fricke, VEB-Entwicklungsbau Prina</dc:description>
+         <rdau:P60163>Pirna</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 40</bf:shelfMark>
+         <dcterms:extent>16 Bl. (31 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3079608">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3079608"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3079608"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3079608">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3051349">
+         <dc:identifier>DE-611-HS-3051349</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Sommermichl (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, 1. Tuba, 2. Tuba, Bariton, Posaune, Schlagzeug) - Zwiefacher aus der Holledau und dem Bayrischen Wald, Bayern</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 3</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3051349">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3051349"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3051349"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3051349">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3051374">
+         <dc:identifier>DE-611-HS-3051374</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Brautwalzer (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitungen für Blasorchester: 1 Direktion, 8 Stimmen (Klarinette in B, 1. u. 2. Tuba, 2. Horn in Es, 1. Trompete in B, 2. Trompete in B, Bariton, Posaune, Schlagzeug)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 5</bf:shelfMark>
+         <dcterms:extent>9 Bl. (9 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3051374">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3051374"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3051374"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3051374">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3051378">
+         <dc:identifier>DE-611-HS-3051378</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Der Wischtanz (Manuskripttitel)</dc:title>
+         <bf:subtitle>Konvolut: Berolina</bf:subtitle>
+         <bf:subtitle>Konvolut: Helgoländer Söbensprung</bf:subtitle>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 9 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba); Holzknechttanz aus Steiermark; Geschicklichkeitstanz; Burschentanz (Im Konvolut ebenfalls enthalten: Berolina (NL 375/N 27) und Helogländer Söbensprung (NL 375/N 8)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 6</bf:shelfMark>
+         <dcterms:extent>20 Bl. (40 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3051378">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3051378"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3051378"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3051378">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3051384">
+         <dc:identifier>DE-611-HS-3051384</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Figaro (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 9 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Schlagzeug); Niederdeutscher Volkstanz</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 7</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3051384">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3051384"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3051384"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3051384">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3050683">
+         <dc:identifier>DE-611-HS-3050683</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Tanz ock mit der Muhme (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, 1. Tuba, 2. Tuba, Bariton, Posaune, Schlagzeug) Volkstanz aus Oberschlesien</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 1</bf:shelfMark>
+         <dcterms:extent>12 Bl. (12 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3050683">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3050683"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3050683"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3050683">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3050694">
+         <dc:identifier>DE-611-HS-3050694</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Durchmarsch (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, 1. Tuba, 2. Tuba, Bariton, Posaune, Schlagzeug) - Triotanz, Trio-Mischform - Volkstanz aus dem Odergebirge</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 2</bf:shelfMark>
+         <dcterms:extent>12 Bl. (12 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3050694">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3050694"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3050694"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3050694">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3052513">
+         <dc:identifier>DE-611-HS-3052513</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Der Purzelbaumtanz (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 11 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Schlagzeug)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 9</bf:shelfMark>
+         <dcterms:extent>12 Bl. (12 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3052513">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3052513"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3052513"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3052513">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3052593">
+         <dc:identifier>DE-611-HS-3052593</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Sünnros (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Bariton, Posaune, 1. Tuba, 2. Tuba, Schlagzeug); - Tanz aus Vierlande bei Hamburg</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 16</bf:shelfMark>
+         <dcterms:extent>12 Bl. (12 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3052593">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3052593"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3052593"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3052593">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3053655">
+         <dc:identifier>DE-611-HS-3053655</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Zinkaborbala (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Schlagzeug); - Volkstanz, Paartanz aus Schlesien - auch bekannt unter: Zinkarbobala</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 18</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3053655">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3053655"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3053655"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3053655">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3053737">
+         <dc:identifier>DE-611-HS-3053737</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Saulocker (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitungen für Blasorchester: 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Posaune, Bariton, 1. Tuba, 2. Tuba, Schlagzeug); - Zwiefacher aus Niederbayern und der Oberpfalz</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 21</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3053737">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3053737"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3053737"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3053737">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3053798">
+         <dc:identifier>DE-611-HS-3053798</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Erntetänze: Sicheltanz, Dreschflegeltanz (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitungen für Blasorchester: 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Posaune, Bariton, 1. Tuba, 2. Tuba, Schlagzeug)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 23</bf:shelfMark>
+         <dcterms:extent>23 Bl. (23 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3053798">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3053798"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3053798"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3053798">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3053846">
+         <dc:identifier>DE-611-HS-3053846</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Rühler Springer (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Schlagzeug); - Polkatanz aus Ruhla, Thürnigen</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 26</bf:shelfMark>
+         <dcterms:extent>12 Bl. (12 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3053846">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3053846"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3053846"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3053846">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3053856">
+         <dc:identifier>DE-611-HS-3053856</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Berolina (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 9 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Posaune)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 27</bf:shelfMark>
+         <dcterms:extent>20 Bl. (20 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3053856">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3053856"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3053856"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3053856">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3066263">
+         <dc:identifier>DE-611-HS-3066263</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2161280-8"/>
+         <dc:title>Noten für 15 Musikstücke (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Noten, Melodiestimme mit teilweise unterlegtem Text Enthalten sind: - Schenkt mer noch ... - Bayrisch Bier - Mein Vater hats gesogt... - Hamburg ist ein... - Der Jud - Der Kroat - Die Schwiegermamma - Alle Möpse bellen - Die Franzosen - Galopp - Rheinländer - Schottisch - Walzer - Galopp (1881)</dc:description>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 55</bf:shelfMark>
+         <dcterms:extent>18 Bl. (18 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3066263">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3066263"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3066263"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3066263">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3066278">
+         <dc:identifier>DE-611-HS-3066278</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2161280-8"/>
+         <dc:title>Noten für 14 Musikstücke (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Noten, Melodiestimme mit teilweise unterlegtem Text Enthalten sind: - Galopp (3x) - Jägers-Lust Walzer - Mazurka - Schottisch (3x) - Hans, bleib da - Walzer (3x) - Und es kann ja nicht immer ... - Alter Mari-Walzer</dc:description>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 56</bf:shelfMark>
+         <dcterms:extent>19 Bl. (19 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3066278">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3066278"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3066278"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3066278">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3066296">
+         <dc:identifier>DE-611-HS-3066296</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2161280-8"/>
+         <dc:title>Noten für 17 Musikstücke (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Noten, Melodiestimme mit teilweise unterlegtem Text Enthalten sind: - Galopp - Wenn mei Vater... - Schottisch - Walzer (2x) - Rheinländer (2x) - Galopp v. Luther - Louisen-Walzer v. Luther - Polka (2x) - Mädle wasch dich. Rheinländer - Male Walzer - Es ritten drei Reiter. Walzer - Du bist verwünscht, mein Kind - Schottisch</dc:description>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 59</bf:shelfMark>
+         <dcterms:extent>22 Bl. (22 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3066296">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3066296"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3066296"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3066296">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3066300">
+         <dc:identifier>DE-611-HS-3066300</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2161280-8"/>
+         <dc:title>Noten für 16 Musikstücke (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Noten, Melodiestimme mit teilweise unterlegtem Text Enthalten sind u.a.: - Galopp in Es - Wiedersehn Polka - Sturm Galopp - Walzer - Schottisch</dc:description>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 60</bf:shelfMark>
+         <dcterms:extent>23 Bl. (23 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3066300">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3066300"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3066300"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3066300">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3066305">
+         <dc:identifier>DE-611-HS-3066305</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2161280-8"/>
+         <dc:title>Noten für 19 Musikstücke (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Noten, Melodiestimme mit Bezifferung Enthalten sind u.a.: - Marsch - Walzer - Rheinländer - Schottisch - Polka Mazurka - Galopp - Und die Grösch - Dreher</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 61</bf:shelfMark>
+         <dcterms:extent>20 Bl. (20 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3066305">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3066305"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3066305"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3066305">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3058700">
+         <dc:identifier>DE-611-HS-3058700</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>14 Tänze für Volksmusikorchester (Einheitstitel von Bearbeiter/in)</dc:title>
+         <dc:description>Enthalten sind: 1. Aufzug, 2. Deutsche Tänze, 3. Bauern-Marsch aus "Der Freischütz", 4. Walzer aus Freischütz,; 5. Brautwalzer, 6. Schornsteinfeger, 7. Varsovienne, 8. Rosenpolka, 9. Vexierwalzer, 10. Rheinländerkutsche, 11. Jägermarsch, 13. Siebebschritt-Rheinländer, 14. Berolina-Straßentanz Noten; Bearbeitung für Volksmusikorchester: 9 Stimmen (Violine 1-3, Klarinette in B, Akkordeon 1-2, Trompete, Gitarre, Schlagwerk)</dc:description>
+         <dcterms:created rdf:resource="1955-01-01T00:00:00Z_1955-12-31T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 31</bf:shelfMark>
+         <dcterms:extent>77 Bl. (77 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3058700">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3058700"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3058700"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3058700">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3058706">
+         <dc:identifier>DE-611-HS-3058706</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Steiregger (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Schlagzeug) - Überliefert durch Elvira Pitzker aus Neudorf bei Haslach im Mühlviertel, Oberösterreich. - Aufgezeichnet durch Anni Stöger, Wien.</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 32</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3058706">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3058706"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3058706"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3058706">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3058710">
+         <dc:identifier>DE-611-HS-3058710</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Sammlung Volkstanznoten des Tanzarchivs Leipzig</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Wendelsteiner (Manuskripttitel)</dc:title>
+         <dc:description>Noten; Bearbeitung für Blasorchester: 1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Schlagzeug)</dc:description>
+         <rdau:P60163>Ohne Ort</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 375/N 33</bf:shelfMark>
+         <dcterms:extent>11 Bl. (11 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3058710">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3058710"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3058710"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3058710">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+</rdf:Bag>

@@ -1,0 +1,1962 @@
+<collection xmlns:srw="http://www.loc.gov/zing/srw/"
+            xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54313</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-54313</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151105</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20190208</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:typeOfResource collection="yes">text</mods:typeOfResource>
+      <mods:name type="corporate" id="KPE|122828">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">u.a. Programme, Presseberichte, Zeitungsartikel</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946/1958</mods:dateCreated>
+      </mods:originInfo>
+      <mods:location>
+         <mods:shelfLocator>NL 362</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54314</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-54314</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151105</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151109</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54313</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54313</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="corporate" id="KPE|122828">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>1</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931136</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931136</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151105</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151105</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54314</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54314</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078869537">
+         <mods:namePart>Rauschenbach, Ilse (1923-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Die Antifa-Jugend entstand im Kreis Zeitz im Mai 1945 (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Kurzer Abriss zur Entstehung der FDJ-Volkstanzgruppe Zeitz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1961-06-01</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/1/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.) / 1 Briefumschlag</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931150</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931150</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151105</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151105</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54314</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54314</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-) [vermutlich]</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Über die FDJ-Volkstanzgruppe Zeitz (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Helene Schmidt (vermutlich) berichtet über den Aufbau der FDJ-Volkstanzgruppe Zeitz und die tägliche Arbeit</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/1/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931169</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931169</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151105</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151105</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54314</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54314</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-) [vermutlich]</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanzbeschreibungen (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanzbeschreibungen / Bewegungsabläufe für die Aufführung folgender Tänze:
+- "Tanz der Bergleute und Arbeiter"
+- "Thüringer Galopp"
+- "Blumen und Ähren"</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/1/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>26 Bl. (26 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931208</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931208</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151105</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151105</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54314</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54314</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Schnabel, Lutz</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Festverse! (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Festvers von Lutz Schnabel verfasst anlässlich zum einjährigen Bestehen der Volkstanzgruppe Zeitz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/1/4</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931657</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931657</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54314</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54314</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Schnabel, Lutz</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Zeitzer Volkstanzgruppe der F.D.J. auf Pfingstfahrt (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Pressebericht zur Pfingstfahrt der FDJ-Volkstanzgruppe Zeitz, 3 verschiedene Versionen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946-06-13</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/1/6</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>3 Bl. (3 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931663</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931663</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54314</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54314</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Fest-Zeitung zum einjährigen Bestehen (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Festzeitung zum einjährigen Bestehen der Volkstanzgruppe Zeitz mit Dichtungen der Mitglieder.
+Scheinbar noch als Entwurf mit Korrekturen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/1/5</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>18 Bl. (18 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931685</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931685</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54314</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54314</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/1: FDJ-Volkstanzgruppe Zeitz, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Presseberichte der FDJ-Volkstanzgruppe Zeitz (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Entwürfe für Presseberichte von Werbe-/Tanzabenden der Volkstanzgruppe, sowie Feier der Antifa-Jugend; kurzer Überischtskurzbericht der FDJ-Volkstanzgruppe</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/1/7</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>4 Bl. (5 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54322</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-54322</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54313</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54313</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="corporate" id="KPE|122828">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>2</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931715</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931715</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54322</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54322</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Bestand an Volkstanzgruppen und Lehrkräfte des Kreises Zeitz (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Auflistung der Lehrkräfte (Fachkräfte, sonstige anleitende Kräfte, Teilnehmer an Bezirkslehrgängen usw.)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1958-03-07</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/2/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931719</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931719</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54322</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54322</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Terminauflistung (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Listen mit Terminplanung (1945/1946) der Volkstanzgruppe, Auftritte uä.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/2/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>3 Bl. (5 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931730</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931730</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54322</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54322</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Programm Elternabend der Volkstanzgruppe d. FDJ Zeitz (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Auflistung Programmpunkte für Elternabend der Volkstanzgruppe</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946-05-12</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/2/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (2 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931732</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931732</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54322</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54322</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Programm für die Abende in Geußnitz und Kayna (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Auflistung Programmpunkte für die Abende in Geußnitz und Kayna</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946-06-13</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/2/4</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S. mit hs. Korrekturen)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931734</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931734</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54322</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54322</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Programm für den Werbeabend am 25.10.46 im Haus der Jugend (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Auflistung Programmpunkte für den Werbeabend im Haus der Jugend</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/2/5</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931738</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931738</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54322</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54322</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Programm für den 7.9.46 auf dem Altmarkt (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Auflistung Programmpunkte für Aufführung auf dem Altmarkt am 7.9.1946</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/2/6</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931746</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931746</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54322</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54322</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2010884-9">
+         <mods:namePart>Freie Deutsche Jugend (1946/19460307-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Bescheinigung (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Bescheiningung der FDJ für Helene Schmidt für die Teilnahme am zentralen Volkstanz-Gruppenleiter-Lehrgang in Kühlungsborn</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1951-11-03</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/2/7</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931750</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931750</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54322</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54322</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Bescheinigung für Gemeinschaftsverpflegung (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Bescheiningung für Helene Schmidt der Verwaltungsschule Großsteinberg für Teilnahme an Gemeinschaftsverpflegung, für die Rückmeldung bei der Kartenstelle</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1958-04-25</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Großsteinberg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/2/8</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 gedr./hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931761</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931761</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54322</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54322</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Einladung 1. Jahrestag der Volkstanzgruppe Zeitz (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Vermutlich Einladung für 1. Jahrestag der Volkstanzgruppe Zeitz am 19. Okt. 1946 (2x)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/2/9</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931764</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931764</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54322</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54322</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Schnabel, Lutz</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Bescheid (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Bescheid an alle Mitglieder über Vorführung der Volkstanzgruppe am 7.7.46 und Wiener-Walzer Probe.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946-07-05</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/2/10</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2931770</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2931770</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151106</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151106</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54322</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54322</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/2: FDJ-Volkstanzgruppe Zeitz, Dokumente</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Urkunde zu Deutschen Festspielen der Volkskunst (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Urkunde für Zentrales Kultur-Ensemble Zeitz als Sieger im Kreisausscheid, Fachgebiet Volkstanz zu den deutschen Festspielen der Volkskunst 1952</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1952-05-18</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/2/12</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 gedr./hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54323</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-54323</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151109</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54313</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54313</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="corporate" id="KPE|122828">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 362/3: FDJ-Volkstanzgruppe Zeitz, Sammlung (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>3</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2932174</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2932174</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151109</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54323</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54323</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/3: FDJ-Volkstanzgruppe Zeitz, Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Zeitungsartikel über die FDJ-Volkstanzgruppe Zeitz (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Berichte der Presse zu Auftritten uä. der FDJ-Volkstanzgruppe Zeitz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/3/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>25 Zeitungsausschnitte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2932179</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2932179</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151109</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54323</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54323</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/3: FDJ-Volkstanzgruppe Zeitz, Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Kulturtage Zeitz (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Heft mit Informationen und Programm zu den Kulturtagen in Zeitz vom 26.11. bis 14.12.1946</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1946</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/3/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>13 Bl. (26 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2932188</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2932188</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151109</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54323</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54323</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/3: FDJ-Volkstanzgruppe Zeitz, Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Sammlung der FDJ-Volkstanzgruppe Zeitz (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Konvolut von Dokumenten gesammelt von der FDJ-Volkstanzgruppe Zeitz
+- Informationsbroschüre von Anri Witschel-Welhavn zum Unterricht in rhythmische Gymnastik und künstlerischem Ausdruckstanz
+- Programm mit handschriftlichen Notzien zum Öffentlichen Frauenabend in der Stadt Saalburg, 21. Juli 1946
+- Dichtung "Der neuen Jugend gewidmet!"</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/3/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>4 Bl. (4 gedr. S./1 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2932207</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2932207</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54323</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54323</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/3: FDJ-Volkstanzgruppe Zeitz, Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118744615">
+         <mods:namePart>Rethel, Alfred (1816-1859)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/118744615">
+         <mods:namePart>Rethel, Alfred (1816-1859)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Auch ein Totentanz (Drucktitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Reproduktion einer Illustration von Alfred Rethel "Auch ein Totentanz"</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/3/4</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 gedr. S)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54613</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-54613</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151218</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54313</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54313</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate" id="KPE|122828">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>4</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2950387</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2950387</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151218</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151218</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54613</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54613</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>Tanzgruppe des Kulturhauses "Weltfrieden"</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Korrespondenz (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Korrespondenz an Helene Schmidt betreffend Auftritte ihrer Tanzgruppen in Zeitz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1967/1972</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/4/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>5 Bl. (5 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2950389</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2950389</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151218</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151218</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54613</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54613</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>Tanzgruppe des Kulturhauses "Weltfrieden"</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Handschriftliche Programme (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Handschriftliche Programmabläufe (verschiedene Schreiber);
+Terminplanungen für Auftritte</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1966/1972</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/4/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>64 Bl. (71 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2950391</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2950391</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151218</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151218</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54613</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54613</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>Tanzgruppe des Kulturhauses "Weltfrieden"</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Programmabfolgen (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Programmabfolgen für verschiedene Auftritte;
+mit hanfschriftlichen Anmerkungen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1966/1971</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/4/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>27 Bl. (27 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2950393</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2950393</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151218</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151218</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54613</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54613</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1023934574">
+         <mods:namePart>Ehm, Heinz-Andreas (1920-1985)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>Tanzgruppe des Kulturhauses "Weltfrieden"</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/105039206X">
+         <mods:namePart>Staatliches Dorfensembles der DDR (1954-1972)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Programmhefte (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">3 Programmhefte
+"Im Tanz der Jahreszeiten" Staatliches Dorfensemble der DDR, Indendant Heinz-Andreas Ehm (1968)
+- Programm für das Wohnbezirksfest ... sowie des Kulturhauses Weltfrieden (1970/71)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1968/1970</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/4/4</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>3 gedr. Hefte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2950394</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2950394</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151218</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151218</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54613</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54613</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate">
+         <mods:namePart>Tanzgruppe des Kulturhauses "Weltfrieden"</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>Tanzgruppe des Kulturhauses der Eisenbahner</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Zeitungsausschnitte (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Diverse Zeitungsausschnitte, berichtetend zu Auftritten der Zeitzer Tanzgruppen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1956/1971</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zeitz</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/4/5</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>66 Zeitungsausschnitte</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2950395</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2950395</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151218</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54613</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54613</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Sammlung Gedichte, Lieder (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Sammlung zahlreicher Gedichte, Lieder etc. für Auftritte</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/4/6</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>28 Bl.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3136889</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3136889</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170310</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54613</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54613</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Kindertänze Weihnachten (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Materialsammlung von Kindertänzen (Tanzbeschreibungen, Noten) für die Weihnachtszeit, zusammengetragen von Helene Schmidt</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/4/8</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>45 Bl.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3136907</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3136907</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170310</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54613</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54613</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Weihnachts-Tänze (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Materialsammlung von Noten, Texten, Tanzbeschreibungen zu Weihnachten , zusammengetragen von Helene Schmidt</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/4/9</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>33 Bl.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3136911</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3136911</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170310</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54613</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54613</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Weihnachts-Lieder, -Gedichte, -Tänze (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Materialsammlung von Lieder, Tänzen, Gedichten zur Weihnachtszeit, zusammengetragen von Helene Schmidt</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/4/7</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>34 Bl., 1 A4-Notitzheft</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3136937</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3136937</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170310</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54613</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54613</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notizbücher (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Notizbücher von Helene Schmidt mit handschriftlichen Aufzeichnungen: Tänze, Gedichte, Lieder u.ä.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/4/10</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>8 Notizbücher</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3136959</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3136959</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20170310</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170310</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54613</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54613</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Archiv FDJ-Volkstanzgruppe Zeitz - NL 362/4: FDJ-Volkstanzgruppe Zeitz, Nachlass Helene Schmidt</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078872724">
+         <mods:namePart>Schmidt, Helene (1899-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate">
+         <mods:namePart>FDJ-Volkstanzgruppe (Zeitz) (1945-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Einzelne Tänze (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Materialsammlung einzelner Volkstänze (Noten, Tanzbeschreibungen), zusammengetragen von Helene Schmidt</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 362/4/11</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>99 Bl.</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+</collection>

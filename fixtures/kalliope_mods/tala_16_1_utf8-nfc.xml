@@ -1,0 +1,1414 @@
+<collection xmlns:srw="http://www.loc.gov/zing/srw/"
+            xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-70194</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171206</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20190208</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:typeOfResource collection="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Fragebögen zum Tanzlexikon des Henschelverlages, bearbeitet vom Tanzarchiv Leipzig</mods:abstract>
+      <mods:location>
+         <mods:shelfLocator>NL 388</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3335831</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3335831</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171206</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171207</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen A (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">26 Fragebögen, Abdyev-Avratova, Liste der Fragebögen, Liste mit unvollständigen Stammsätzen von A-M</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/A</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>104 Bl. (208 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3335879</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3335879</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171206</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171207</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen B (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">88 Fragebögen, Baak-Bourgeois und Brabants-Butler, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/B</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>352 Bl. (704 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3335990</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3335990</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171207</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171207</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen C (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">35 Fragebögen, Caciuleanu-Czobel, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/C</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>140 Bl. (280 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3335993</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3335993</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171207</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171207</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen D (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">42 Fragebögen, Dabrowska- Dyk, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/D</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>168 Bl. (336 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3335994</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3335994</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171207</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171207</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen E (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">15 Fragebögen, Eck-Esser, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/E</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>60 Bl. (120 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3335995</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3335995</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171207</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171207</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen F (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">25 Fragebögen, Fallis-Furtwängler, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/F</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>100 Bl. (200 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336099</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336099</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171207</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171207</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen G (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">42 Fragebögen, Gaál-Gyssling, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/G</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>168 Bl. (336 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336101</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336101</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171207</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171207</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen H (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">45 Fragebögen, Häger-Hzyniewiecka, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/H</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>180 Bl. (360 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336104</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336104</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171207</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171207</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen I (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">5 Fragebögen, Ilijin-Ivancan, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/I</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>20 Bl. (40 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336105</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336105</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171207</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171207</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen J (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">17 Fragebögen, Jacobsen-Jurriens, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/J</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>68 Bl. (136 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336112</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336112</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171207</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171207</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen K (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">78 Fragebögen, Kage-Kyselák, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/K</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>312 Bl. (624 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336748</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336748</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171211</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171211</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen L (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">45 Fragebögen, Laban-Lux, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/L</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>180 Bl. (360 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336749</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336749</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171211</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171211</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen M (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">79 Fragebögen, Maácz- Mezincescu und Michailowa-Muzzarelli, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/M</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>158 Bl. (316 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336750</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336750</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171211</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171211</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen N (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">25 Fragebögen, Nádasi-Nowosjolow, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/N</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>50 Bl. (100 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336812</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336812</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171211</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171211</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen O (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">13 Fragebögen, Obrien-Owczarzak, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/O</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>26 Bl. (52 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336813</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336813</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171211</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171211</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen P (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">47 Fragebögen, Pagels-Puttke, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/P</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>94 Bl. (188 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336814</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336814</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171211</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171211</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen R (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">36 Fragebögen, Rábai-Ryshenko, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/R</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>72 Bl. (144 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336817</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336817</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171211</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171211</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen S (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">91 Fragebögen, Sabotkina-Simmang und Simon-Szumrák, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/S</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>182 Bl. (364 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336860</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336860</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171211</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171211</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen T (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">41 Fragebögen, Tank-Turska, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/T</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>82 Bl. (164 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336863</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336863</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171211</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171211</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen U (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">12 Fragebögen, Udaeta-Ushinski, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/U</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>48 Bl. (96 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336866</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336866</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171211</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171211</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen V (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">29 Fragebögen, Vaculik-Vujanic, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/V</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>58 Bl. (116 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336867</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336867</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171211</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171211</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen W (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">44 Fragebögen, Wagner-Wycichowska-Gotebiowska, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/W</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>88 Bl. (176 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3336869</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3336869</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20171211</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20171211</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-70194</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-70194</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Fragebögen zum Tanzlexikon des Henschelverlages</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13477504X">
+         <mods:namePart>Petermann, K.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Personen Z (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">11 Fragebögen, Zacharias-Zyruljowa, Liste der Fragebögen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1974/1984</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 388/Z</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>22 Bl. (44 S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+</collection>

@@ -1,0 +1,2290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:Bag xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:edm="http://www.europeana.eu/schemas/edm/"
+         xmlns:ore="http://www.openarchives.org/ore/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:bibo="http://purl.org/ontology/bibo/"
+         xmlns:bf="http://id.loc.gov/ontologies/bibframe/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdau="http://rdaregistry.info/Elements/u/"
+         xmlns:eclap="http://www.eclap.eu/schema/eclap/">
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597472">
+         <dc:identifier>DE-611-HS-3597472</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1023934574"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_5119038-2"/>
+         <dc:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Heinz-Andreas Ehm an Staatliches Folklore-Ensemble der DDR</dc:title>
+         <dc:description>Gratuliert dem Ensemble zum Preisträger bei den X. Weltfestspielen; dankt für die Zusendung von Material; teilt seinen Urlaub in Ungarn mit.</dc:description>
+         <dcterms:created rdf:resource="1973-08-06T00:00:00Z_1973-08-06T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/6</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.) / 1 Faltbl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597472">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597472"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597472"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597472">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597473">
+         <dc:identifier>DE-611-HS-3597473</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_5214631-5"/>
+         <dc:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Staatsarchiv (Greifswald)</dc:title>
+         <dc:description>Fragt nach Leben und Beruf des Stralsunder Tanzlehrers Theodor Hentschke.</dc:description>
+         <dcterms:created rdf:resource="1983-05-05T00:00:00Z_1983-05-05T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/9</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597473">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597473"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597473"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597473">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597474">
+         <dc:identifier>DE-611-HS-3597474</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456>Kirche St. Nikolai (Stralsund)</rdau:P60456>
+         <dc:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Kirche St. Nikolai (Stralsund)</dc:title>
+         <dc:description>Fragt nach Leben und Beruf des Stralsunder Tanzlehrers Theodor Hentschke.</dc:description>
+         <dcterms:created rdf:resource="1983-05-05T00:00:00Z_1983-05-05T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/7</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597474">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597474"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597474"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597474">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597475">
+         <dc:identifier>DE-611-HS-3597475</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1088890938"/>
+         <dc:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Stadtarchiv Stralsund</dc:title>
+         <dc:description>Bittet um Fotokopien von fehlenden Seiten eines Werkes "Allgemeine Tanzkunst" von Theodor Hentschke; fragt nach Angaben über seine Frau und nach Angaben zu Leben und Beruf von Theodor Hentschke.</dc:description>
+         <dcterms:created rdf:resource="1983-05-05T00:00:00Z_1983-05-05T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/8</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597475">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597475"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597475"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597475">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597476">
+         <dc:identifier>DE-611-HS-3597476</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Schneider, Monika</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_12328273X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1088890938"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:title>Brief von Monika Schneider von Deutsches Tanzarchiv Leipzig an Herbert Ewe an Stadtarchiv Stralsund</dc:title>
+         <dc:description>Dankt im Namen Dr. Petermanns für Mikroaufnahmen.</dc:description>
+         <dcterms:created rdf:resource="1983-06-09T00:00:00Z_1983-06-09T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/10</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597476">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597476"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597476"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597476">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597477">
+         <dc:identifier>DE-611-HS-3597477</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_12328273X"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1088890938"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_117008753"/>
+         <dc:title>Brief von Herbert Ewe von Stadtarchiv Stralsund an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Schickt Mikroaufnahmen und einen Zeitungsausschnitt; hat keinen Nachweis über den Tod von Theodor Hentschke; macht Angaben über Ernst Zober.</dc:description>
+         <dcterms:created rdf:resource="1983-05-30T00:00:00Z_1983-05-30T23:59:59Z"/>
+         <rdau:P60163>Stralsund</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/11</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597477">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597477"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597477"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597477">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597493">
+         <dc:identifier>DE-611-HS-3597493</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1038510740"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor>Killian-Impekoven, Niddy</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_117138436"/>
+         <dc:title>Brief von Michael Hahnewald an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Fragt nach Interesse an einer bibliophielen Rarität von Niddy Impekoven "16 Kupferdrucke nach Zeichnungen von Leo Impekoven".</dc:description>
+         <dcterms:created rdf:resource="1984-03-15T00:00:00Z_1984-03-15T23:59:59Z"/>
+         <rdau:P60163>Dresden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/12</bf:shelfMark>
+         <dcterms:extent>1 masch. Postkarte</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597493">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597493"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597493"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597493">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597496">
+         <dc:identifier>DE-611-HS-3597496</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1038510740"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_11622164X"/>
+         <dc:title>Brief von Michael Hahnewald an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Bietet ein Buch "Der Tanz" von Max von Boehn an.</dc:description>
+         <dcterms:created rdf:resource="1986-02-27T00:00:00Z_1986-02-27T23:59:59Z"/>
+         <rdau:P60163>Dresden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/13</bf:shelfMark>
+         <dcterms:extent>1 masch. Postkarte</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597496">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597496"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597496"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597496">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597498">
+         <dc:identifier>DE-611-HS-3597498</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1038510740"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Michael Hahnewald an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Dankt für einen Brief und macht ein Preisangebot.</dc:description>
+         <dcterms:created rdf:resource="1984-03-30T00:00:00Z_1984-03-30T23:59:59Z"/>
+         <rdau:P60163>Dresden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/14</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597498">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597498"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597498"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597498">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597509">
+         <dc:identifier>DE-611-HS-3597509</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1038510740"/>
+         <dc:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Michael Hahnewald</dc:title>
+         <dc:description>Dankt für das Buchangebot über Niddy Impekoven, das er als Tauschexemplar erwerben würde; kann aber keinen hohen Preis bezahlen; bekundet Interesse an Programmheften und Plakaten.</dc:description>
+         <dcterms:created rdf:resource="1984-03-27T00:00:00Z_1984-03-27T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/15</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597509">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597509"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597509"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597509">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597515">
+         <dc:identifier>DE-611-HS-3597515</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1038510740"/>
+         <dc:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Michael Hahnewald</dc:title>
+         <dc:description>Ist mit dem Preis für ein Buchangebot einverstanden und bittet um Zusendung mit Rechnung; dankt für die Bereitschaft zur Unterstützung mit Material über Tanz.</dc:description>
+         <dcterms:created rdf:resource="1984-04-03T00:00:00Z_1984-04-03T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/16</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597515">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597515"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597515"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597515">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597520">
+         <dc:identifier>DE-611-HS-3597520</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Schneider, Monika</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1038510740"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_11622164X"/>
+         <dc:title>Brief von Monika Schneider von Deutsches Tanzarchiv Leipzig an Michael Hahnewald</dc:title>
+         <dc:description>Gibt negatischen Bescheid zum Ankauf des Buches "Der Tanz" von Max von Boehn.</dc:description>
+         <dcterms:created rdf:resource="1986-03-03T00:00:00Z_1986-03-03T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/17</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597520">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597520"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597520"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597520">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597531">
+         <dc:identifier>DE-611-HS-3597531</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_122502671"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:title>Brief von Michael Hepp an Kurt Petermann</dc:title>
+         <dc:description>Berichtet über sein Interesse an Tanzgeschichte und einer geplanten Promotion und bittet den Adressaten um Anregungen und Einschätzung des Vorhabens; fragt nach Beschreibungen höfischer Reigentänze und nach der Musikform der Ballade.</dc:description>
+         <dcterms:created rdf:resource="1983-12-01T00:00:00Z_1983-12-01T23:59:59Z"/>
+         <rdau:P60163>Tübingen</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/18</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597531">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597531"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597531"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597531">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597559">
+         <dc:identifier>DE-611-HS-3597559</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_122502671"/>
+         <dc:title>Brief von Kurt Petermann an Michael Hepp</dc:title>
+         <dc:description>Unterstützt die Promotionsarbeit des Adressaten bei der Themenfindung; über die höfischen Reigentänze und die Melodien dazu; will sich im Januar um die Anliegen des Adressaten kümmern.</dc:description>
+         <dcterms:created rdf:resource="1983-12-20T00:00:00Z_1983-12-20T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/19</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597559">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597559"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597559"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597559">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597571">
+         <dc:identifier>DE-611-HS-3597571</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_122502671"/>
+         <dc:title>Brief von Kurt Petermann an Michael Hepp</dc:title>
+         <dc:description>Teilt Literatur über höfischen Reigentanz mit und schickt als Anlage ein Verzeichnis; macht einige Vorschläge für Promotionsthemen; lädt den Adressaten nach Leipzig zur Besprechung ein.</dc:description>
+         <dcterms:created rdf:resource="1984-01-27T00:00:00Z_1984-01-27T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/20</bf:shelfMark>
+         <dcterms:extent>3 Bl. (3 masch. S.) / 2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597571">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597571"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597571"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597571">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597577">
+         <dc:identifier>DE-611-HS-3597577</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1166449831"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_125126689"/>
+         <dc:title>Brief von Kurt Petermann an Hannes Hepp und Gertrud Hepp</dc:title>
+         <dc:description>Dankt für die Gastfreundschaft in Gailhof und sendet als Dank den "Lambranzi" und den "Helmke".</dc:description>
+         <dcterms:created rdf:resource="1984-06-28T00:00:00Z_1984-06-28T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/21</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597577">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597577"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597577"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597577">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597581">
+         <dc:identifier>DE-611-HS-3597581</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Schneider, Monika</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_125126689"/>
+         <dc:title>Brief von Monika Schneider an Gertrud Hepp</dc:title>
+         <dc:description>Schickt das "Vokabular deutscher Volkstanzschritte" , Teil 4; bittet um Zusendung eines fehlenden Heftes aus der Reihe "Deutsche Volkstänze".</dc:description>
+         <dcterms:created rdf:resource="1985-03-07T00:00:00Z_1985-03-07T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/22</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597581">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597581"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597581"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597581">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597596">
+         <dc:identifier>DE-611-HS-3597596</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456>Schäfer, Hans Joachim</rdau:P60456>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2008566-7"/>
+         <dc:title>Brief von Kurt Petermann an Hans Joachim Schäfer an Deutscher Tanzsportverband</dc:title>
+         <dc:description>Hat vom Bestehen des Archives des Deutschen Tanzsportverbandes Kenntnis erhalten; kündigt die Zusendung von Lieferungen der Tanzbibliografie an; bekundet Interesse an einer Zusammenarbeit.</dc:description>
+         <dcterms:created rdf:resource="1983-02-21T00:00:00Z_1983-02-21T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/23</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597596">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597596"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597596"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597596">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597605">
+         <dc:identifier>DE-611-HS-3597605</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2032728-6"/>
+         <dc:title>Brief von Kurt Petermann an Deutsches Rundfunkarchiv (Frankfurt, Main)</dc:title>
+         <dc:description>Schickt die gewünschte Kopie eines Gedenkblattes von A. Menzel.</dc:description>
+         <dcterms:created rdf:resource="1984-01-10T00:00:00Z_1984-01-10T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/30</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597605">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597605"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597605"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597605">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597631">
+         <dc:identifier>DE-611-HS-3597631</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_122679164"/>
+         <rdau:P60434>Jansen, Johannes</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:title>Brief von Manfred Joh. Böhlen und Johannes Jansen an Kurt Petermann</dc:title>
+         <dc:description>Über die Herausgabe einer Zweimonatsschrift "ORFEO - Das Magazin für Alte Musik" durch den Verlag "Gitarre &amp; Laute"; Bitte um Mitarbeit mit einen Beitrag über den Wandel von der Tanzmusik zur Kunstmusik; schickt als Anlage Informationen zu dem Projekt.</dc:description>
+         <dcterms:created rdf:resource="1983-06-27T00:00:00Z_1983-06-27T23:59:59Z"/>
+         <rdau:P60163>Köln</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/24</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.) / 3 Bl. (3 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597631">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597631"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597631"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597631">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597658">
+         <dc:identifier>DE-611-HS-3597658</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Jansen, Johannes</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_122679164"/>
+         <dc:title>Brief von Johannes Jansen an Kurt Petermann</dc:title>
+         <dc:description>Über die Herausgabe der Zweimonatsschrift "Concerto - Das Magazin für Alte Musik" durch den Verlag "Gitarre &amp; Laute"; über das Einfügen von Bildmaterial in den geplanten Artikel des Adressaten.</dc:description>
+         <dcterms:created rdf:resource="1983-12-30T00:00:00Z_1983-12-30T23:59:59Z"/>
+         <rdau:P60163>Köln</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/25</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597658">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597658"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597658"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597658">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597669">
+         <dc:identifier>DE-611-HS-3597669</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_122679164"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:title>Brief von Manfred Joh. Böhlen an Kurt Petermann</dc:title>
+         <dc:description>Bittet um den Artikel des Adressaten für die Zweimonatsschrift "Concerto - Das Magazin für Alte Musik" bis Mitte Februar.</dc:description>
+         <dcterms:created rdf:resource="1984-01-25T00:00:00Z_1984-01-25T23:59:59Z"/>
+         <rdau:P60163>Köln</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/26</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597669">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597669"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597669"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597669">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597676">
+         <dc:identifier>DE-611-HS-3597676</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_122679164"/>
+         <rdau:P60456>Jansen, Johannes</rdau:P60456>
+         <dc:title>Brief von Kurt Petermann an Manfred Joh. Böhlen und Johannes Jansen</dc:title>
+         <dc:description>Ist gern bereit, einen Artikel für die Zeitschrift "ORFEO - Das Magazin für Alte Musik" zu schreiben und am Rezensionsteil mitzuwirken.</dc:description>
+         <dcterms:created rdf:resource="1983-07-07T00:00:00Z_1983-07-07T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/27</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597676">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597676"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597676"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597676">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597692">
+         <dc:identifier>DE-611-HS-3597692</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_122679164"/>
+         <dc:title>Brief von Kurt Petermann an Manfred Joh. Böhlen</dc:title>
+         <dc:description>Kann aus gesundheitlichen Gründen den Termin für seinen Artikel für die Zeitschrift "ORFEO - Das Magazin für Alte Musik" nicht einhalten; ist über die ersten beiden Hefte der Zeitschrift erfreut.</dc:description>
+         <dcterms:created rdf:resource="1984-02-09T00:00:00Z_1984-02-09T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/28</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597692">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597692"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597692"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597692">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597695">
+         <dc:identifier>DE-611-HS-3597695</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Knese, Helga</rdau:P60434>
+         <rdau:P60456>Jansen, Johannes</rdau:P60456>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:title>Brief von Helga Knese an Johannes Jansen</dc:title>
+         <dc:description>Macht Mitteilung, dass Dr. Petermann aus gesundheitlichen Gründen den Termin für seinen Artikel für die Zeitschrift "ORFEO - Das Magazin für Alte Musik" nicht einhalten kann.</dc:description>
+         <dcterms:created rdf:resource="1984-01-23T00:00:00Z_1984-01-23T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/29</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597695">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597695"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597695"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597695">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597992">
+         <dc:identifier>DE-611-HS-3597992</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Fresen, Otto</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Otto Fresen an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Gibt Auskunft über Ursula Röschmann und den Tanz "Castilliana", den sie von einer Volkstanzgruppe aus Franzburg kennengelernt habe.</dc:description>
+         <rdau:P60163>Düsseldorf</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/31</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597992">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597992"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597992"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597992">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597993">
+         <dc:identifier>DE-611-HS-3597993</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Fresen, Otto</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Otto Fresen an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Kündigt seinen Besuch an, da er wegen einer Beerdigung in Leipzig ist; möchte auch das neue Gewandhaus mit seiner Orgel besuchen; über Ursula Röschmenn und den Tanz "Castilliana" will er mündlich berichten.</dc:description>
+         <dcterms:created rdf:resource="1984-03-30T00:00:00Z_1984-03-30T23:59:59Z"/>
+         <rdau:P60163>Düsseldorf</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/32</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597993">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597993"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597993"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597993">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597995">
+         <dc:identifier>DE-611-HS-3597995</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Fresen, Otto</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Otto Fresen an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Dankt für die freundiche Aufnahme bei seinem Besuch in Leipzig und lobt die Aktivitäten des Tanzarchivs; schickt eine Platte "Lieder und Tänze aus Pommern".</dc:description>
+         <dcterms:created rdf:resource="1984-05-23T00:00:00Z_1984-05-23T23:59:59Z"/>
+         <rdau:P60163>Düsseldorf</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/33</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597995">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597995"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597995"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597995">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597996">
+         <dc:identifier>DE-611-HS-3597996</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Fresen, Otto</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Otto Fresen an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Teilt seinen Besuchstermin im Tanzarchiv mit.</dc:description>
+         <dcterms:created rdf:resource="1984-04-17T00:00:00Z_1984-04-17T23:59:59Z"/>
+         <rdau:P60163>Düsseldorf</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/34</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597996">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597996"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597996"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597996">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597998">
+         <dc:identifier>DE-611-HS-3597998</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434>Schneider, Monika</rdau:P60434>
+         <rdau:P60456>Fresen, Otto</rdau:P60456>
+         <dc:title>Brief von Kurt Petermann und Monika Schneider an Otto Fresen</dc:title>
+         <dc:description>Verabredet einen Besuchstermin des Adressaten im Tanzarchiv.</dc:description>
+         <dcterms:created rdf:resource="1984-04-05T00:00:00Z_1984-04-05T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/35</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597998">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597998"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597998"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597998">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3597999">
+         <dc:identifier>DE-611-HS-3597999</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434>Schneider, Monika</rdau:P60434>
+         <rdau:P60456>Fresen, Otto</rdau:P60456>
+         <dc:title>Brief von Kurt Petermann und Monika Schneider an Otto Fresen</dc:title>
+         <dc:description>Dankt für einen Brief und eine Schallplatte; will sich um eine Postkarte mit der Orgel des neuen Gewandhauses bemühen.</dc:description>
+         <dcterms:created rdf:resource="1984-06-07T00:00:00Z_1984-06-07T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/36</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3597999">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3597999"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3597999"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3597999">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598013">
+         <dc:identifier>DE-611-HS-3598013</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_120191989"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Hilda-Maria Lander an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Teilt ihre neue Adresse mit.</dc:description>
+         <dcterms:created rdf:resource="1984-02-29T00:00:00Z_1984-02-29T23:59:59Z"/>
+         <rdau:P60163>Altdorf</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/37</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 gedr.; hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598013">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598013"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598013"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598013">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598016">
+         <dc:identifier>DE-611-HS-3598016</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_120191989"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:title>Brief von Hilda-Maria Lander an Kurt Petermann</dc:title>
+         <dc:description>Dankt für Neujahrsgruß; über ihren Umzug.</dc:description>
+         <dcterms:created rdf:resource="1984-03-01T00:00:00Z_1984-03-01T23:59:59Z"/>
+         <rdau:P60163>Altdorf</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/38</bf:shelfMark>
+         <dcterms:extent>1 hs. Postkarte</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598016">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598016"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598016"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598016">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598020">
+         <dc:identifier>DE-611-HS-3598020</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_120191989"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2158162-9"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Hilda-Maria Lander von Frankfurter Tanzkreis an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Schickt gern das Buch "Tanzen will ich" und wünscht als Gegengabe "Ungarische Volkskunst"; über ihre Arbeit.</dc:description>
+         <dcterms:created rdf:resource="1984-05-15T00:00:00Z_1984-05-15T23:59:59Z"/>
+         <rdau:P60163>Altdorf</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/39</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.) / 1Bl. (1 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598020">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598020"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598020"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598020">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598027">
+         <dc:identifier>DE-611-HS-3598027</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_120191989"/>
+         <dc:title>Brief von Kurt Petermann an Hilda-Maria Lander</dc:title>
+         <dc:description>Dankt für einen Kartengruß und fragt nach dem Buch "Tanzen will ich"; bietet Austauschliteratur an.</dc:description>
+         <dcterms:created rdf:resource="1984-04-05T00:00:00Z_1984-04-05T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/40</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598027">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598027"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598027"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598027">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598034">
+         <dc:identifier>DE-611-HS-3598034</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1244005-X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Hedo Holland von Elbraben an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Über seine Aktivitäten; bekundet Interesse am Schriftentausch.</dc:description>
+         <dcterms:created rdf:resource="1982-02-15T00:00:00Z_1982-02-15T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/41</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598034">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598034"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598034"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598034">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598040">
+         <dc:identifier>DE-611-HS-3598040</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1244005-X"/>
+         <rdau:P60456>Schneider, Monika</rdau:P60456>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Hedo Holland von Elbraben an Monika Schneider an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Entschuldigt die verspätete Antwort mit seiner vielen Arbeit; ist interessiert am Volkstanz in der DDR; über seine Zeitschrift "Folklore und Mitmachtanz" und über seine Arbeit auf diesem Gebiet.</dc:description>
+         <dcterms:created rdf:resource="1983-02-25T00:00:00Z_1983-02-25T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/42</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598040">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598040"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598040"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598040">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598050">
+         <dc:identifier>DE-611-HS-3598050</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1244005-X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Hedo Holland von Elbraben an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Bietet seine Zeitschrift "Folklore und Mitmachtanz" an im Austausch zur Zeitschrift des Adressaten; über die Mitmachtanzgruppen und über die Elbraben.</dc:description>
+         <dcterms:created rdf:resource="1984-08-15T00:00:00Z_1984-08-15T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/43</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598050">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598050"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598050"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598050">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598068">
+         <dc:identifier>DE-611-HS-3598068</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1244005-X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Hedo Holland von Elbraben an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Schickt rückliegende Nummern seiner Zeitschrift "Folklore und Mitmachtanz"; listet seine Volkstanzliteratur aus der DDR auf; ist interessiert an "Schrittvokabular zum deutschen Volkstanz" und am Supplementband des Adressaten; fragt nach internationale Schallplatten und Zeitschriften aus der DDR.</dc:description>
+         <dcterms:created rdf:resource="1984-08-31T00:00:00Z_1984-08-31T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/44</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598068">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598068"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598068"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598068">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598074">
+         <dc:identifier>DE-611-HS-3598074</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1244005-X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134774922"/>
+         <dc:title>Brief von Hedo Holland von Elbraben an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Dankt für Hefte "Schrittvokabular zum deutschen Volkstanz"; über seine Arbeit an einer Schallplatte über Tänze aus Norddeutschland; fragt nach Vorschlägen dazu; über die Arbeit von Frau Helms-Blasche; fragt nach verschiedenen Versionen von Volkstänzen.</dc:description>
+         <dcterms:created rdf:resource="1984-10-06T00:00:00Z_1984-10-06T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/45</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598074">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598074"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598074"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598074">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598085">
+         <dc:identifier>DE-611-HS-3598085</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Hedo Holland an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Dankt für Teil 4 des "Vokabular der Volkstanzschritte"; fragt nach Terminen von Mitmachvolkstanz in der DDR; fragt nach dem Interesse an Noten und Tanzbeschreibungen.</dc:description>
+         <dcterms:created rdf:resource="1985-06-13T00:00:00Z_1985-06-13T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/46</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598085">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598085"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598085"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598085">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598088">
+         <dc:identifier>DE-611-HS-3598088</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <rdau:P60456>Schneider, Monika</rdau:P60456>
+         <dc:title>Brief von Hedo Holland an Monika Schneider</dc:title>
+         <dc:description>Über die Zusendung von Zeitschriften; über seine Teilnahme am Folkorefestival in Halle.</dc:description>
+         <dcterms:created rdf:resource="1986-08-19T00:00:00Z_1986-08-19T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/47</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598088">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598088"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598088"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598088">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598093">
+         <dc:identifier>DE-611-HS-3598093</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Schneider, Monika</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <dc:title>Brief von Monika Schneider an Hedo Holland</dc:title>
+         <dc:description>Bietet zum Austausch die Zeitschrift "Der Tanz" an; berichtet über den Volkstanz inder DDR; über das Tanzfest in Rudolstadt.</dc:description>
+         <dcterms:created rdf:resource="1982-05-04T00:00:00Z_1982-05-04T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/48</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598093">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598093"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598093"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598093">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598096">
+         <dc:identifier>DE-611-HS-3598096</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <dc:title>Brief von Kurt Petermann an Hedo Holland</dc:title>
+         <dc:description>Über Schriftentausch; über Volkstanzliteratur aus der DDR; dankt für die Auskunft über weitere Arbeitsgruppen der BRD.</dc:description>
+         <dcterms:created rdf:resource="1984-08-22T00:00:00Z_1984-08-22T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/49</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598096">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598096"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598096"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598096">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598100">
+         <dc:identifier>DE-611-HS-3598100</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Schneider, Monika</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <dc:title>Brief von Monika Schneider an Hedo Holland</dc:title>
+         <dc:description>Teilt für Termine und Berichte die Adresse des Zentralhauses für Kulturarbeit mit; über Schriftentausch; wird eine Tauschliste schicken.</dc:description>
+         <dcterms:created rdf:resource="1985-06-26T00:00:00Z_1985-06-26T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/50</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598100">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598100"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598100"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598100">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598104">
+         <dc:identifier>DE-611-HS-3598104</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Schneider, Monika</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <dc:title>Brief von Monika Schneider an Hedo Holland</dc:title>
+         <dc:description>Dankt für Zeitschriftenhefte und fragt nach fehlenden Adressen.</dc:description>
+         <dcterms:created rdf:resource="1986-06-09T00:00:00Z_1986-06-09T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/51</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598104">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598104"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598104"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598104">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598106">
+         <dc:identifier>DE-611-HS-3598106</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Schneider, Monika</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <dc:title>Brief von Monika Schneider an Hedo Holland</dc:title>
+         <dc:description>Dankt für Zeitschriftenhefte; schickt Erläuterungen zum "Faschingstanz"; biete weiterhin Hilfe an.</dc:description>
+         <dcterms:created rdf:resource="1991-02-11T00:00:00Z_1991-02-11T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/52</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598106">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598106"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598106"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598106">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598128">
+         <dc:identifier>DE-611-HS-3598128</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Riebeling, Carl Ernst</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2008566-7"/>
+         <dc:title>Brief von Carl Ernst Riebeling an Kurt Petermann</dc:title>
+         <dc:description>Hat seine Unterlagen an das Archiv des Deutschen Tanzsportverbandes weitergegeben, das von Herrn Hans Joachim Schäfer geführt wird und bittet darum, mit ihm weiter zusammen zu arbeiten; bittet die Tanzbibliographie an ihn zu senden.</dc:description>
+         <dcterms:created rdf:resource="1983-01-06T00:00:00Z_1983-01-06T23:59:59Z"/>
+         <rdau:P60163>Witzenhausen</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/53</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598128">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598128"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598128"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598128">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598139">
+         <dc:identifier>DE-611-HS-3598139</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Schäfer, Hans Joachim</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2008566-7"/>
+         <rdau:P60456>Riebeling, Carl Ernst</rdau:P60456>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:title>Brief von Hans Joachim Schäfer von Deutscher Tanzsportverband an Carl Ernst Riebeling</dc:title>
+         <dc:description>Macht bibliographische Angaben zur Tanzbibliographie von Kurt Petermann und bittet darum, den Weiterbezug zu übernehmen; üner den Besuch von Herrn Wolters; über einen Bericht über das DTV-Archiv; über die Herausgabe des "Großen Lexikons der Musik".</dc:description>
+         <dcterms:created rdf:resource="1983-01-02T00:00:00Z_1983-01-02T23:59:59Z"/>
+         <rdau:P60163>Münster</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/54</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598139">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598139"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598139"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598139">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598169">
+         <dc:identifier>DE-611-HS-3598169</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456>Riebeling, Carl Ernst</rdau:P60456>
+         <dc:contributor>Schäfer, Hans Joachim</dc:contributor>
+         <dc:title>Brief von Kurt Petermann an Carl Ernst Riebeling</dc:title>
+         <dc:description>Hat an Herrn Schäfer wegen dem zukünftigen Schriftentausch geschrieben und schickt Lieferungen der Tanzbibliographie; dankt und schickt gute Wünsche.</dc:description>
+         <dcterms:created rdf:resource="1983-02-21T00:00:00Z_1983-02-21T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/55</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598169">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598169"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598169"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598169">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598182">
+         <dc:identifier>DE-611-HS-3598182</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Höntsch, Winfried</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_5080798-5"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5506769-4"/>
+         <dc:title>Brief von Winfried Höntsch von Dresdner Musikfestspiele an Kurt Petermann</dc:title>
+         <dc:description>Berufung zum Mitglied der Internationalen Jury beim Internationalen Carl-Maria-von-Weber-Wettbewerb für Ballette 1984 bei den Dresdner Musikfestspielen; Mitteilung der Teilnehmer der Jury und der Arbeitsweise; Organisatorisches.</dc:description>
+         <dcterms:created rdf:resource="1984-02-02T00:00:00Z_1984-02-02T23:59:59Z"/>
+         <rdau:P60163>Dresden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/56</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.) / 1 Faltbl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598182">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598182"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598182"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598182">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598476">
+         <dc:identifier>DE-611-HS-3598476</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Pieschel, Wolfgang</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2002200-1"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5080798-5"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5506769-4"/>
+         <dc:title>Brief von Wolfgang Pieschel von Staatsoper Dresden an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Dankt für die Zusage, als Jury des Internationalen Carl-Maria-von-Weber-Wettbewerbes für Ballette 1984 bei den Dresdner Musikfestspielen mitzuwirken; kündigt drei Wettbewerbseinsendungen an mit der Bitte um Beurteilung; über Organisatorisches.</dc:description>
+         <dcterms:created rdf:resource="1984-03-01T00:00:00Z_1984-03-01T23:59:59Z"/>
+         <rdau:P60163>Dresden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/57</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598476">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598476"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598476"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598476">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598477">
+         <dc:identifier>DE-611-HS-3598477</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Schaller</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2002200-1"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_5506769-4"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Schaller von Staatsoper Dresden, Internationaler Carl-Maria-von-Weber-Wettbewerb für Ballette (1984 : Dresden) an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Bittet um Anruf zur Abklärung von organisatorischen Angelegenheiten für die Teilnahme an der Jury des Internationalen Carl-Maria-von-Weber-Wettbewerbes für Ballette 1984 bei den Dresdner Musikfestspielen.</dc:description>
+         <dcterms:created rdf:resource="1984-04-18T00:00:00Z_1984-04-18T23:59:59Z"/>
+         <rdau:P60163>Dresden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/58</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598477">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598477"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598477"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598477">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598478">
+         <dc:identifier>DE-611-HS-3598478</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Höntsch, Winfried</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_5080798-5"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5506769-4"/>
+         <dc:title>Brief von Winfried Höntsch von Dresdner Musikfestspiele an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Einladung für die Teilnahme an der Jury des Internationalen Carl-Maria-von-Weber-Wettbewerbes für Ballette 1984 bei den Dresdner Musikfestspielen; über Organisatorisches und über das Honorar.</dc:description>
+         <dcterms:created rdf:resource="1983-10-11T00:00:00Z_1983-10-11T23:59:59Z"/>
+         <rdau:P60163>Dresden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/59</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598478">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598478"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598478"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598478">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598479">
+         <dc:identifier>DE-611-HS-3598479</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456>Höntsch, Winfried</rdau:P60456>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_5080798-5"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5506769-4"/>
+         <dc:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Winfried Höntsch an Dresdner Musikfestspiele</dc:title>
+         <dc:description>Dankt für die Einladung zur Teilnahme an der Jury des Internationalen Carl-Maria-von-Weber-Wettbewerbes für Ballette 1984 bei den Dresdner Musikfestspielen und sagt seine Teilnahme zu.</dc:description>
+         <dcterms:created rdf:resource="1983-10-11T00:00:00Z_1983-10-11T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/60</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598479">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598479"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598479"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598479">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598480">
+         <dc:identifier>DE-611-HS-3598480</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456>Pieschel, Wolfgang</rdau:P60456>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_5506769-4"/>
+         <dc:contributor>Gommlich, Werner</dc:contributor>
+         <dc:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Wolfgang Pieschel an Internationaler Carl-Maria-von-Weber-Wettbewerb für Ballette (1984 : Dresden)</dc:title>
+         <dc:description>Schickt ein vergessenes Gutachten von Werner Gommlich.</dc:description>
+         <dcterms:created rdf:resource="1984-04-04T00:00:00Z_1984-04-04T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/61</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598480">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598480"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598480"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598480">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598481">
+         <dc:identifier>DE-611-HS-3598481</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456>Pieschel, Wolfgang</rdau:P60456>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2002200-1"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_5506769-4"/>
+         <dc:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Wolfgang Pieschel an Staatsoper Dresden</dc:title>
+         <dc:description>Schickt die letzten zwei Gutachten; teilt seine derzeitige Erkrankung mit und wir Bescheid geben wegen der Teilnahme an der Jury.</dc:description>
+         <dcterms:created rdf:resource="1985-05-10T00:00:00Z_1985-05-10T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/62</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598481">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598481"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598481"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598481">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598491">
+         <dc:identifier>DE-611-HS-3598491</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_119498200"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <rdau:P60456>Legler, Hannelore</rdau:P60456>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Rolf Wilhelm Brednich von Deutsches Volksliedarchiv an Hannelore Legler an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Bekundet die Bereitschaft zum Schriftentausch; kann das Jahrbuch für Volksliedforschung ab 1979 zuschicken; dankt für die Lieferungen der Tanzbibliogaphie.</dc:description>
+         <dcterms:created rdf:resource="1980-03-27T00:00:00Z_1980-03-27T23:59:59Z"/>
+         <rdau:P60163>Freiburg i. Br.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/63</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598491">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598491"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598491"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598491">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598494">
+         <dc:identifier>DE-611-HS-3598494</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1052209564"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Barbara Boock von Deutsches Volksliedarchiv an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Bittet um zwei Tauschexemplare aus der Reihe "Documenta choreologica".</dc:description>
+         <dcterms:created rdf:resource="1980-06-13T00:00:00Z_1980-06-13T23:59:59Z"/>
+         <rdau:P60163>Freiburg i. Br.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/64</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598494">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598494"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598494"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598494">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598497">
+         <dc:identifier>DE-611-HS-3598497</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_115630511"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134035488"/>
+         <dc:title>Brief von Otto Holzapfel von Deutsches Volksliedarchiv an Kurt Petermann</dc:title>
+         <dc:description>Teilt die Übernahme der Kinderliedersammlung von Prof. Watkinson mit; bittet um die Zusendung fehlender Hefte der Zeitschrift "Der Tanz" des Adressaten und ist an intensiverem Kontakt interessiert.</dc:description>
+         <dcterms:created rdf:resource="1984-02-29T00:00:00Z_1984-02-29T23:59:59Z"/>
+         <rdau:P60163>Freiburg i. Br.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/65</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598497">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598497"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598497"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598497">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598498">
+         <dc:identifier>DE-611-HS-3598498</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1052209564"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134035488"/>
+         <dc:title>Brief von Barbara Boock von Deutsches Volksliedarchiv an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Dankt für Zeitschriftenhefte "Der Tanz" und bietet Tauschexemplare an.</dc:description>
+         <dcterms:created rdf:resource="1984-04-18T00:00:00Z_1984-04-18T23:59:59Z"/>
+         <rdau:P60163>Freiburg i. Br.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/66</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598498">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598498"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598498"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598498">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598501">
+         <dc:identifier>DE-611-HS-3598501</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1052209564"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Barbara Boock von Deutsches Volksliedarchiv an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Über ihren Besuch in Leipzig; will nach und nach die gewünschten Kopien schicken; teilt Dubletten mit; bittet um den "Taubert" als Tauschexemplar.</dc:description>
+         <dcterms:created rdf:resource="1984-05-15T00:00:00Z_1984-05-15T23:59:59Z"/>
+         <rdau:P60163>Freiburg i. Br.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/67</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598501">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598501"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598501"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598501">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598503">
+         <dc:identifier>DE-611-HS-3598503</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1052209564"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Barbara Boock von Deutsches Volksliedarchiv an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Schickt zwei Dubletten und kündigt Kopien der ganzen Abteilung Tanz an.</dc:description>
+         <dcterms:created rdf:resource="1984-05-29T00:00:00Z_1984-05-29T23:59:59Z"/>
+         <rdau:P60163>Freiburg i. Br.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/68</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598503">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598503"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598503"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598503">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598507">
+         <dc:identifier>DE-611-HS-3598507</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1052209564"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Barbara Boock von Deutsches Volksliedarchiv an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Dankt für Exemplare des "Taubert"; will die gewünschten Kopien einem Bekannten im Juli mitgeben.</dc:description>
+         <dcterms:created rdf:resource="1984-06-06T00:00:00Z_1984-06-06T23:59:59Z"/>
+         <rdau:P60163>Freiburg i. Br.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/69</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598507">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598507"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598507"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598507">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598511">
+         <dc:identifier>DE-611-HS-3598511</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1052209564"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Barbara Boock von Deutsches Volksliedarchiv an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Schickt als Anlage Kopien sämtliche Belege der Gruppe D (Tanz); wird gelegentlich Tauschwünsche mitteilen.</dc:description>
+         <dcterms:created rdf:resource="1984-06-15T00:00:00Z_1984-06-15T23:59:59Z"/>
+         <rdau:P60163>Freiburg i. Br.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/70</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598511">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598511"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598511"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598511">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598515">
+         <dc:identifier>DE-611-HS-3598515</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1052209564"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Barbara Boock von Deutsches Volksliedarchiv an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Kündigt die gewünschten Kopien für Mitte Juli an; teilt einen Tauschwunsch mit; fragt nach der Ermittlung von Liedanfängen und Textdichtern aus dem Katalog der Opernlibretti der Musikbibliothek Leipzig.</dc:description>
+         <dcterms:created rdf:resource="1984-06-22T00:00:00Z_1984-06-22T23:59:59Z"/>
+         <rdau:P60163>Freiburg i. Br.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/71</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598515">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598515"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598515"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598515">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598517">
+         <dc:identifier>DE-611-HS-3598517</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1052209564"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:title>Brief von Barbara Boock von Deutsches Volksliedarchiv an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Über einen Videofilm von einem elsässischen Musiker über einen Tanz aus dem lothringischen Raum von einer älteren Gewährsfrau; bietet eine Kopie davon an.</dc:description>
+         <dcterms:created rdf:resource="1984-08-17T00:00:00Z_1984-08-17T23:59:59Z"/>
+         <rdau:P60163>Freiburg i. Br.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/72</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598517">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598517"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598517"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598517">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598522">
+         <dc:identifier>DE-611-HS-3598522</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_115630511"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_13454899X"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1162153830"/>
+         <dc:title>Brief von Otto Holzapfel von Deutsches Volksliedarchiv an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Neujahrswünsche und Grüße von Hartmut Wager; hat aus dem Nachlaß von Bernhard von Peinen Kopien für den Adressaten gemacht und fragt nach der möglichen Deklaration der Zusendung.</dc:description>
+         <dcterms:created rdf:resource="1985-01-03T00:00:00Z_1985-01-03T23:59:59Z"/>
+         <rdau:P60163>Freiburg i. Br.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/73</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598522">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598522"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598522"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598522">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598533">
+         <dc:identifier>DE-611-HS-3598533</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Schneider, Monika</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_115630511"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:title>Brief von Monika Schneider von Deutsches Tanzarchiv Leipzig an Otto Holzapfel an Deutsches Volksliedarchiv</dc:title>
+         <dc:description>Teilt den Tod Dr. Petermanns mit; will das Archiv in seinem Sinne weiterführen; bittet um weitere Zusendungen an die Dienstadresse; bietet weiterhin Austauschliteratur an.</dc:description>
+         <dcterms:created rdf:resource="1985-01-24T00:00:00Z_1985-01-24T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/74</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598533">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598533"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598533"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598533">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3598542">
+         <dc:identifier>DE-611-HS-3598542</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Kurt Petermann - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen - Nachlass Kurt Petermann, Korrespondenz mit Institutionen und Museen, 3</dcterms:isPartOf>
+         <rdau:P60434>Schneider, Monika</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_115630511"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1014113-3"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_134035488"/>
+         <dc:title>Brief von Monika Schneider und Kurt Petermann von Deutsches Tanzarchiv Leipzig an Otto Holzapfel an Deutsches Volksliedarchiv</dc:title>
+         <dc:description>Ist erfreut über die Übernahme der Sammlung von Prof. Watkinson; kündigt die Zusendung fehlender Zeitschriftenhefte von "Der Tanz" an; bekundet Interesse am Schriftentausch.</dc:description>
+         <dcterms:created rdf:resource="1984-04-05T00:00:00Z_1984-04-05T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 399/3/3/75</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3598542">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3598542"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3598542"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3598542">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+</rdf:Bag>

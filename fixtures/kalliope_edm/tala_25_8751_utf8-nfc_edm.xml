@@ -1,0 +1,2400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:Bag xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:edm="http://www.europeana.eu/schemas/edm/"
+         xmlns:ore="http://www.openarchives.org/ore/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:bibo="http://purl.org/ontology/bibo/"
+         xmlns:bf="http://id.loc.gov/ontologies/bibframe/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdau="http://rdaregistry.info/Elements/u/"
+         xmlns:eclap="http://www.eclap.eu/schema/eclap/">
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502635">
+         <dc:identifier>DE-611-HS-3502635</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Kinderbewegungschor (1927-)</dc:contributor>
+         <dc:title>Kinderbewegungschöre Laban. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto zeigt tanzende Kinder.</dc:description>
+         <dcterms:created rdf:resource="1930-01-01T00:00:00Z_1930-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/32, Blatt 32</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502635">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502635"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502635"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502635">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502734">
+         <dc:identifier>DE-611-HS-3502734</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor>Kinderbewegungschor (1927-)</dc:contributor>
+         <dc:title>[Ohne Titel.] (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Zwei Fotos: Eines ist ein Ausschnitt einer größeren Darstellung. Hier sind Kinder zu sehen, die mit erhobenen Armen laufen. Das zweite Bild zeigt eine Kindergruppe bei tänzerischen Bewegungen.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/33, Blatt 33</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502734">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502734"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502734"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502734">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502737">
+         <dc:identifier>DE-611-HS-3502737</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Kinderbewegungschor (1927-)</dc:contributor>
+         <dc:title>Kinderbewegungschor Laban. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Auf dem Foto ist eine Kindergruppe auf einer Lichtung, einem Weg o.ä. zu sehen. Unterschiedliche Armbewegungen werden realisiert. Im Mittelpunkt steht ein kleinere Kind zwischen größeren.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/34, Blatt 34</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502737">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502737"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502737"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502737">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502739">
+         <dc:identifier>DE-611-HS-3502739</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Kinderbewegungschor (1927-)</dc:contributor>
+         <dc:title>Kinderbeweg.chor Laban. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Tanzende Kindergruppe, Erwachsene im Hintergrund, anbei der Hinweis: "Bayreuth 1930".</dc:description>
+         <dcterms:created rdf:resource="1930-01-01T00:00:00Z_1930-12-31T23:59:59Z"/>
+         <rdau:P60163>Bayreuth</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/35, Blatt 35</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502739">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502739"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502739"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502739">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502740">
+         <dc:identifier>DE-611-HS-3502740</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Kinderbewegungschor (1927-)</dc:contributor>
+         <dc:title>Kinderbewegegungschor Laban. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Tanzende Kindergruppe.</dc:description>
+         <dcterms:created rdf:resource="1930-01-01T00:00:00Z_1930-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/36, Blatt 36</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502740">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502740"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502740"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502740">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502793">
+         <dc:identifier>DE-611-HS-3502793</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Mirelmann, Rose</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1072904500"/>
+         <dc:contributor>Kinderbewegungschor (1927-)</dc:contributor>
+         <dc:title>Postkarte Bewegungschöre Laban Halle. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Postkarte zeigt ein Foto von drei tanzenden Kindern auf einer Wiese vor einem Fluss. Bildunterschrift: Bewegungschöre Laban Halle / Leitung: Jenny Gertz, Rose Mirelmann, Abteilung Kinder.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/37, Blatt 37</bf:shelfMark>
+         <dcterms:extent>1 Bl. / Beilage: Briefumschlag.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502793">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502793"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502793"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502793">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502798">
+         <dc:identifier>DE-611-HS-3502798</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_120481308"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Von Jennys Kindern in England modelliert. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Detailaufnahme von modellierten Figuren, die Tanzbewegungen darstellen.</dc:description>
+         <dcterms:created rdf:resource="1979-12-03T00:00:00Z_1979-12-03T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/38, Blatt 38</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502798">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502798"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502798"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502798">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502800">
+         <dc:identifier>DE-611-HS-3502800</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_120481308"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Von Jennys Kindern in England modelliert. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Detailaufnahme von modellierten Figuren, die Tanzbewegungen darstellen.</dc:description>
+         <dcterms:created rdf:resource="1979-12-03T00:00:00Z_1979-12-03T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/39, Blatt 39</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502800">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502800"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502800"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502800">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502803">
+         <dc:identifier>DE-611-HS-3502803</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434>Fischer, Liselotte</rdau:P60434>
+         <dc:contributor>Fischer, Wolfgang</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Rotraud. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Tanzendes Mädchen auf einer Wiese (vorgebeugte Haltung). Dabei Stempel: Wolfgang und Liselotte Fischer / Bildberichterstatter Halle/Saale.</dc:description>
+         <dc:description>o.D. [nach 1947]</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/40, Blatt 40</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502803">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502803"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502803"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502803">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502804">
+         <dc:identifier>DE-611-HS-3502804</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Carola 9 J. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Tanzendes Mädchen auf einer Wiese (linker Fuß leicht angehoben, zurückweichende Haltung). Hs. Notiz u.a.: Kinderclub Jenny Gertz Halle nach 1947.</dc:description>
+         <dc:description>o.D. [nach 1947]</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/41, Blatt 41</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502804">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502804"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502804"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502804">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502808">
+         <dc:identifier>DE-611-HS-3502808</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor>Brieger, Heinz</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Volkstanz. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto zeigt Kinder beim Volkstanz. Im Vordergrund ein Paar. Dabei u.a.: Stempel Heinz Brieger / Bildberichter im VDP Halle und der hs. Hinweis "2x Postkarte.</dc:description>
+         <dc:description>o.D. [nach 1947]</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/42, Blatt 42</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502808">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502808"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502808"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502808">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502810">
+         <dc:identifier>DE-611-HS-3502810</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Kinderbewegungschor (1927-)</dc:contributor>
+         <dc:title>Bewegungschor Laban. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto zeigt Kindergruppe bei tänzerischen Bewegungen und eine Erwachsene.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/43, Blatt 43</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502810">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502810"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502810"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502810">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502811">
+         <dc:identifier>DE-611-HS-3502811</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Bewegungschöre Laban Halle (1927-1933)</dc:contributor>
+         <dc:title>Jenny Gertz zusammen mit Kindern und Erwachsenen aus ihren Bewegungschören. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto zeigt eine Gruppe Kinder und Erwachsene, die auf einer Wiese sitzen.</dc:description>
+         <dc:description>o.D. [um 1930]</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/44, Blatt 44</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502811">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502811"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502811"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502811">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502815">
+         <dc:identifier>DE-611-HS-3502815</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>für sweets. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto zeigt ein in aufrechter Haltung tanzendes Mädchen, Kinder und eine Frau sitzen dahinter.</dc:description>
+         <dc:language>ger</dc:language>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/45, Blatt 45</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502815">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502815"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502815"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502815">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502820">
+         <dc:identifier>DE-611-HS-3502820</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1030486670"/>
+         <dc:title>"Rattenfänger". (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto zeigt eine Kindergruppe, die mit in die Höhe gestreckten Armen einem Mann in gleicher Haltung hinterherläuft.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/46, Blatt 46</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502820">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502820"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502820"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502820">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502824">
+         <dc:identifier>DE-611-HS-3502824</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1030486670"/>
+         <dc:title>Kranichs Kinder (Herbert Vogel) Hamburg. (Incipit der Unterlage)</dc:title>
+         <dc:description>Foto zeigt drei tanzende Kinder im Vorgrund.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/47, Blatt 47</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502824">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502824"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502824"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502824">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502833">
+         <dc:identifier>DE-611-HS-3502833</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434>Kinderbewegungschor (1927-)</rdau:P60434>
+         <dc:contributor>Mirelmann, Rose</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Kinder tanzen im Opernhaus Bayreuth. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Programm eines Tanzabends am 3. August 1930 im Opernhaus Bayreuth. Kinder von 5 bis 14 Jahren zeigen Freies Spiel und Einstudierte Tanzspiele (Groß-Klein, Choreographie Rose Mirelmann und Sonnenspiel, Jenny Gertz). Es wird weiterhin das Konzept des Kinderbewegungschors Laban Halle beschrieben.</dc:description>
+         <dcterms:created rdf:resource="1930-08-03T00:00:00Z_1930-08-03T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/48, Blatt 48</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502833">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502833"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502833"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502833">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502868">
+         <dc:identifier>DE-611-HS-3502868</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Taubstumm - Bewegung? (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Der Text beschreibt eine Begegnung taubstummer Kinder mit den Kindern der Tanzgruppen von Jenny Gertz.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/49, Blatt 49</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502868">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502868"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502868"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502868">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502874">
+         <dc:identifier>DE-611-HS-3502874</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>The Training of the body by means of dance in the Kindergarten. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dcterms:created rdf:resource="1939-01-01T00:00:00Z_1939-12-31T23:59:59Z"/>
+         <dc:language>eng</dc:language>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/50, Blatt 50</bf:shelfMark>
+         <dcterms:extent>8 Bl. (8 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502874">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502874"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502874"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502874">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502879">
+         <dc:identifier>DE-611-HS-3502879</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Körpertraining mittels Tanz im Kindergarten. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dcterms:created rdf:resource="1939-01-01T00:00:00Z_1939-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/51, Blatt 51</bf:shelfMark>
+         <dcterms:extent>4 Bl. (4 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502879">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502879"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502879"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502879">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3502893">
+         <dc:identifier>DE-611-HS-3502893</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Bewegungschöre Laban Halle (1927-1933)</dc:contributor>
+         <dc:title>Anormale Kinder. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Beschreibung der tänzerischen Arbeit mit geistig behinderten Kindern.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/52, Blatt 52</bf:shelfMark>
+         <dcterms:extent>6 Bl. (6 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3502893">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3502893"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3502893"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3502893">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503516">
+         <dc:identifier>DE-611-HS-3503516</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Der Tanz des Kindes. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Kopie des Artikels von Jenny Gertz: Der Tanz des Kindes. In: Die neue Schule, 2. Jg. (1947), H. 8, S.12-15. Dabei liegen das Inhaltsverzeichnis des Hefts, ein weiterer Artikel (Erich Brehm: Die Berliner Schulreform [Fragment]) und als Ausschnitt der Kopf der Zeitschrift.</dc:description>
+         <dcterms:created rdf:resource="1947-01-01T00:00:00Z_1947-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/53, Blatt 53</bf:shelfMark>
+         <dcterms:extent>7 Bl. (7 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503516">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503516"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503516"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503516">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503564">
+         <dc:identifier>DE-611-HS-3503564</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Ein erfolgreicher Werbeabend der IAH. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Kopie des Artikels [Anonym:] Ein erfolgreicher Werbeabend der IAH. In: Klassenkampf: Organ der KPD Halle-Merseburg, 18.02.1928. Dabei ist auch die Titelseite der Zeitung.</dc:description>
+         <dcterms:created rdf:resource="1928-02-18T00:00:00Z_1928-02-18T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/54, Blatt 54</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503564">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503564"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503564"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503564">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503571">
+         <dc:identifier>DE-611-HS-3503571</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Kinderbewegungschor (1927-)</dc:contributor>
+         <dc:title>Durch Gemeinschaftserziehung zu individueller Entfaltung. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Ilse Loesch nimmt anhand des Titels, der ein Programm des Kinderbewegungschores Laban aus Halle im Sommer 1930 im Opernhaus Bayreuth überschrieb, Bezug auf die richtungsweisende tanzpädagogische Arbeit von Jenny Gertz.</dc:description>
+         <dcterms:created rdf:resource="1979-02-01T00:00:00Z_1979-02-28T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/55, Blatt 55</bf:shelfMark>
+         <dcterms:extent>6 Bl. (6 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503571">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503571"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503571"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503571">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503590">
+         <dc:identifier>DE-611-HS-3503590</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Titel: Dein Kind im Gotteskleid. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Bibliographische Angaben und Notizen zu dem Titel: Fr. Brecher: Dein Kind im Gotteskleid: ein Brevier f. Eltern u. Erzieher. Mit einem Geleitwort von Rudolf von Laban. Leipzig: Ebbecke, 1928.</dc:description>
+         <dcterms:created rdf:resource="1979-02-01T00:00:00Z_1979-02-28T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/56, Blatt 56</bf:shelfMark>
+         <dcterms:extent>2 Bl. (3 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503590">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503590"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503590"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503590">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503594">
+         <dc:identifier>DE-611-HS-3503594</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Tanz und Kind. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Kopie / Reproduktion des Aufsatzes von Jenny Gertz: Tanz und Kind. In: Die Schönheit, 22. Jg. (1926), H. 2 (5. Rhythmusheft / Rudolf von Laban II), S. 49-61. Dabei auch die Titelseite der Zeitschrift.</dc:description>
+         <dcterms:created rdf:resource="1926-01-01T00:00:00Z_1926-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/57, Blatt 57</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503594">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503594"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503594"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503594">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503599">
+         <dc:identifier>DE-611-HS-3503599</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Der erste Bewegungschor an einer höheren Schule Berlins. (Incipit der Unterlage)</dc:title>
+         <dc:description>Ausschnitt aus Singchor und Tanz, 49. Jg. (1932), S.8.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/58, Blatt 58</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503599">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503599"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503599"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503599">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503614">
+         <dc:identifier>DE-611-HS-3503614</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434>Lücke, Florentin</rdau:P60434>
+         <dc:title>Kindertanz als Erlebnis in der Pädagogik. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Kopie des Artikels von Dr. Florentin Lücke: Kindertanz als Erlebnis in der Pädagogik. In: Der Tanz, 4. Jg. (1931), H. 9, S. 2.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/59, Blatt 59</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503614">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503614"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503614"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503614">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503616">
+         <dc:identifier>DE-611-HS-3503616</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_117172189"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Tanz in Dresden. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Abschrift von Auszügen des Artikels von Elli Müller-Rau: Tanz in Dresden. In: Der Tanz, 3. Jg. (1930), H. 2, S. 19.</dc:description>
+         <dcterms:created rdf:resource="1930-02-01T00:00:00Z_1930-02-28T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/60, Blatt 60</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503616">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503616"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503616"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503616">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503623">
+         <dc:identifier>DE-611-HS-3503623</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118568434"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Der moderne Ausdruckstanz, S. 23-24. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Abschrift eines Auszugs aus: Rudolf von Laban: Der moderne Ausdruckstanz. Wilhelmshaven; Locarno; Amsterdam: Heinrichshofen, 1981, S. 23-24. Bei Loesch wird der Titel fälschlich als "Der moderne Tanz" angegeben.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/61, Blatt 61</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503623">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503623"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503623"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503623">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503657">
+         <dc:identifier>DE-611-HS-3503657</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:contributor>Schule Hellerau (Laxenburg)</dc:contributor>
+         <dc:title>Sommerkurse Hellerau-Laxenburg. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Abschrift eines Artikels, der im Nachlass Lieschke (Tanzarchiv Leipzig) lag: [Anonym:] Sommerkurse Hellerau-Laxenburg. In: TEKA Tanz Körperkultur Korrespondenz für Bühnentanz, Laientanz und Gymnastik. April 1930, H. 29/30, Bl. 2.</dc:description>
+         <dcterms:created rdf:resource="1930-04-01T00:00:00Z_1930-04-30T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/62, Blatt 62</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503657">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503657"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503657"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503657">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503674">
+         <dc:identifier>DE-611-HS-3503674</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118568434"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Des Kindes Gymnastik und Tanz, S. 116-117. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Abschrift eines Auszugs aus: Rudolf von Laban: Des Kindes Gymnastik und Tanz. [o.O., o.J.], S. 115-116.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/63, Blatt 63</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503674">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503674"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503674"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503674">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503683">
+         <dc:identifier>DE-611-HS-3503683</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_116885602"/>
+         <dc:title>und genau, verstehen diese Elemente aber nicht zu füllen. (Incipit der Unterlage)</dc:title>
+         <dc:description>Abschrift eines Auszugs aus einem nicht genannten Werk, S. 53f. Thematisiert werden tanzpädagogische Fragen, wobei sich immer wieder aus Mensendieck berufen wird.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/64, Blatt 64</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503683">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503683"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503683"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503683">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503739">
+         <dc:identifier>DE-611-HS-3503739</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118568434"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Des Kindes Gymnastik und Tanz, S. 50-51. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Abschrift eines Auszugs aus Rudolf von Laban: Des Kindes Gymnastik und Tanz. Oldenburg i. O.: Stalling, 1926, S. 50f. Dabei nicht benanntes Manuskript von Loesch und ein Auszug aus Rudolf von Laban: Gymnastik und Tanz. [o.O., o.J.]</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/65, Blatt 65</bf:shelfMark>
+         <dcterms:extent>4 Bl. (4 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503739">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503739"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503739"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503739">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503744">
+         <dc:identifier>DE-611-HS-3503744</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Kinderbewegungschor (1927-)</dc:contributor>
+         <dc:title>Kinder im neuen Geist. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Bericht über ein Ferienlager im Thüringischen Tautenburg von Kindern und Jugendlichen des Kinderbewegungschors Laban aus Halle.</dc:description>
+         <dcterms:created rdf:resource="1932-01-01T00:00:00Z_1932-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/66, Blatt 66</bf:shelfMark>
+         <dcterms:extent>4 Bl. (4 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503744">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503744"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503744"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503744">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503761">
+         <dc:identifier>DE-611-HS-3503761</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Kinderbewegungschor (1927-)</dc:contributor>
+         <dc:title>Beispiel einer Anfängerstunde mit Kindern im Vorschulalter. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Bericht über eine Anfängergruppe von 12 bis 15 Kindern zwischen 3 und 5 Jahren.</dc:description>
+         <dcterms:created rdf:resource="1979-01-01T00:00:00Z_1979-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/67, Blatt 67</bf:shelfMark>
+         <dcterms:extent>2 Bl. (3 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503761">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503761"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503761"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503761">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503768">
+         <dc:identifier>DE-611-HS-3503768</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434>Lamousé, Ilse</rdau:P60434>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Auszug aus einem Vortrag der Leiterin. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Bericht über die Gymnastik, die von einer Lehrerin praktiziert wird, die nach der Bewegungslehre Laban arbeitet (offenbar handelt es sich um Jenny Gertz).</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/68, Blatt 68</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503768">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503768"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503768"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503768">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503784">
+         <dc:identifier>DE-611-HS-3503784</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>[...] Bühne des Opernhauses Bayreuth zu tanzen. (Incipit der Unterlage)</dc:title>
+         <dc:description>Auszug / Fragment eines Manuskripts, in dem der Programmzettel eines Auftritts des Kinderbewegungschors Laban Halle am 3. August 1930 im Opernhaus Bayreuth zitiert wird. Vgl. NL 397/4/5/3/48.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/69, Blatt 69</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503784">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503784"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503784"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503784">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503789">
+         <dc:identifier>DE-611-HS-3503789</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Gruppenspiel. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto Gruppenspiel: Kindergruppe geleitet von Jenny Gertz (Halle) 1947 oder 1948 in Ahlbeck. Zu sehen sind Kinder am Strand.</dc:description>
+         <dcterms:created rdf:resource="1947-01-01T00:00:00Z_1947-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/70, Blatt 70</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503789">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503789"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503789"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503789">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503919">
+         <dc:identifier>DE-611-HS-3503919</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>für sweets. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto "für sweets": Kindergruppe geleitet von Jenny Gertz (Halle) 1947 oder 1948 in Ahlbeck. Strandszene: Im Mittelpunkt steht ein Mädchen, das sich tänzerisch bewegt, weitere Kinder und eine Erwachsene sitzen im Sand und schauen zu.</dc:description>
+         <dcterms:created rdf:resource="1947-01-01T00:00:00Z_1947-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/71, Blatt 71</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503919">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503919"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503919"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503919">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503929">
+         <dc:identifier>DE-611-HS-3503929</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Tanz mit Boot. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto "Tanz mit Boot: Kindergruppe geleitet von Jenny Gertz (Halle) nach 1947 in Ahlbeck. Zu sehen sind Kinder die in und an einem Fischerboot am Strand tanzen.</dc:description>
+         <dcterms:created rdf:resource="1947-01-01T00:00:00Z_1947-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/72, Blatt 72</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503929">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503929"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503929"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503929">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503932">
+         <dc:identifier>DE-611-HS-3503932</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Gruppenspiel. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto "Tanz mit Boot: Kindergruppe geleitet von Jenny Gertz (Halle) nach 1947 in Ahlbeck. Zu sehen sind Kinder bei einem Gruppentanz am Strand.</dc:description>
+         <dcterms:created rdf:resource="1947-01-01T00:00:00Z_1947-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/73, Blatt 73</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503932">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503932"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503932"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503932">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503938">
+         <dc:identifier>DE-611-HS-3503938</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>St. Gallen 1928. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto mit der Angabe "St. Gallen 1928": Kindergruppe tanzt auf einer sommerlichen Wiese.</dc:description>
+         <dcterms:created rdf:resource="1928-01-01T00:00:00Z_1928-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/74, Blatt 74</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503938">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503938"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503938"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503938">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503940">
+         <dc:identifier>DE-611-HS-3503940</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>St. Gallen 1928. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto mit der Angabe "St. Gallen 1928": Kinder tanzen auf einer sommerlichen Wiese, eine Gruppe in stehender gestreckter Haltung, eine Gruppe kniet.</dc:description>
+         <dcterms:created rdf:resource="1928-01-01T00:00:00Z_1928-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/75, Blatt 75</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503940">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503940"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503940"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503940">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503943">
+         <dc:identifier>DE-611-HS-3503943</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Bewegungschöre Laban Halle (1927-1933)</dc:contributor>
+         <dc:title>Paul und Edith. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Drei Fotos. Zu sehen sind Paartanzszenen (Paul Geiling und Edith Mansfeld).</dc:description>
+         <dcterms:created rdf:resource="1930-01-01T00:00:00Z_1930-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/77, Blatt 77</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503943">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503943"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503943"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503943">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503956">
+         <dc:identifier>DE-611-HS-3503956</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Bewegungschöre Laban Halle (1927-1933)</dc:contributor>
+         <dc:title>Paul und Edith. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Zwei Fotos: ein Solotanz eines Mädchens und ein Paartanz.</dc:description>
+         <dcterms:created rdf:resource="1930-01-01T00:00:00Z_1930-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/78, Blatt 78</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503956">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503956"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503956"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503956">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503968">
+         <dc:identifier>DE-611-HS-3503968</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Kindergruppe; Kari. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Zwei Fotos: Jenny Gertz mit Kindern in einer Turnhalle um 1928. Jennys Nichte Kari / Karin Frisch.</dc:description>
+         <dcterms:created rdf:resource="1928-01-01T00:00:00Z_1928-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/79, Blatt 79</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503968">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503968"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503968"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503968">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503977">
+         <dc:identifier>DE-611-HS-3503977</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Bewegungschöre Laban Halle (1927-1933)</dc:contributor>
+         <dc:title>Kinder beim Improvisieren. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Drei Fotos zeigen Kinder beim Improvisieren (Soli), ein Mädchen heißt mutm. Lieselotte Kalisch.</dc:description>
+         <dcterms:created rdf:resource="1928-01-01T00:00:00Z_1928-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/80, Blatt 80</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503977">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503977"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503977"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503977">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503978">
+         <dc:identifier>DE-611-HS-3503978</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Bewegungschöre Laban Halle (1927-1933)</dc:contributor>
+         <dc:title>2 Mädchen beim Improvisieren. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Das Foto zeigt zwei Mädchen beim gemeinsamen Improvisieren (Lieselotte Kalisch und Trudchen).</dc:description>
+         <dcterms:created rdf:resource="1928-01-01T00:00:00Z_1928-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/81, Blatt 81</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503978">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503978"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503978"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503978">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3503979">
+         <dc:identifier>DE-611-HS-3503979</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/3: Bewegungschor mit Kindern</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:contributor>Bewegungschöre Laban Halle (1927-1933)</dc:contributor>
+         <dc:title>Kinder beim Improvisieren. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Drei Fotos zeigen Kinder beim Improvisieren (Soli).</dc:description>
+         <dcterms:created rdf:resource="1930-01-01T00:00:00Z_1930-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/3/82, Blatt 82</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3503979">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3503979"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3503979"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3503979">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-74417">
+         <dc:identifier>DE-611-BF-74417</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>4/5/4: Bewegungschor mit Erwachsenen (Titel)</dc:title>
+         <bf:shelfMark>4</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-74417">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-74417"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-74417"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-74417">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484177">
+         <dc:identifier>DE-611-HS-3484177</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Ein erfolgreicher Werbeabend der IAH. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Abschrift / Auszug: [Anonym:] Ein erfolgreicher Werbeabend der IAH. In: Klassenkampf: Kommunistisches Organ für den Bezirk Halle-Merseburg mit der Illustrierten Arbeiter Zeitung "Der Rote Stern", Halle 18.02.1928. Darin wird eine Aufführung im großen Saal des "Volkspark" beschrieben, bei der u.a. ein Kinderbewegungschor und ein Erwachsenenbewegungchor unter der Leitung Jenny Gertz auftraten. Auch Rudolf von Laban war anwesend.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/1, Blatt 1</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484177">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484177"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484177"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484177">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484181">
+         <dc:identifier>DE-611-HS-3484181</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Die Laientänzer und Bewegungschöre. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Abschrift / Auszug Die Laientänzer und Bewegungschöre / Deutsche Tanzfestspiele 1935. In: Der Tanz, 8. Jg.(1935), Dez.-H., S. 8. Thematisiert wird Lotte Wernickes und ihr Berliner Bewegungschor "Geburt der Arbeit" und die Aufführun "Die Amazonen" der Hamburger Bewegungschöre unter Lola Rogge.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/2, Blatt 2</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484181">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484181"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484181"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484181">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484187">
+         <dc:identifier>DE-611-HS-3484187</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Deutsche Tanzfestspiele 1935. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Abschrift / Auszug Deutsche Tanzfestspiele 1935. [In: Der Tanz, 8. Jg. (1935), H. 12, S. 8.] Thematisiert wird Lotte Wernickes und ihr Berliner Bewegungschor "Geburt der Arbeit" und die Aufführung "Die Amazonen" der Hamburger Bewegungschöre unter Lola Rogge.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/3, Blatt 3</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484187">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484187"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484187"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484187">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484188">
+         <dc:identifier>DE-611-HS-3484188</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Laientanz in der Laban-Schule. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto von Robertson (Berlin) mit der Bildunterschrift "Laientanz in der Laban-Schule". In: Der Tanz, 2. Jg.(1929), H.14, S. 5f.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/4, Blatt 4</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484188">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484188"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484188"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484188">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484189">
+         <dc:identifier>DE-611-HS-3484189</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Aus der Arbeit eines Bewegungschores. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Erfahrungsbericht über die Arbeit eines Bewegungschors. Keine weiteren Angaben zur Erscheinung.</dc:description>
+         <dcterms:created rdf:resource="1930-01-01T00:00:00Z_1930-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/5, Blatt 5</bf:shelfMark>
+         <dcterms:extent>3 Bl. (6 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484189">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484189"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484189"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484189">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484190">
+         <dc:identifier>DE-611-HS-3484190</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Bewegungschor und Proletariat. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Artikel von Jenny Gertz: Bewegungschor und Proletariat. In: Am Wege: Nachrichtenblatt des Gaues Thüringen im Touristenverein "Die Naturfreunde", 11. Jg. (1930), H. 3, S. 43-44.</dc:description>
+         <dcterms:created rdf:resource="1930-03-01T00:00:00Z_1930-03-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/6, Blatt 6</bf:shelfMark>
+         <dcterms:extent>3 Bl. (3 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484190">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484190"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484190"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484190">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484191">
+         <dc:identifier>DE-611-HS-3484191</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_116658444"/>
+         <dc:title>Der Bewegungschor. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Artikel von Martin Gleisner: Bewegungschor. In: Kulturwille: Monatsblätter für Kultur der Arbeiterschaft. 7. Jg.(1930), H. 1.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/7, Blatt 7</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484191">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484191"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484191"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484191">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484309">
+         <dc:identifier>DE-611-HS-3484309</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Bewegungschor. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto mit rückseitiger Bezeichnung: "Hamburg Bewegungschor 1931". Aus dem Nachlass Azra v. Laban. Dabei: hs. Bemerkungen. Zu sehen ist eine Gruppe junger Männer und Frauen, die auf einer sommerlichen Wiese tanzen.</dc:description>
+         <dcterms:created rdf:resource="1931-01-01T00:00:00Z_1931-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/8, Blatt 8</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484309">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484309"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484309"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484309">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484310">
+         <dc:identifier>DE-611-HS-3484310</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Unvollendete, 1. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto mit rückseitiger Bezeichnung: ""Unvollendete" Juli 31 von u. mit A. Knust". Aus dem Nachlass Azra v. Laban. Dabei: hs. Bemerkungen. Zu sehen ist eine Gruppe junger Männer und Frauen, die auf einer sommerlichen Wiese tanzen.</dc:description>
+         <dcterms:created rdf:resource="1931-07-01T00:00:00Z_1931-07-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/9, Blatt 9</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484310">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484310"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484310"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484310">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484311">
+         <dc:identifier>DE-611-HS-3484311</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Hamburg. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto mit rückseitiger Bezeichnung: "Hamburg 31". Aus dem Nachlass Azra v. Laban. Dabei: hs. Bemerkungen. Zu sehen ist eine Gruppe junger Männer und Frauen, die auf einer sommerlichen Wiese tanzen.</dc:description>
+         <dcterms:created rdf:resource="1931-01-01T00:00:00Z_1931-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/10, Blatt 10</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484311">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484311"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484311"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484311">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484314">
+         <dc:identifier>DE-611-HS-3484314</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Unvollendete, 2. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Foto mit rückseitiger Bezeichnung: "Die "Unvollendete" Schubert von u. mit A. Knust 1931". Aus dem Nachlass Azra v. Laban. Dabei: hs. Bemerkungen. Zu sehen ist eine Gruppe junger Männer und Frauen, die auf einer sommerlichen Wiese tanzen.</dc:description>
+         <dcterms:created rdf:resource="1931-01-01T00:00:00Z_1931-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/11, Blatt 11</bf:shelfMark>
+         <dcterms:extent>1 Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484314">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484314"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484314"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484314">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484322">
+         <dc:identifier>DE-611-HS-3484322</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_116658444"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>[ohne Titel]. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Zitat / Ausschnitt aus einem Text von M. Gleisner aus: Die Tat, 1926 [keine weiteren Angaben].</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/12, Blatt 12</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484322">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484322"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484322"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484322">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484329">
+         <dc:identifier>DE-611-HS-3484329</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_129899755"/>
+         <dc:title>Sprechbewegungschor. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Artikel von Otto Zimmermann: Sprechbewegungschor. In: Kulturwille: Monatsblätter für Kultur der Arbeiterschaft. 7. Jg.(1930), H. 1.</dc:description>
+         <dcterms:created rdf:resource="1930-01-01T00:00:00Z_1930-01-31T23:59:59Z"/>
+         <rdau:P60163>Leipzig</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/13, Blatt 13</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484329">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484329"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484329"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484329">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484338">
+         <dc:identifier>DE-611-HS-3484338</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Die Entwicklung der chorischen Idee in Hamburg. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Vortragsmanuskript mit dem Titel: Die Entwicklung der chorische Idee in Hamburg. Vortrag von Albrecht Knust gehalten am 3. Maerz 1934 im Kampfbund für Deutsche Kultur Hamburg, Fachgruppe: Koerperkultur und beim Abschiedsabend am 24. März 1934.</dc:description>
+         <dcterms:created rdf:resource="1934-03-03T00:00:00Z_1934-03-24T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/14, Blatt 14</bf:shelfMark>
+         <dcterms:extent>6 Bl. (6 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484338">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484338"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484338"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484338">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484353">
+         <dc:identifier>DE-611-HS-3484353</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434>Koch, Hermann</rdau:P60434>
+         <dc:title>Unsere Lebensgestaltung und Laban. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Artikel aus einer nicht genannten Quelle von: Hermann Koch: Unsere Lebensgestaltung und Laban. In: [ohne Quellenangabe], Januar 1930, S. 7-9.</dc:description>
+         <dcterms:created rdf:resource="1930-01-01T00:00:00Z_1930-01-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/15, Blatt 15</bf:shelfMark>
+         <dcterms:extent>3 Bl. (3 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484353">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484353"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484353"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484353">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484362">
+         <dc:identifier>DE-611-HS-3484362</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_120481308"/>
+         <dc:title>Recreative dancing in the movement choir. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Sonderdruck von Lisa Ullmann: Recreative dancing in the movement choir. In: Physical education, 8. Jg (1956), Januar-Heft.</dc:description>
+         <dcterms:created rdf:resource="1956-01-01T00:00:00Z_1956-01-31T23:59:59Z"/>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/16, Blatt 16</bf:shelfMark>
+         <dcterms:extent>4 Bl. (7 gedr. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484362">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484362"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484362"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484362">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484369">
+         <dc:identifier>DE-611-HS-3484369</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Martin Gleisner über seine Arbeit als Bewegungschorleiter. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Ausschnitt aus einem nicht genannten Manuskript: "Martin Gleisner über seine Arbeit als Bewegungschorleiter". Es geht u.a. um die Unterschiede zwischen der Arbeit Gleisners und der von Jenny Gertz.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/17, Blatt 17</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484369">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484369"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484369"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484369">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484378">
+         <dc:identifier>DE-611-HS-3484378</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>Die Sächsischen Bewegungschöre Witow. (Incipit der Unterlage)</dc:title>
+         <dc:description>Aufgeklebter Zeitschriftenausschnitt: Anonym: "Die Sächsischen Bewegungschöre Witow...". In: Der Tanz, 3. Jg.(1930), H. 1, S. 14. Es handelt sich bei der Notiz um eine Ankündigung einer Tanzfeier anlässlich des 50. Geburtstags von Rudolf von Laban.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/18, Blatt 18</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484378">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484378"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484378"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484378">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484383">
+         <dc:identifier>DE-611-HS-3484383</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Fotosammlung. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Fotoserie (12 Bilder) zeigt eine Vierergruppe tanzender Männer.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/19, Blatt 19</bf:shelfMark>
+         <dcterms:extent>1 Bl., 12 aufgeklebte Fotos.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484383">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484383"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484383"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484383">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484388">
+         <dc:identifier>DE-611-HS-3484388</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_116658444"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Der Bewegungschor. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Unter der Überschrift "Fortsetzung Zitate zu den einzelnen Punkten" findet sich ein Auszug aus dem Aufsatz von Martin Gleisner: Der Bewegungschor. In: Kulturwille. 7. Jg. (1930), H. 1.</dc:description>
+         <dcterms:created rdf:resource="1985-10-15T00:00:00Z_1985-10-15T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/20, Blatt 20</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484388">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484388"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484388"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484388">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484391">
+         <dc:identifier>DE-611-HS-3484391</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Gesprächsnotiz Martin Gleisner. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Notizen nach der ersten Begegnung mit Martin Gleisner am 29.V.78. Stichworte zum Thema Bewegungschor.</dc:description>
+         <dcterms:created rdf:resource="1978-05-20T00:00:00Z_1978-05-20T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/21, Blatt 21</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484391">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484391"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484391"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484391">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484482">
+         <dc:identifier>DE-611-HS-3484482</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/4: Bewegungschor mit Erwachsenen</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>The Laban Art of Movement Guild. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Rohübersetzung eines Auszug aus: The Laban Art of Movement Guild, 13. Jg. (1954), Sondernummer (Dezember).</dc:description>
+         <dcterms:created rdf:resource="1954-12-01T00:00:00Z_1954-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/4/22, Blatt 22</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484482">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484482"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484482"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484482">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-74437">
+         <dc:identifier>DE-611-BF-74437</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>4/5/5: Laientanz in der politischen Arbeit (Titel)</dc:title>
+         <bf:shelfMark>5</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-74437">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-74437"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-74437"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-74437">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484497">
+         <dc:identifier>DE-611-HS-3484497</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/5: Laientanz in der politischen Arbeit</dcterms:isPartOf>
+         <rdau:P60434>Jacobsohn, Hans</rdau:P60434>
+         <dc:title>"Fest der Arbeit" in Frankfurt am Main. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Artikel von Hans Jacobsohn: "Fest der Arbeit" in Frankfurt am Main. In: Kulturwille: Monatsblätter für Kultur der Arbeiterschaft. 7. Jg. (1930), H. 10, S. 194. Dabei auch der Artikel von Otto Zimmermann: Tanz, Kirche und Proletariat. In: Ebd., S. 194-195.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/5/1, Blatt 1</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484497">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484497"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484497"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484497">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484503">
+         <dc:identifier>DE-611-HS-3484503</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/5: Laientanz in der politischen Arbeit</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Titelblatt Kulturwille. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Titelblatt der Zeitschrift Kulturwille: Monatsblätter für Kultur der Arbeiterschaft. 7. Jg. (1930), H. 10.</dc:description>
+         <dcterms:created rdf:resource="1930-10-01T00:00:00Z_1930-10-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/5/2, Blatt 2</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484503">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484503"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484503"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484503">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484508">
+         <dc:identifier>DE-611-HS-3484508</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/5: Laientanz in der politischen Arbeit</dcterms:isPartOf>
+         <rdau:P60434>Raeppel, Karl-Heinz</rdau:P60434>
+         <dc:title>Die Spur der Taten und der Träume. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Zeitschriftenartikel von Karl-Heinz Räppel: Die Spur der Taten und der Träume. In: Pl / Dokumentation, 1984, H. 3. (Beilage zu: Der Pionierleiter, 35. Jg. (1984)), S. 6-8. Dabei findet sich auch das Titelblatt der Zeitschrift und der Verweis auf Werner Köhler, der auf den Artikel hingewiesen hat.</dc:description>
+         <dcterms:created rdf:resource="1984-01-01T00:00:00Z_1984-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/5/3, Blatt 3</bf:shelfMark>
+         <dcterms:extent>4 Bl. (5 gedr. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484508">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484508"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484508"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484508">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484530">
+         <dc:identifier>DE-611-HS-3484530</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/5: Laientanz in der politischen Arbeit</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Tanz als politische Waffe. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Typoskript mit hs. Randbemerkungen, die teilweise schwer leserlich sind. Es finden sich dabei Notizzettel mit Transkriptionen dieser Stellen durch Werner Köhler, weiterhin die Notiz von Ilse Loesch vom 6./7.12.1987, dass sie in einem Brief Werner Köhler um die Entzifferung der schwierigen Stellen gebeten hat.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/5/4, Blatt 4</bf:shelfMark>
+         <dcterms:extent>18 Bl. (18 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484530">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484530"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484530"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484530">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484597">
+         <dc:identifier>DE-611-HS-3484597</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/5: Laientanz in der politischen Arbeit</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1150979550"/>
+         <dc:title>Tanz als politische Waffe. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Typoskript mit hs. Notizen: u.a. "von Lisa Ullmann erhalten Mai '78". Hs. Ergänzung von Jenny Gertz mit Unterschrift.</dc:description>
+         <dcterms:created rdf:resource="1965-12-01T00:00:00Z_1965-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/5/5, Blatt 5</bf:shelfMark>
+         <dcterms:extent>10 Bl. (10 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484597">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484597"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484597"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484597">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484601">
+         <dc:identifier>DE-611-HS-3484601</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/5: Laientanz in der politischen Arbeit</dcterms:isPartOf>
+         <rdau:P60434>Köhler, Werner (-1992)</rdau:P60434>
+         <dc:title>Bemerkungen zu Tanz als politische Waffe. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Bemerkungen zu beiden Fassungen des Artikels von Jenny Gertz: Tanz als politische Waffe. Diese Bemerkungen liegen ihrerseits auch in zwei Fassungen vor.</dc:description>
+         <dcterms:created rdf:resource="1979-01-01T00:00:00Z_1979-12-31T23:59:59Z"/>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/5/6, Blatt 6</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. / hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484601">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484601"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484601"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484601">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3484610">
+         <dc:identifier>DE-611-HS-3484610</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ilse Loesch - Nachlass Ilse Loesch 4: Sammlungen - 4/5: Ilse Loesch: Laientanz - 4/5/5: Laientanz in der politischen Arbeit</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_116567635"/>
+         <dc:title>Emigranten. (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Kopierte Seiten aus der Buchausgabe von Fritz Erpenbeck: Emigranten. Berlin; Weimar: Aufbau[, o.J.]. Unterstrichen sind Zeilen, in denen die Situation der "Genossen in Prag" thematisiert werden, die ein Tanzstück einstudieren. Dabei liegt ein Brief von unbekannter Hand mutm. an Ilse Loesch, Halle, 15.01.1977. Die schreibende Person thematisiert zunächst Liesels Gesundheitszustand und die Folgen für Arbeitszeit und Familienleben. Dann geht sie auf den Roman von Erpenbeck ein mit der Frage, woher dieser die Kenntnisse von den darin geschilderten Details hat.</dc:description>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 397/4/5/5/7, Blatt 7</bf:shelfMark>
+         <dcterms:extent>6 Bl. (6 gedr. S.) / Beilage: Brief 1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3484610">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3484610"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3484610"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3484610">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+</rdf:Bag>

@@ -1,0 +1,1265 @@
+<collection xmlns:srw="http://www.loc.gov/zing/srw/"
+            xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54367</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-54367</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151113</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20190208</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:typeOfResource collection="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Nachlass Gertrud Meyer (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">überwiegend Manuskripte, Notzien, Noten</mods:abstract>
+      <mods:location>
+         <mods:shelfLocator>NL 364</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-54374</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151113</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151113</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54367</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54367</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 364/1: Nachlass Gertrud Meyer, Werke (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>1</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936319</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936319</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Volkstänze (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">handschriftliches Manuskript mit Beschreibungen zu Volkstänzen und teilw. Noten; mit Korrekturen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>70 Bl. (70 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936338</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936338</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Notzibuch (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Notizen zu Volkstänzen uä. (Texte, Tanzbeschreibungen, Noten)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1906/1907</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Berlin</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Band (ungez. Bl.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936347</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936347</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Träskodansen (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Schwädische Tanzbeschreibung; mit handschriftlichen Korrekturen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+         <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>4 Bl. (4 masch. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936427</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936427</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Volkstänze Texte und Noten (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Texte und Noten zu Volksliedern</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/4</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (12 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936438</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936438</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Das Abendlied (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Notenblatt mit Melodiestimme und unterlegtem Text</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/5</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936442</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936442</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Sven vom Rosenhof (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Altes schwedisches Tanzlied. Noten für Gesang und Klavier</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/6</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936447</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936447</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Schottish (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Notenblatt für Klavier; mit handschriftlichen Randnotizen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/7</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936450</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936450</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Greifswahler Kegel (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Notenblatt mit Bezifferung</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/8</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936452</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936452</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Highland Schottisch (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Notenblatt mit Melodiestimme</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/9</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936464</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936464</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Noten zu Volkstänzen (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Sammlung zahlreicher Noten zu Volkstänzen, zusammengetragen, abgeschrieben von Gertrud Meyer</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/10</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>29 Bl. (44 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936475</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936475</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>7 Volkstänze (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">7 Volkstänze (Noten &amp; Texte)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/11</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft (9 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936489</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936489</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Gestern abend sah ich dich unter einer Linde (Incipit der Unterlage)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">5 Texte zu Volksliedern / Volkstänzen (ohne Titel)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/12</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>3 Bl. (5 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936501</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936501</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Sammlung Texte und Noten zu Volkstänzen (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Sammlung von Noten und Texten zu Volkstänzen, Singspielen uä.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+         <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/13</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>9 Bl. (5 masch. S./9 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936510</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936510</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54374</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54374</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/1: Nachlass Gertrud Meyer, Werke</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Arbeitslisten (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">3 Arbeitslisten zu den Ausgaben "Tanzspiele + Singtänze, 11. Aufl.",
+"Volkstänze, 3. Aufl." und "Singspiele, Volkstänze, 5 Aufl."</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/1/14</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (3 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54375</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-54375</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151113</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151113</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54367</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54367</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 364/2: Nachlass Gertrud Meyer, Korrespondenz (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>2</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936282</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936282</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54375</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54375</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/2: Nachlass Gertrud Meyer, Korrespondenz</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078904758">
+         <mods:namePart>Meyer, Justus (1913-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/109052404">
+         <mods:namePart>Klotzsche, Volker (1941-2016) [vermutlich]</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/119191253">
+         <mods:namePart>Garborg, Hulda (1862-1935) [vermutlich]</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Justus Meyer an Volker Klotzsche</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Justus Meyer übersendet Herrn Klotzsche eine Kopie eines Briefes von Hulda Garborg an Gertrud Meyer von 1908.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1994-08-06</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Bielefeld</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/2/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 masch./hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936531</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936531</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54375</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54375</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/2: Nachlass Gertrud Meyer, Korrespondenz</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">rcp</mods:roleTerm>
+            <mods:roleTerm>addressee</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brief von Unbekannt an Gertrud Meyer</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Kopie von Brief an Gertrud Meyer mit beigelegten Noten zum "Walz-Quadrille" mit Tanzbeschreibung</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1908-07-04</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Goishorn</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/2/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 masch./hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54376</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-54376</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151113</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151113</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54367</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54367</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource>text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>NL 364/3: Nachlass Gertrud Meyer, Sammlung (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:location>
+         <mods:shelfLocator>3</mods:shelfLocator>
+      </mods:location>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2935858</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2935858</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151113</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151113</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54376</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54376</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/3: Nachlass Gertrud Meyer, Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078853118">
+         <mods:namePart>Laas, Marianne (1900-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Volkstänzerinnen im Freien (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Aufnahmen mit 4 Frauen, tanzend im Freien; mit Erläuterungstext zu Marianne Laas auf Rückseite</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1920</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Mark Brandenburg</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/3/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 schwarz-weiß Fotos</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936258</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936258</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54376</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54376</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/3: Nachlass Gertrud Meyer, Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/5116018-3">
+         <mods:namePart>B. G. Teubner (Leipzig)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Korrigier-Schema (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Korrigierschema des der B. G. Teubner Buchdruckerei und Informationen zur richtigen Vorgehensweise zum Korrigieren</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/3/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>2 Bl. (2 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-2936294</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-2936294</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20151116</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20151116</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">swe</mods:languageTerm>
+            <mods:languageTerm type="text">Schwedisch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-54376</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-54376</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Nachlass Gertrud Meyer - NL 364/3: Nachlass Gertrud Meyer, Sammlung</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1078904758">
+         <mods:namePart>Meyer, Justus (1913-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2069940-2">
+         <mods:namePart>Deutscher Bundesverband Tanz</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">aut</mods:roleTerm>
+            <mods:roleTerm>author</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/124863566">
+         <mods:namePart>Meyer, Gertrud (1877-1966)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>In memoriam Gertrud Meyer; In: Tanzen (2/1992, Jg. 10) (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Ausgabe der Zeitschrift "Tanzen" (2/1992, Jg. 10) mit Artikel von Justus Meyer: In memoriam Gertrud Meyer. Eine Betrachtung zu den Anfängen der Deutschen Jugendbewegung (S. 8/9)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1992</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Remscheid</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 364/3/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Heft (30 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+</collection>

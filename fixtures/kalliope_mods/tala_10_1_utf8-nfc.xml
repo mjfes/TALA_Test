@@ -1,0 +1,3541 @@
+<collection xmlns:srw="http://www.loc.gov/zing/srw/"
+            xmlns:mods="http://www.loc.gov/mods/v3">
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-BF-57907</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20160928</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20190208</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:typeOfResource collection="yes">text</mods:typeOfResource>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">org</mods:roleTerm>
+            <mods:roleTerm>originator</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig (Titel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Handschriftliche Abschriften von Noten zu Volkstänzen überwiegend für Blasorchester</mods:abstract>
+      <mods:location>
+         <mods:shelfLocator>NL 375</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>4 Kisten</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3051366</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3051366</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20160930</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Schüddel de Büx (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester von Otto Wagner:
+10 Stimmen (Klarinette in Es, Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 4</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3051389</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3051389</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20160930</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/134774922">
+         <mods:namePart>Helms, Anna (1877-1963) [ermittelt]</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Helgoländer Söbensprung (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 9 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba);
+Niederdeutscher Volkstanz;
+Brautwerbetanz aufgezeichnet von Anna Helms-Blasche</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 8</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3052539</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3052539</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161006</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tampet (um 1820 in Deutschland) (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Bearbeitung für Blasorchester von Willi Bauer:
+1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Posaune, Tuba, Schlagzeug);
+- ein Kontratanz in Kolonnen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 10</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (11 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3052573</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3052573</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161006</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Klemm, Ehrhard</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Knappentanz (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung von Willi Bauer für kleines Blasorchester, nach einer Bearbeitung von Ehrhard Klemm:
+1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Posaune, Tuba, Schlagzeug)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 11</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>24 Bl. (24 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3052575</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3052575</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161006</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Der Schustertanz (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester von Willi Bauer:
+1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Posaune, Tuba, Schlagzeug)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 14</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>44 Bl. (44 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3052578</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3052578</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161006</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/117356611">
+         <mods:namePart>Wunsch, Hermann (1884-1954)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Hopskontra (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester von Willi Bauer, nach einer Klavierbearbeitung von Professor Hermann Wunsch:
+1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Posaune, Tuba, Schlagzeug)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 15</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (11 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3052596</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3052596</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161006</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Schwälmer (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Bariton, Posaune, 1. Tuba, 2. Tuba, Schlagzeug)
+- Hessischer Volkstanz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 17</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (11 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3053689</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3053689</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161011</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1045658677">
+         <mods:namePart>Giebel, Dolf</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/134394593">
+         <mods:namePart>Habicht, Günter (1916-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Dölziger Mühle (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester, umseitig auch für kleine Besetzung:
+1 Partitur, 28 Stimmen (1. Klarinette in B, 2. Klarinette in B, 3. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 3. Trompete in B,1. Posaune, 2. Posaune, 3. Posaune, 1. Tenorhorn in B, 2. Tenorhorn in B, 3. Tenorhorn in B1. Horn in Es, 2. Horn in Es, 3. Horn in Es, Bariton, 1. Tuba, 2. Tuba, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Flöte, 2. Flöte, Oboe, Es-Klarinette, Fagott, Schlagwerk, Pauken);
+- Jugendtanz, entstanden 1925/25 im Märkischen Volkstanzkreis Berlin
+- Tanzform von Erich Janietz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 19</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>30 Bl. (37 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3053718</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3053718</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161011</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Bulba (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Posaune, Posaune, Tuba, Schlagzeug)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 20</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (11 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3053782</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3053782</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161011</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/134394593">
+         <mods:namePart>Habicht, Günter (1916-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Stopp-Galopp (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester, umseitig auch für kleine Besetzung:
+1 Partitur, 28 Stimmen (1. Flöte, 2. Flöte, Oboe, Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 3. Klarinette in B, Fagott, 1. Horn in Es, 2. Horn in Es. 3. Horn in Es, 1. Trompete in B, 2. Trompete in B, 3. Trompete in B, 1. Posaune, 2. Posaune, 3. Posaune, Pauken u. Triangel, Schlagwerk, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Tenorhorn in B, 2. Tenorhorn in B, 3. Tenorhorn in B, Bariton, 1. Tuba, 2. Tuba);
+- Melodie aus Mecklenburg, Tanzform von Anna Helms
+- Paartanz, Polkatanz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 22</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>29 Bl. (35 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3053809</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3053809</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161011</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Katzberger (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+9 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Bariton, Posaune, 1. Tuba, 2. Tuba)
+Zwiefacher, vermutlich aus dem bayerischen Raum</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 24</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>9 Bl. (9 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3053887</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3053887</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161011</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/132877082">
+         <mods:namePart>Stolte, Siegfried (1925-1991)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Der Rudolstädter (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+18 Stimmen (Flöte, Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 3. Klarinette in B, 1. Trompete in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Tenorhorn in B, 2. Tenorhorn in B, 1. Horn in F, 2. Horn in F, Bariton, Posaune, 1./2. Tuba, Schlagwerk)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 28</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>18 Bl. (18 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3058642</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3058642</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161021</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/134429079">
+         <mods:namePart>Kluge, Karl (1889-1960)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Volkstänze aus dem Vogtland und dem südöstlichen Teil Thüringens (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Enthalten sind: Aufmarsch; Dorfwalzer I, Dorfwalzer II, Dreischritt, Stampfer, Oberländer Reigentanz, Volldreher, Halbdreher, Trio, Auskehrer, Masurisch, Hopser, Galopp;
+Noten; Bearbeitung für Blasorchester:
+1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn, Posaune, Tuba, Schlagzeug)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 29</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>69 Bl. (69 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3058658</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3058658</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161021</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Thüringer Schleifer und Müllchestanz (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn, Posaune, Tuba, Schlagzeug)
+- bilden gemeinsam mit "Rühler Springer" die "Thüringer Tanzsuite"</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 30/1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (12 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3058668</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3058668</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161021</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/134751086">
+         <mods:namePart>Pydde, Alfred</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Bückeburger Konter (Wicken und Schoppele) (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester von Willi Bauer, nach einer Bearbeitung von Alfred Pydde:
+1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn, Posaune, Tuba, Schlagzeug)
+- Kontertanz aus Bückeburg, Niedersachsen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 30/2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (12 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3058687</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3058687</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161021</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Giebel, Adolf</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Aufzug (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn, Posaune, Tuba, Schlagzeug)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 30/3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (12 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3058697</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3058697</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161021</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/126661057">
+         <mods:namePart>Horenburg, Hermann</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Lustiger vor dem Tisch (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester von Willi Bauer, nach Satz von Hermann Horenburg:
+1 Partitur, 10 Stimmen (1. Klarinette in B, 2. Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn, Posaune, Tuba, Schlagzeug)
+- Volkstanz, Weiterentwicklung</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 30/4</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (12 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3058714</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3058714</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161021</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Putzke, Willy (1893-1960)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Kastilliano (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 36</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3058717</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3058717</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161021</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Benneckensteiner-Tempo (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)
+- Kontertanz in Kolonnen, aus dem Harz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 37</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3058718</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3058718</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161021</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Putzke, Willy (1893-1960)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Pookendanz (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)
+- Fischerlied geschrieben von Hans Bindernagel (vorliegende Notenausgabe ohne Text)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1956</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 38</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3058720</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3058720</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161021</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Dunkelschatten (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)
+- Quadrille in Reihen aus Mecklenburg</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 39</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3065841</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3065841</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>2. Tempete (Tampeh) [Stolberger Tampet] (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 42</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3065854</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3065854</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Schwanebecker Schäferreigen (Magdeburger) [Schwanebecker Tampet] (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 43</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3065869</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3065869</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/135177421">
+         <mods:namePart>Dittrich, Fred (1911-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2027065-3">
+         <mods:namePart>Zentralhaus für Volkskunst</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Wohlder Markttanz (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 23 Stimmen (1. Flöte, 2. Flöte, Oboe, Es-Klarinette,1. Klarinette in B, 2. Klarinette in B, Fagott, 1. Flügelhorn, 2. Flügelhorn, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, 3. Horn in Es, 1. Tenorhorn, 2. Tenorhorn, Bariton, 1. Posaune, 2. Posaune, 3. Posaune, 1. Tuba, 2. Tuba, Schlagwerk)
+- umseitig auf 1. Tenorhorn-Stimme: Siebenschritt-Rheinländer, Berolina
+- Tanz aus der Südheide, auch Wohlderer Markttanz und Föftehalfturiger mit'n Schott'schen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 44</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>27 Bl. (32 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3065883</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3065883</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/103882375">
+         <mods:namePart>Dieckelmann, Heinrich (1898-1985)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/134394593">
+         <mods:namePart>Habicht, Günter (1916-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Krüz-König (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 28 Stimmen (1. Flöte, 2. Flöte, Oboe, Es-Klarinette, 1. Klarinette in B, 2. Klarinette in B, 3. Klarinette in B, Fagott, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Trompete in B, 2. Trompete in B, 3. Trompete in B, 1. Horn in Es, 2. Horn in Es, 3. Horn in Es, 1. Tenorhorn in B, 2. Tenorhorn in B, 3. Tenorhorn in B, Bariton, 1. Posaune, 2. Posaune, 3. Posaune, 1. Tuba, 2. Tuba, Pauken, Schlagwerk)
+- Kontertanz in Kolonnen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 45</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>30 Bl. (32 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3065888</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3065888</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Harnacks (Kontra Sayra) (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 46</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3065901</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3065901</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Swjatok w Drjobinje (Sorben) (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 47</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>20 Bl. (20 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3065903</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3065903</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Stup dale (Sorben) (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 48</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3065904</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3065904</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Delna serbska Frejta (Sorben) (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 49</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3065905</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3065905</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/13454921X">
+         <mods:namePart>Wagner, Otto (1924-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Viertouriger (Mecklenburg) (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+10 Stimmen (Klarinette in Es, 1. Klarinette in B, 2. Klarinette in B, 1. Flügelhorn in B, 2. Flügelhorn in B, 1. Horn in Es, 2. Horn in Es, Tenorhorn in B, Tuba, Schlagwerk)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 52</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3065908</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3065908</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161109</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Sauerländer Quadrille Nr. 5 (Manuskripttitel)</mods:title>
+         <mods:subTitle>Konvolut: Katzberger (Zwiefach)</mods:subTitle>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 9 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2 Tuba)
+- Volkstanz traditionell aus Neheim-Hüsten/Westfahlen; Quadrille im Kreuz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 53</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (11 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3066291</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3066291</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161110</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Vollmann, Chr. F.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Klavierschule von 1805 (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">34 Stücke für Klavier
+(Seite 3, Seite 29 fehlen)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 57</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>38 Bl. (38 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3066310</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3066310</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161110</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Westgöta (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester von Willi Bauer:
+1 Partitur
+- schwedischer Volkstanz, Kontratanz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 62</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3066314</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3066314</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161110</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/137919573">
+         <mods:namePart>Bauer, Willi</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Allemande (Fischertanz) (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester von Willi Bauer:
+1 Partitur
+- Dreiertanz aus Ostpreußen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 63</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>1 Bl. (1 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3066320</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3066320</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161110</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128047739">
+         <mods:namePart>Greiner-Pol, Kurt (1922-1978)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/134751108">
+         <mods:namePart>Töppel, Felix (1899-1972)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Das Lied vom glücklichen, jungen Kapitän (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Stimmen für Orchester:
+4 gedruckte Stimmen (Gitarre, B-Instrument, Mandola, Bass)
+10 handschriftliche Stimmen (1. Violine, 2. Violine, Flöte, Klarinette in B, Oboe, Trompete in B, Posaune)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 64</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>12 Bl. (10 hs. S., 2 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3066326</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3066326</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161110</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1058450255">
+         <mods:namePart>Köhler, Kurt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Wir lieben das Leben! (Tanzpantomime Nr. 4) (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; 1 kleine Partitur (Klarinette in B, Trompete in B, kleine Trommel, Akkordeon, Klavier)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 65</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>6 Bl. (9 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3077140</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3077140</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161216</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/1079722203">
+         <mods:namePart>Wagner, Kurt (1911-1979)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Weller, Hermann</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Schwäbische Tanzfolge (Manuskripttitel)</mods:title>
+         <mods:subTitle>Schwäbische Tanz-Suite</mods:subTitle>
+      </mods:titleInfo>
+      <mods:abstract type="content">Tanzbeschreibung zur Schwäbischen Tanzfolge
+mit Noten: Schwäbische Tanz-Suite : eingerichtet für ein Melodieinstrument mit Bezifferung für Handharmonika / Hermann Weller, 1954</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1957</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Stuttgart</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 66</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>4 Bl. (gedr.; masch.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3077153</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3077153</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161216</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Ritter, R.</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Kämling, Carl</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Fantasie über lang lang ist's her für Clarinetto (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Stimmen zu Fantasie über lang lang ist's her: Klarinette in B, 1. Violine, 2. Violine, Viola, Bass</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1891</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Zierzow</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 67</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>6 Bl. (6 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3077688</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3077688</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161219</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Scharschmidt, Werner</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/189424338">
+         <mods:namePart>Franke, Margarete</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Uhlemann, Dietmar</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Die Schiffszieher (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">1 Partitur (4-stimmig) und ausführliche Tanzbeschreibung
+Choreographie von Margarete Franke und Dietmar Uhlemann</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Dresden [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 68</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>18 Bl. (18 gedr. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3077735</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3077735</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161219</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/116551038">
+         <mods:namePart>Rinkens, Wilhelm (1879-1933)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tänze der Wünschensuhler Tanzgruppe (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten, Stimmen für Blasorchester (Klarinette in B, Klarinette in Es, 1. Tenorhorn in B, 2. Tenorhorn in B, Posaune, Althorn in Es, Piston in B, Tuba in B, Tuba in C, Trompete in B)
+Zusammenstellung: Bauernmarsch, Der Hüpfer, Der Schleifer, Der Springer</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Wünschensuhl [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 69</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>47 Bl. (92 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3079608</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3079608</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161223</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal">
+         <mods:namePart>Tränkner, Herbert</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="personal">
+         <mods:namePart>Fricke, Walter</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Maismusketiere (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">1 Partitur
+Bearbeitung für Sinfonieorchester von Walter Fricke, VEB-Entwicklungsbau Prina</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Pirna</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 40</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>16 Bl. (31 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3051349</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3051349</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20160930</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170202</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Sommermichl (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, 1. Tuba, 2. Tuba, Bariton, Posaune, Schlagzeug)
+- Zwiefacher aus der Holledau und dem Bayrischen Wald, Bayern</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 3</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3051374</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3051374</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20160930</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Brautwalzer (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitungen für Blasorchester:
+1 Direktion, 8 Stimmen (Klarinette in B, 1. u. 2. Tuba, 2. Horn in Es, 1. Trompete in B, 2. Trompete in B, Bariton, Posaune, Schlagzeug)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 5</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>9 Bl. (9 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3051378</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3051378</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20160930</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Der Wischtanz (Manuskripttitel)</mods:title>
+         <mods:subTitle>Konvolut: Berolina</mods:subTitle>
+         <mods:subTitle>Konvolut: Helgoländer Söbensprung</mods:subTitle>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 9 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba);
+Holzknechttanz aus Steiermark; Geschicklichkeitstanz; Burschentanz
+(Im Konvolut ebenfalls enthalten: Berolina (NL 375/N 27) und Helogländer Söbensprung (NL 375/N 8)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 6</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>20 Bl. (40 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3051384</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3051384</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20160930</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Figaro (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 9 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Schlagzeug);
+Niederdeutscher Volkstanz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 7</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (11 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3050683</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3050683</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20160928</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170202</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Tanz ock mit der Muhme (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, 1. Tuba, 2. Tuba, Bariton, Posaune, Schlagzeug)
+Volkstanz aus Oberschlesien</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">o.O.</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 1</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>12 Bl. (12 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3050694</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3050694</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20160928</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170202</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Durchmarsch (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, 1. Tuba, 2. Tuba, Bariton, Posaune, Schlagzeug)
+- Triotanz, Trio-Mischform
+- Volkstanz aus dem Odergebirge</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 2</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>12 Bl. (12 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3052513</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3052513</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161006</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Der Purzelbaumtanz (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 11 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Schlagzeug)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 9</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>12 Bl. (12 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3052593</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3052593</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161006</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Sünnros (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Bariton, Posaune, 1. Tuba, 2. Tuba, Schlagzeug);
+- Tanz aus Vierlande bei Hamburg</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 16</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>12 Bl. (12 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3053655</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3053655</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161011</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Zinkaborbala (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Schlagzeug);
+- Volkstanz, Paartanz aus Schlesien
+- auch bekannt unter: Zinkarbobala</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 18</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (11 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3053737</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3053737</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161011</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Saulocker (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitungen für Blasorchester:
+10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Posaune, Bariton, 1. Tuba, 2. Tuba, Schlagzeug);
+- Zwiefacher aus Niederbayern und der Oberpfalz</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 21</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>10 Bl. (10 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3053798</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3053798</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161011</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161222</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Erntetänze: Sicheltanz, Dreschflegeltanz (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitungen für Blasorchester:
+10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Posaune, Bariton, 1. Tuba, 2. Tuba, Schlagzeug)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 23</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>23 Bl. (23 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3053846</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3053846</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161011</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Rühler Springer (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Schlagzeug);
+- Polkatanz aus Ruhla, Thürnigen</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 26</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>12 Bl. (12 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3053856</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3053856</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161011</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Berolina (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 9 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Posaune)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 27</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>20 Bl. (20 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3066263</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3066263</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161110</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Noten für 15 Musikstücke (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten, Melodiestimme mit teilweise unterlegtem Text
+Enthalten sind:
+- Schenkt mer noch ...
+- Bayrisch Bier
+- Mein Vater hats gesogt...
+- Hamburg ist ein...
+- Der Jud
+- Der Kroat
+- Die Schwiegermamma
+- Alle Möpse bellen
+- Die Franzosen
+- Galopp
+- Rheinländer
+- Schottisch
+- Walzer
+- Galopp (1881)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 55</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>18 Bl. (18 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3066278</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3066278</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161110</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Noten für 14 Musikstücke (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten, Melodiestimme mit teilweise unterlegtem Text
+Enthalten sind:
+- Galopp (3x)
+- Jägers-Lust Walzer
+- Mazurka
+- Schottisch (3x)
+- Hans, bleib da
+- Walzer (3x)
+- Und es kann ja nicht immer ...
+- Alter Mari-Walzer</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 56</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>19 Bl. (19 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3066296</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3066296</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161110</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Noten für 17 Musikstücke (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten, Melodiestimme mit teilweise unterlegtem Text
+Enthalten sind:
+- Galopp
+- Wenn mei Vater...
+- Schottisch
+- Walzer (2x)
+- Rheinländer (2x)
+- Galopp v. Luther
+- Louisen-Walzer v. Luther
+- Polka (2x)
+- Mädle wasch dich. Rheinländer
+- Male Walzer
+- Es ritten drei Reiter. Walzer
+- Du bist verwünscht, mein Kind
+- Schottisch</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 59</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>22 Bl. (22 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3066300</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3066300</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161110</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Noten für 16 Musikstücke (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten, Melodiestimme mit teilweise unterlegtem Text
+Enthalten sind u.a.:
+- Galopp in Es
+- Wiedersehn Polka
+- Sturm Galopp
+- Walzer
+- Schottisch</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig [vermutlich]</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 60</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>23 Bl. (23 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3066305</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3066305</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161110</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20170127</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:name type="corporate"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/2161280-8">
+         <mods:namePart>Tanzarchiv Leipzig (1993-)</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Noten für 19 Musikstücke (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten, Melodiestimme mit Bezifferung
+Enthalten sind u.a.:
+- Marsch
+- Walzer
+- Rheinländer
+- Schottisch
+- Polka Mazurka
+- Galopp
+- Und die Grösch
+- Dreher</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 61</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>20 Bl. (20 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3058700</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3058700</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161021</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>14 Tänze für Volksmusikorchester (Einheitstitel von Bearbeiter/in)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Enthalten sind: 1. Aufzug, 2. Deutsche Tänze, 3. Bauern-Marsch aus "Der Freischütz", 4. Walzer aus Freischütz,; 5. Brautwalzer, 6. Schornsteinfeger, 7. Varsovienne, 8. Rosenpolka, 9. Vexierwalzer, 10. Rheinländerkutsche, 11. Jägermarsch, 13. Siebebschritt-Rheinländer, 14. Berolina-Straßentanz
+Noten; Bearbeitung für Volksmusikorchester:
+9 Stimmen (Violine 1-3, Klarinette in B, Akkordeon 1-2, Trompete, Gitarre, Schlagwerk)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated encoding="w3cdtf">1955</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Leipzig</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 31</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>77 Bl. (77 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3058706</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3058706</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161021</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Steiregger (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Schlagzeug)
+- Überliefert durch Elvira Pitzker aus Neudorf bei Haslach im Mühlviertel, Oberösterreich.
+- Aufgezeichnet durch Anni Stöger, Wien.</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 32</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (11 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+   <mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xsi:schemaLocation="http://www.loc.gov/mods/v3 https://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+      <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-HS-3058710</mods:identifier>
+      <mods:recordInfo>
+         <mods:recordIdentifier source="DE-611">DE-611-HS-3058710</mods:recordIdentifier>
+         <mods:recordCreationDate encoding="marc">20161021</mods:recordCreationDate>
+         <mods:recordChangeDate encoding="iso8601">20161223</mods:recordChangeDate>
+         <mods:recordContentSource authority="marcorg">Universitätsbibliothek Leipzig</mods:recordContentSource>
+         <mods:languageOfCataloging>
+            <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+            <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+         </mods:languageOfCataloging>
+      </mods:recordInfo>
+      <mods:relatedItem>
+         <mods:identifier type="localparentid">DE-611-BF-57907</mods:identifier>
+         <mods:identifier type="uri">http://kalliope-verbund.info/DE-611-BF-57907</mods:identifier>
+         <mods:titleInfo>
+            <mods:title>Sammlung Volkstanznoten des Tanzarchivs Leipzig</mods:title>
+         </mods:titleInfo>
+      </mods:relatedItem>
+      <mods:typeOfResource manuscript="yes">text</mods:typeOfResource>
+      <mods:name type="personal"
+                 authority="GND"
+                 valueURI="http://d-nb.info/gnd/128972920">
+         <mods:namePart>Unbekannt</mods:namePart>
+         <mods:role>
+            <mods:roleTerm type="code" authority="marcrelator">oth</mods:roleTerm>
+            <mods:roleTerm>other</mods:roleTerm>
+         </mods:role>
+      </mods:name>
+      <mods:titleInfo>
+         <mods:title>Wendelsteiner (Manuskripttitel)</mods:title>
+      </mods:titleInfo>
+      <mods:abstract type="content">Noten; Bearbeitung für Blasorchester:
+1 Partitur, 10 Stimmen (Klarinette in B, 1. Trompete in B, 2. Trompete in B, Posaune, 1. Horn in Es, 2. Horn in Es, Bariton, 1. Tuba, 2. Tuba, Schlagzeug)</mods:abstract>
+      <mods:originInfo>
+         <mods:dateCreated>o.D.</mods:dateCreated>
+         <mods:place>
+            <mods:placeTerm type="text">Ohne Ort</mods:placeTerm>
+         </mods:place>
+      </mods:originInfo>
+      <mods:language>
+         <mods:languageTerm authority="iso639-2b">ger</mods:languageTerm>
+         <mods:languageTerm type="text">Deutsch</mods:languageTerm>
+      </mods:language>
+      <mods:location>
+         <mods:shelfLocator>NL 375/N 33</mods:shelfLocator>
+      </mods:location>
+      <mods:physicalDescription>
+         <mods:extent>11 Bl. (11 hs. S.)</mods:extent>
+      </mods:physicalDescription>
+   </mods:mods>
+</collection>

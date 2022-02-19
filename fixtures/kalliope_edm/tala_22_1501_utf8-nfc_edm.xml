@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:Bag xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:edm="http://www.europeana.eu/schemas/edm/"
+         xmlns:ore="http://www.openarchives.org/ore/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:bibo="http://purl.org/ontology/bibo/"
+         xmlns:bf="http://id.loc.gov/ontologies/bibframe/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdau="http://rdaregistry.info/Elements/u/"
+         xmlns:eclap="http://www.eclap.eu/schema/eclap/">
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3603901">
+         <dc:identifier>DE-611-HS-3603901</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <dc:title>Brief von Herbert Burchard an Hedo Holland</dc:title>
+         <dc:description>Zum Beitrag Anna Helms. Bemängelt fehlende Daten, noch nicht abgelaufene Urheberrechte. Frage nach Manuskriptquelle.</dc:description>
+         <dcterms:created rdf:resource="1994-05-20T00:00:00Z_1994-05-20T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/10</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3603901">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3603901"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3603901"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3603901">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3603913">
+         <dc:identifier>DE-611-HS-3603913</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_109052404"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:title>Brief von Volker Klotzsche an Herbert Burchard</dc:title>
+         <dc:description>Grüße vom Bundesvolkstanztreffen in Kiel. Mitunterzeichner: Helga Preuß, Anni Herrmann, Wolfgang Warbinek, Gerhard Palmer.</dc:description>
+         <dcterms:created rdf:resource="1992-01-01T00:00:00Z_1992-12-31T23:59:59Z"/>
+         <rdau:P60163>Kiel</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/11</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3603913">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3603913"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3603913"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3603913">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3603975">
+         <dc:identifier>DE-611-HS-3603975</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_109052404"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:title>Brief von Volker Klotzsche an Herbert Burchard</dc:title>
+         <dc:description>Interesse für die "Neuen Gesellschaftstänze" und Programme der Veranstaltungen von 1933 bis 1944. 90. Geburtstag von Janietz. Erwähnt die DGV, Helga Preuß.</dc:description>
+         <dcterms:created rdf:resource="1993-05-14T00:00:00Z_1993-05-14T23:59:59Z"/>
+         <rdau:P60163>Hannover</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/12</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.), Umschlag, Beilage</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3603975">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3603975"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3603975"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3603975">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3603988">
+         <dc:identifier>DE-611-HS-3603988</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_109052404"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_115146645X"/>
+         <dc:title>Brief von Volker Klotzsche an Herbert Burchard</dc:title>
+         <dc:description>Kündigt Kopien an. Texte von Frau Preuß. Schwer verständliche Rechtslage. Erwähnt seine Zeittafel.</dc:description>
+         <dcterms:created rdf:resource="1993-05-02T00:00:00Z_1993-05-02T23:59:59Z"/>
+         <rdau:P60163>Hannover [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/13</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3603988">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3603988"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3603988"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3603988">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3603990">
+         <dc:identifier>DE-611-HS-3603990</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_109052404"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:title>Brief von Volker Klotzsche an Herbert Burchard</dc:title>
+         <dc:description>Kurznachricht, Umzug.</dc:description>
+         <dcterms:created rdf:resource="1993-06-30T00:00:00Z_1993-06-30T23:59:59Z"/>
+         <rdau:P60163>Hannover</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/14</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3603990">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3603990"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3603990"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3603990">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604017">
+         <dc:identifier>DE-611-HS-3604017</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:title>Brief von Hedo Holland an Herbert Burchard</dc:title>
+         <dc:description>Überlesene Artikel. Schickt nächstes Heft der Zeitschrift "FM". Fragt Mitarbeiterschaft an. Erwähnt Arthur Nowy.</dc:description>
+         <dcterms:created rdf:resource="1994-02-15T00:00:00Z_1994-02-15T23:59:59Z"/>
+         <rdau:P60163>Hamburg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/15</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604017">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604017"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604017"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604017">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604024">
+         <dc:identifier>DE-611-HS-3604024</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1158827709"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:title>Brief von Hedo Holland an Herbert Burchard</dc:title>
+         <dc:description>Abgelaufenes Geschenk-Abo für Christa Schneider. Persönliches.</dc:description>
+         <dcterms:created rdf:resource="1997-10-15T00:00:00Z_1997-10-15T23:59:59Z"/>
+         <rdau:P60163>Lüttenmark</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/16</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604024">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604024"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604024"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604024">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604107">
+         <dc:identifier>DE-611-HS-3604107</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_109052404"/>
+         <dc:title>Zeittafel DVT-Geschichte (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Erwähnt Korrespondenz und Aufstellung für/mit Klotzsche; Notizen aus Heckeshorn; DVT-Entwicklung, Titelvorschlag: Beitrag zur Geschichte der Deutschen Volkstanzbewegung 1900 bis 1990.</dc:description>
+         <dcterms:created rdf:resource="1993-05-01T00:00:00Z_1993-05-31T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/17</bf:shelfMark>
+         <dcterms:extent>1 Mappe</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604107">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604107"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604107"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604107">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604123">
+         <dc:identifier>DE-611-HS-3604123</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2082917-6"/>
+         <dc:contributor>Mahnke, Heiko</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_2082917-6"/>
+         <dc:title>13. Bundes-Volkstanz-Treffen 1992 in Kiel (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dcterms:created rdf:resource="1992-07-23T00:00:00Z_1992-07-26T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <rdau:P60163>Kiel</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/18</bf:shelfMark>
+         <dcterms:extent>1 Mappe</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604123">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604123"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604123"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604123">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604136">
+         <dc:identifier>DE-611-HS-3604136</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1029781-9"/>
+         <dc:title>Brief von Herbert Burchard an Heinrichshofen's Verlag (Wilhelmshaven)</dc:title>
+         <dc:description>Literaturbestellung.</dc:description>
+         <dcterms:created rdf:resource="1993-02-21T00:00:00Z_1993-02-21T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/19</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604136">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604136"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604136"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604136">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604140">
+         <dc:identifier>DE-611-HS-3604140</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1029781-9"/>
+         <dc:title>Brief von Herbert Burchard an Heinrichshofen's Verlag (Wilhelmshaven)</dc:title>
+         <dc:description>Literaturbestellung, Nachfrage zur Rechnung.</dc:description>
+         <dcterms:created rdf:resource="1993-01-22T00:00:00Z_1993-01-22T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/20</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604140">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604140"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604140"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604140">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604145">
+         <dc:identifier>DE-611-HS-3604145</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1029781-9"/>
+         <dc:title>Brief von Herbert Burchard an Heinrichshofen's Verlag (Wilhelmshaven)</dc:title>
+         <dc:description>Literaturbestellung Bröscky, Rücksendung der erhaltenen Exemplare mit Begründung. Bemängelt unzureichende Urhebervermerke u.a. Fragen zur Titeländerung.</dc:description>
+         <dcterms:created rdf:resource="1993-03-01T00:00:00Z_1993-03-01T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/21</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604145">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604145"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604145"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604145">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604251">
+         <dc:identifier>DE-611-HS-3604251</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1029781-9"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:title>Brief von Heinrichshofen's Verlag (Wilhelmshaven) an Herbert Burchard</dc:title>
+         <dc:description>Betrifft Literaturbestellung Bröscky.</dc:description>
+         <dcterms:created rdf:resource="1993-01-19T00:00:00Z_1993-01-19T23:59:59Z"/>
+         <rdau:P60163>Wilhelmshaven</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/22</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604251">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604251"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604251"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604251">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604302">
+         <dc:identifier>DE-611-HS-3604302</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1029781-9"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:title>Brief von Heinrichshofen's Verlag (Wilhelmshaven) an Herbert Burchard</dc:title>
+         <dc:description>Betrifft Literaturbestellung Bröscky.</dc:description>
+         <dcterms:created rdf:resource="1993-01-28T00:00:00Z_1993-01-28T23:59:59Z"/>
+         <rdau:P60163>Wilhelmshaven</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/23</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S), Beilage, Umschlag</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604302">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604302"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604302"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604302">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604307">
+         <dc:identifier>DE-611-HS-3604307</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1029781-9"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:title>Brief von Heinrichshofen's Verlag (Wilhelmshaven) an Herbert Burchard</dc:title>
+         <dc:description>Betrifft Literaturbestellung Bröscky.</dc:description>
+         <dcterms:created rdf:resource="1993-02-24T00:00:00Z_1993-02-24T23:59:59Z"/>
+         <rdau:P60163>Wilhelmshaven</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/24</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604307">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604307"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604307"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604307">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604311">
+         <dc:identifier>DE-611-HS-3604311</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1141269775"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1029781-9"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:title>Brief von Viktor Kreiner von Heinrichshofen's Verlag (Wilhelmshaven) an Herbert Burchard</dc:title>
+         <dc:description>Dank für Schreiben. Betrifft Literaturbestellung Bröscky. Fehlerhafte bibliographische Angaben im Tanzarchiv Leipzig vermutet.</dc:description>
+         <dcterms:created rdf:resource="1993-03-12T00:00:00Z_1993-03-12T23:59:59Z"/>
+         <rdau:P60163>Wilhelmshaven</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/25</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604311">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604311"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604311"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604311">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604359">
+         <dc:identifier>DE-611-HS-3604359</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1173433392"/>
+         <rdau:P60434>Arbeitsgemeinschaft für Volks- und Jugendtanz. Tagung</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:title>2. Arbeitstagung für Volks- und Jugendtanz (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Zur Systematik der Berliner Tanzarbeit. 2. Arbeitstagung für Volks- und Jugendtanz, durchgeführt von der Arbeitsgemeinschaft für Volks- und Jugendtanz.</dc:description>
+         <dcterms:created rdf:resource="1960-01-16T00:00:00Z_1960-01-17T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/26</bf:shelfMark>
+         <dcterms:extent>1 Mappe</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604359">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604359"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604359"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604359">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604464">
+         <dc:identifier>DE-611-HS-3604464</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1045762741"/>
+         <dc:title>Drei Tanzwelt-Bilder: ein echter Brief zur Diskussion gestellt (Incipit der Unterlage)</dc:title>
+         <dc:description>Einverständnis mit dem Klaviersatz der "Dessauer Masurka". Kurze Abhandlung zu: Brauchtum, Gut und Wissen von Volksgruppen; Umbruchtanz; Führende Volkstanzschulen u.a.</dc:description>
+         <dcterms:created rdf:resource="1992-02-02T00:00:00Z_1992-03-24T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/27</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604464">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604464"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604464"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604464">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604516">
+         <dc:identifier>DE-611-HS-3604516</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_115146645X"/>
+         <dc:title>Antwort zu Artikel in "Volkstanz" (Incipit der Unterlage)</dc:title>
+         <dc:description>Antwort zu Artikel in "Volkstanz" 1993, Heft 2, S. 46-47. Betrifft Autorenrechte, Lizenzen, Nachdrucke. Führt Beispiele an, erwähnt Herbert Oetke, Anna Helms u.a.</dc:description>
+         <dcterms:created rdf:resource="1993-05-14T00:00:00Z_1993-05-14T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/28</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604516">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604516"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604516"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604516">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604631">
+         <dc:identifier>DE-611-HS-3604631</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1212867424"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1190649438"/>
+         <dc:title>Brief von Herbert Burchard an Irmgard Lemm</dc:title>
+         <dc:description>Über Tanzen und Tänze von Bröscky, Unterlagen, Programme, Noten, Veröffentlichungen. Erwähnt den "Beschwingten Kreis", Seniorentanzkreis der Empfängerin. Zusammengestellte Übersichtstafel.</dc:description>
+         <dcterms:created rdf:resource="1993-02-28T00:00:00Z_1993-02-28T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/29</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 masch. S.), Beilagen</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604631">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604631"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604631"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604631">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604662">
+         <dc:identifier>DE-611-HS-3604662</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1212867424"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1190649438"/>
+         <dc:title>Brief von Irmgard Lemm an Herbert Burchard</dc:title>
+         <dc:description>Über Tanzen und Tänze von Bröscky, Unterlagen, Erinnerungen von Lemm. Erwähnt den "Beschwingten Kreis", Seniorentanzkreis der Empfängerin.</dc:description>
+         <dcterms:created rdf:resource="1993-03-04T00:00:00Z_1993-03-05T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/30</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 masch. S.), Beilage</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604662">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604662"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604662"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604662">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3604726">
+         <dc:identifier>DE-611-HS-3604726</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1190649438"/>
+         <dc:title>Tanzhefte Walter Bröscky (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Übersicht über Tänze von Bröscky.</dc:description>
+         <dcterms:created rdf:resource="1993-04-04T00:00:00Z_1993-04-05T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/31</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3604726">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3604726"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3604726"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3604726">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3605044">
+         <dc:identifier>DE-611-HS-3605044</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1190649438"/>
+         <dc:title>Tanzhefte Walter Bröscky, Das Brandenburger Tor (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Übersicht über Tänze von Bröscky, Inhalt.</dc:description>
+         <dcterms:created rdf:resource="1992-11-01T00:00:00Z_1992-11-04T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/32</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3605044">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3605044"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3605044"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3605044">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3605050">
+         <dc:identifier>DE-611-HS-3605050</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1190649438"/>
+         <dc:title>Die Berliner Tanzgemeinschaft (Incipit der Unterlage)</dc:title>
+         <dc:description>Literaturübersicht, Tanzleiter. Tänze von Bröscky, Inhalt. Richtungsweiser der Berliner Tanzgemeinschaft.</dc:description>
+         <dcterms:created rdf:resource="1992-11-24T00:00:00Z_1992-11-24T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/33</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 hs. S.), Beilage</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3605050">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3605050"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3605050"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3605050">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3605059">
+         <dc:identifier>DE-611-HS-3605059</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1173433392"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1190649438"/>
+         <dc:title>Brief von Herbert Burchard an Volkhard Jähnert</dc:title>
+         <dc:description>Dank für Material, Bröscky: Das Brandenburger Tor. Formuliert Aspekte zur Umbruchtanzzeit. Austausch von Informationen und Material.</dc:description>
+         <dcterms:created rdf:resource="1992-10-27T00:00:00Z_1992-10-27T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/34</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3605059">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3605059"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3605059"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3605059">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3605064">
+         <dc:identifier>DE-611-HS-3605064</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1173433392"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1190649438"/>
+         <dc:title>Brief von Herbert Burchard an Volkhard Jähnert</dc:title>
+         <dc:description>Dank für entliehenes Material, Bröscky: Das Brandenburger Tor; Beschwingter Kreis. Reproduktionen, Kommentare. Formuliert Volkstanzgeschichtliches, schickt Material.</dc:description>
+         <dcterms:created rdf:resource="1992-12-07T00:00:00Z_1992-12-07T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/35</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3605064">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3605064"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3605064"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3605064">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3605070">
+         <dc:identifier>DE-611-HS-3605070</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_1173433392"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1190649438"/>
+         <dc:title>Brief von Herbert Burchard an Volkhard Jähnert</dc:title>
+         <dc:description>Anliegende Aufgaben. Zusammenarbeit mit Klotzsche. Ergänzungen zum Material, schlägt Gespräch vor über Material (Bröscky: Das Brandenburger Tor).</dc:description>
+         <dcterms:created rdf:resource="1992-12-09T00:00:00Z_1992-12-09T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/36</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.), Beilage</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3605070">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3605070"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3605070"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3605070">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3605084">
+         <dc:identifier>DE-611-HS-3605084</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1190649438"/>
+         <dc:title>Material zu Walter Bröscky [Sammlung] (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Übersicht über Tänze von Bröscky. Biografisches, tradierte Tanzstile, Volkstanzgeschichtliches, Erinnerungen.</dc:description>
+         <dcterms:created rdf:resource="1993-01-12T00:00:00Z_1993-02-20T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/37</bf:shelfMark>
+         <dcterms:extent>1 Mappe</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3605084">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3605084"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3605084"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3605084">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3605173">
+         <dc:identifier>DE-611-HS-3605173</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1190649438"/>
+         <dc:title>Walter Bröscky: Das Brandenburger Tor: neue Berliner Gemeinschaftstänze [Sammlung] (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Sammlung enthält 10 Tänze mit Noten.</dc:description>
+         <dcterms:created rdf:resource="1949-01-01T00:00:00Z_1949-12-31T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/38</bf:shelfMark>
+         <dcterms:extent>1 Ringheft</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3605173">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3605173"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3605173"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3605173">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3605198">
+         <dc:identifier>DE-611-HS-3605198</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Herbert Burchard - 57-58</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1190649438"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1045762482"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1212867424"/>
+         <dc:title>Walter Bröscky: Großstadtkinder [Sammlung] (Ansetzungssachtitel von Bearbeiter/in)</dc:title>
+         <dc:description>Sammlung enthält Tanzbeschreibungen, Inhaltsverzeichnis. Hochrechnung der Spieldauer für "Großstadtkinder" von Burchard als Manuskript.</dc:description>
+         <dcterms:created rdf:resource="1950-01-01T00:00:00Z_1950-12-31T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 394/57-58/39</bf:shelfMark>
+         <dcterms:extent>1 Mappe, 2 hs. Bl.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3605198">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3605198"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3605198"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3605198">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+</rdf:Bag>

@@ -1,0 +1,1768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:Bag xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:dcterms="http://purl.org/dc/terms/"
+         xmlns:edm="http://www.europeana.eu/schemas/edm/"
+         xmlns:ore="http://www.openarchives.org/ore/terms/"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+         xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:xs="http://www.w3.org/2001/XMLSchema"
+         xmlns:bibo="http://purl.org/ontology/bibo/"
+         xmlns:bf="http://id.loc.gov/ontologies/bibframe/"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:rdau="http://rdaregistry.info/Elements/u/"
+         xmlns:eclap="http://www.eclap.eu/schema/eclap/">
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3401958">
+         <dc:identifier>DE-611-HS-3401958</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Beziehungen zur Wegrichtung (Incipit der Unterlage)</dc:title>
+         <dc:description>Beziehungen zur Wegrichtung. Relating to the direction of the path.</dc:description>
+         <dcterms:created rdf:resource="1967-05-31T00:00:00Z_1967-05-31T23:59:59Z"/>
+         <rdau:P60163>Essen-Werden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/4/21</bf:shelfMark>
+         <dcterms:extent>9 Bl. (17 masch. u. hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3401958">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3401958"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3401958"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3401958">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3401995">
+         <dc:identifier>DE-611-HS-3401995</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Kreiswege in senkrechten Ebenen (Incipit der Unterlage)</dc:title>
+         <dc:description>Kreiswege in senkrechten Ebenen (Rad- und Purzelbaumwege). Circular paths in vertical planes (cart-wheel and somersault paths).</dc:description>
+         <dcterms:created rdf:resource="1967-09-20T00:00:00Z_1967-09-20T23:59:59Z"/>
+         <rdau:P60163>Essen-Werden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/4/22</bf:shelfMark>
+         <dcterms:extent>14 Bl. (28 masch. u. hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3401995">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3401995"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3401995"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3401995">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402045">
+         <dc:identifier>DE-611-HS-3402045</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_12738779X"/>
+         <dc:title>Übersetzung des Artikels (Incipit der Unterlage)</dc:title>
+         <dc:description>Übersetzung eines Artikels aus dem Labanotator: Positionszeichen neben Richtungszeichen (Das Problem der Mittellinie).</dc:description>
+         <dcterms:created rdf:resource="1965-05-01T00:00:00Z_1965-05-01T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/4/24</bf:shelfMark>
+         <dcterms:extent>6 Bl. (11 masch. u. hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402045">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402045"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402045"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402045">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402062">
+         <dc:identifier>DE-611-HS-3402062</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Einführungskurse in die Kinetographie Laban (Incipit der Unterlage)</dc:title>
+         <dc:description>Resümee des Einführungskurses in die Kinetographie Laban am 01.Mai 1959 in Lindenfels von Dr. Felix Hoerberger-Regensburg mit Anmerkungen dazu.</dc:description>
+         <dcterms:created rdf:resource="1959-11-01T00:00:00Z_1959-11-01T23:59:59Z"/>
+         <rdau:P60163>Essen-Werden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/4/25</bf:shelfMark>
+         <dcterms:extent>29 Bl. (masch.; hs.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402062">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402062"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402062"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402062">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402073">
+         <dc:identifier>DE-611-HS-3402073</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <dc:title>Der Tanz in der Laienkunst (Incipit der Unterlage)</dc:title>
+         <dc:description>Notizen zum Laientanz.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/4/26</bf:shelfMark>
+         <dcterms:extent>8 Bl. (6 hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402073">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402073"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402073"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402073">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402138">
+         <dc:identifier>DE-611-HS-3402138</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Die Notierung von Feinheiten (Incipit der Unterlage)</dc:title>
+         <dc:description>Die Notierung von Feinheiten der Tänze verschiedener Völker.</dc:description>
+         <rdau:P60163>Essen-Werden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/4/27</bf:shelfMark>
+         <dcterms:extent>3 Bl. (3 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402138">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402138"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402138"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402138">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402139">
+         <dc:identifier>DE-611-HS-3402139</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <dc:title>Das originale Notations-System (Incipit der Unterlage)</dc:title>
+         <dc:description>Das originale Notations-System der bulgarischen Volkstänze in den Verschiedenheiten der geraden, ungeraden und gemischten Takte.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/4/28</bf:shelfMark>
+         <dcterms:extent>12 Bl. (12 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402139">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402139"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402139"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402139">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402143">
+         <dc:identifier>DE-611-HS-3402143</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Besprechung des Kinetogramms vom Lang-Englisch (Incipit der Unterlage)</dc:title>
+         <dc:description>Besprechung des Kinetogramms vom Lang-Englisch.</dc:description>
+         <dcterms:created rdf:resource="1966-03-11T00:00:00Z_1966-03-11T23:59:59Z"/>
+         <rdau:P60163>Essen-Werden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/4/29</bf:shelfMark>
+         <dcterms:extent>2 Bl. (4 masch. u. hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402143">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402143"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402143"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402143">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402149">
+         <dc:identifier>DE-611-HS-3402149</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Vergleich der Aufzeichnung (Incipit der Unterlage)</dc:title>
+         <dc:description>Vergleich der Aufzeichnung des Tampet aus Bad Berka durch I. Baier mit der Aufzeichnung des Tampet von A. Knust, vermittelt durch A. Ulrich.</dc:description>
+         <dcterms:created rdf:resource="1966-02-26T00:00:00Z_1966-02-26T23:59:59Z"/>
+         <rdau:P60163>Essen-Werden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/4/30</bf:shelfMark>
+         <dcterms:extent>3 Bl. (6 masch. u. hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402149">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402149"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402149"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402149">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402166">
+         <dc:identifier>DE-611-HS-3402166</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <dc:title>Stitching Centraal Dansberaad (Hölländische Berufsorganisation Den Haag) (Incipit der Unterlage)</dc:title>
+         <dc:description>Über Anwendungsmöglichkeiten der Kinetographie Laban - an die niederländischen Choreographen, Tanzpädagogen und Tänzer.</dc:description>
+         <dcterms:created rdf:resource="1961-01-01T00:00:00Z_1961-12-31T23:59:59Z"/>
+         <rdau:P60163>Den Haag</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/4/31</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402166">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402166"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402166"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402166">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402169">
+         <dc:identifier>DE-611-HS-3402169</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Die körperliche und räumliche Enge und Weite (Incipit der Unterlage)</dc:title>
+         <dc:description>Die körperliche und die räumliche Enge und Weite. Body narrowness and wideness and space narrowness and wideness.</dc:description>
+         <dcterms:created rdf:resource="1970-01-01T00:00:00Z_1970-01-01T23:59:59Z"/>
+         <rdau:P60163>Hamburg-Bergedorf</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/4/32</bf:shelfMark>
+         <dcterms:extent>14 Bl. (28 masch. u. hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402169">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402169"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402169"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402169">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402312">
+         <dc:identifier>DE-611-HS-3402312</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Circular Paths in Vertical Planes (Incipit der Unterlage)</dc:title>
+         <dc:description>Circular paths in vertical planes (cart-wheel and somersault paths). Kinetographische Zeichnungen.</dc:description>
+         <dcterms:created rdf:resource="1967-09-20T00:00:00Z_1967-09-20T23:59:59Z"/>
+         <rdau:P60163>Essen-Werden</rdau:P60163>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/4/33</bf:shelfMark>
+         <dcterms:extent>13 Bl. (26 masch. u. hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402312">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402312"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402312"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402312">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402316">
+         <dc:identifier>DE-611-HS-3402316</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_517044-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1156810094"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_106331271X"/>
+         <dc:title>Reply to Knust's pelvic paper (Incipit der Unterlage)</dc:title>
+         <dc:description>Summary of discussions on Knust's paper on pelvic movements.</dc:description>
+         <dcterms:created rdf:resource="1965-01-01T00:00:00Z_1965-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>eng</dc:language>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/4/34</bf:shelfMark>
+         <dcterms:extent>6 Bl. (9 masch. u. hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402316">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402316"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402316"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402316">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402323">
+         <dc:identifier>DE-611-HS-3402323</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_12738779X"/>
+         <dc:title>Táncjelírás (Incipit der Unterlage)</dc:title>
+         <dc:description>Táncjelírás. Laban - kinetografia.</dc:description>
+         <dcterms:created rdf:resource="1964-01-01T00:00:00Z_1964-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>hun</dc:language>
+         <bf:shelfMark>NL 392/4/35</bf:shelfMark>
+         <dcterms:extent>2 Hefte</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402323">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402323"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402323"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402323">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3440179">
+         <dc:identifier>DE-611-HS-3440179</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/4: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zur Kinetographie Laban</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Die Bildhaftigkeit (Incipit der Unterlage)</dc:title>
+         <dc:description>Die Bildhaftigkeit der Kinetographie Laban (Labanotation). The visuality of Kinetography Laban (Labanotation).</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/4/23</bf:shelfMark>
+         <dcterms:extent>5 Bl. (10 masch. u. hs. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3440179">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3440179"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3440179"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3440179">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-71945">
+         <dc:identifier>DE-611-BF-71945</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:title>NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen (Titel)</dc:title>
+         <bf:shelfMark>5</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-71945">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-71945"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-71945"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-71945">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402335">
+         <dc:identifier>DE-611-HS-3402335</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_16222472-2"/>
+         <dc:title>For 1975 ICKL conference</dc:title>
+         <dc:description>The direction of the progression and the direction of the path.</dc:description>
+         <dcterms:created rdf:resource="1975-01-01T00:00:00Z_1975-12-31T23:59:59Z"/>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/5/1</bf:shelfMark>
+         <dcterms:extent>24 Bl. (masch.; hs.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402335">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402335"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402335"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402335">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402499">
+         <dc:identifier>DE-611-HS-3402499</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_12738779X"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Supports on all fours</dc:title>
+         <dc:description>Two new systems of writing positions and progressions.</dc:description>
+         <dcterms:created rdf:resource="1974-01-01T00:00:00Z_1974-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/5/2</bf:shelfMark>
+         <dcterms:extent>26 Bl. (masch.; hs.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402499">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402499"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402499"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402499">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402508">
+         <dc:identifier>DE-611-HS-3402508</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen</dcterms:isPartOf>
+         <dc:title>Benesh Movement-Notation (Incipit der Unterlage)</dc:title>
+         <dc:description>Benesh Dance Notation. Part 1, Lesson 1.</dc:description>
+         <dcterms:created rdf:resource="1955-01-01T00:00:00Z_1955-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/5/3</bf:shelfMark>
+         <dcterms:extent>6 Bl. (4 masch. S.); 1 Beil.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402508">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402508"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402508"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402508">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402552">
+         <dc:identifier>DE-611-HS-3402552</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen</dcterms:isPartOf>
+         <dc:title>Institute of choreology (Incipit der Unterlage)</dc:title>
+         <dc:description>Institute of choreology - Progress report, November 1965. Zeitungsartikel: "An alphabet of movement" von Fernau Hall.</dc:description>
+         <dcterms:created rdf:resource="1965-01-01T00:00:00Z_1965-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/5/4</bf:shelfMark>
+         <dcterms:extent>3 Bl. (3 masch. S.); 1 Beil.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402552">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402552"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402552"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402552">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402575">
+         <dc:identifier>DE-611-HS-3402575</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen</dcterms:isPartOf>
+         <dc:title>Brief</dc:title>
+         <dc:description>Reaktion auf eine Anfrage. Mitsendung einer Broschüre über den Studiengang der Benesh Dance Notation.</dc:description>
+         <dcterms:created rdf:resource="1966-04-20T00:00:00Z_1966-04-20T23:59:59Z"/>
+         <rdau:P60163>London</rdau:P60163>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/5/5</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402575">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402575"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402575"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402575">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3402598">
+         <dc:identifier>DE-611-HS-3402598</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/5: Manuskripte, Vorträge, Veröffentlichungen verschiedener Autoren zu verschiedenen Themen</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_122769317"/>
+         <dc:title>For the 1975 ICKL conference (Incipit der Unterlage)</dc:title>
+         <dc:description>Shape, shape writing. Indication of a surface.</dc:description>
+         <dcterms:created rdf:resource="1974-01-01T00:00:00Z_1975-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/5/6</bf:shelfMark>
+         <dcterms:extent>12 Bl. (12 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3402598">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3402598"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3402598"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3402598">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-71946">
+         <dc:identifier>DE-611-BF-71946</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:title>NL 392/6: Andere Datenträger (Titel)</dc:title>
+         <bf:shelfMark>6</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-71946">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-71946"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-71946"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-71946">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-71947">
+         <dc:identifier>DE-611-BF-71947</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:title>NL 392/6/1: Magnettonbänder (Titel)</dc:title>
+         <bf:shelfMark>1</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-71947">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-71947"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-71947"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-71947">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3440185">
+         <dc:identifier>DE-611-HS-3440185</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/1: Magnettonbänder</dcterms:isPartOf>
+         <dc:title>Inhalt des Magnettonbandes (Incipit der Unterlage)</dc:title>
+         <dc:description>Rote Seite: 1.Schottische Tänze Grüne Seite: 1.Musik zum Gruppentanz 2.Walzer aus Les Sylphides 3.Grossrussisch 4.Schottische Tänze</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/6/1/1</bf:shelfMark>
+         <dcterms:extent>3 Bl. (2 masch. u. 1 hs. S.); 1 Beil.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3440185">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3440185"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3440185"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3440185">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3440199">
+         <dc:identifier>DE-611-HS-3440199</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/1: Magnettonbänder</dcterms:isPartOf>
+         <dc:title>Tschardas (Incipit der Unterlage)</dc:title>
+         <dc:description>Tschardas Kolo Schwanensee - 4 kleine Schwäne Männervariationen Jota Händel - Klassische Studie Laura Maris Schwanensee - 2. Frauenvariationen P. d. tr. Schwanensee - Prinzenadagio P. d. tr. Schwanensee - 1. Frauenvariation P. d. tr. Corrente Gique Sarabande Rumänische Männertänze Gaillarde Kallendara Corrente Polonaise</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/6/1/2</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 hs. S.); 1 Beil.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3440199">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3440199"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3440199"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3440199">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-71948">
+         <dc:identifier>DE-611-BF-71948</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:title>NL 392/6/2: Mikrofilme (Titel)</dc:title>
+         <bf:shelfMark>2</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-71948">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-71948"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-71948"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-71948">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3440855">
+         <dc:identifier>DE-611-HS-3440855</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/2: Mikrofilme</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1062020359"/>
+         <dc:title>PAS DE TROIS (Incipit der Unterlage)</dc:title>
+         <dc:description>Bewegungsnotation zu: Pas de trois - aus dem Ballett "Der Schwanensee".</dc:description>
+         <dcterms:created rdf:resource="1968-01-01T00:00:00Z_1968-12-31T23:59:59Z"/>
+         <rdau:P60163>Berlin</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/6/2/1</bf:shelfMark>
+         <dcterms:extent>1 Rollfilm</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3440855">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3440855"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3440855"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3440855">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3440867">
+         <dc:identifier>DE-611-HS-3440867</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/2: Mikrofilme</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_121806642"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_118596721"/>
+         <dc:title>Each character in this tale is represented by a different motive and (Incipit der Unterlage)</dc:title>
+         <dc:description>Peter and the wolf - A musical tale for children. Composition for piano solo by Th. F. Dunhill.</dc:description>
+         <dcterms:created rdf:resource="1968-01-01T00:00:00Z_1968-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/6/2/2</bf:shelfMark>
+         <dcterms:extent>1 Rollfilm</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3440867">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3440867"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3440867"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3440867">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3440914">
+         <dc:identifier>DE-611-HS-3440914</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/2: Mikrofilme</dcterms:isPartOf>
+         <dc:title>HÖLDERLIN Hälfte des Lebens (Incipit der Unterlage)</dc:title>
+         <dc:description>Rollfilm 1 Gedichte Bewegungsnotationen zu: Hölderin - Hälfte des Lebens Rilke - Wir bauen an dir; Ich lebe mein Leben Mörike - Chor jüdischer Mädchen; Er ist's Goethe - Glückliche Fahrt; Meeresstille Rollfilm 2 Bewegungsnotationen zu: [Fabritio] Caroso - Italy 1630 Bulgarischer Volkstanz</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <dc:language>bul</dc:language>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/6/2/3</bf:shelfMark>
+         <dcterms:extent>2 Rollfilme</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3440914">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3440914"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3440914"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3440914">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3440947">
+         <dc:identifier>DE-611-HS-3440947</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/2: Mikrofilme</dcterms:isPartOf>
+         <dc:title>Zeichen für Adresse (Incipit der Unterlage)</dc:title>
+         <dc:description>Rollfilm 1 Bewegungsnotationen verschiedener Systeme: Benesh Morris Arndt Zorn Babitz Loring Feuillet Eshkol Contè Jay Stepanow Nikolais Saunders Rollfilm 2 Bewegungsnotation für: Bulgarischer Volkstanz</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <dc:language>bul</dc:language>
+         <bf:shelfMark>NL 392/6/2/4</bf:shelfMark>
+         <dcterms:extent>2 Rollfilme</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3440947">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3440947"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3440947"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3440947">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-71949">
+         <dc:identifier>DE-611-BF-71949</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:title>NL 392/6/3: Fotos, Dias (Titel)</dc:title>
+         <bf:shelfMark>3</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-71949">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-71949"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-71949"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-71949">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3441904">
+         <dc:identifier>DE-611-HS-3441904</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/3: Fotos, Dias</dcterms:isPartOf>
+         <dc:title>- (Incipit der Unterlage)</dc:title>
+         <dc:description>Glasdias mit Volkstänzen, Volkstrachten, Tanzbeschreibungen, Kinetogrammen.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>bul</dc:language>
+         <bf:shelfMark>NL 392/6/3/1</bf:shelfMark>
+         <dcterms:extent>83 Dias</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3441904">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3441904"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3441904"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3441904">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3441915">
+         <dc:identifier>DE-611-HS-3441915</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/3: Fotos, Dias</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>- (Incipit der Unterlage)</dc:title>
+         <dc:description>Glasdias mit balinesischen Mudras - Gesamtansichten und Handdetails mit Kinetogrammen, Kongress Dresden 1957.</dc:description>
+         <dcterms:created rdf:resource="1957-01-01T00:00:00Z_1957-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ban</dc:language>
+         <bf:shelfMark>NL 392/6/3/2</bf:shelfMark>
+         <dcterms:extent>48 Dias</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3441915">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3441915"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3441915"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3441915">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3441918">
+         <dc:identifier>DE-611-HS-3441918</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/6: Andere Datenträger - NL 392/6/3: Fotos, Dias</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_128972920"/>
+         <dc:title>- (Incipit der Unterlage)</dc:title>
+         <dc:description>Glasdias mit balinesischen Mudras - Gesamtansichten.</dc:description>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ban</dc:language>
+         <bf:shelfMark>NL 392/6/3/3</bf:shelfMark>
+         <dcterms:extent>44 Dias</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3441918">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3441918"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3441918"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3441918">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-BF-71951">
+         <dc:identifier>DE-611-BF-71951</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger</dcterms:isPartOf>
+         <rdau:P60849 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:title>NL 392/7: Sammlung (Titel)</dc:title>
+         <bf:shelfMark>7</bf:shelfMark>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-BF-71951">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-BF-71951"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-BF-71951"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-BF-71951">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3441144">
+         <dc:identifier>DE-611-HS-3441144</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2014419-2"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_124097820"/>
+         <dc:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Institut für Volkskunstforschung (Leipzig)</dc:title>
+         <dc:description>Schreibt über ihre beider langjährigen Bekanntschaft. Ist im Besitz von Roderyk Langes "The Nature of Dance". Bittet um Meinung zu einer vom Autor angefragten Veröffentlichung des Werkes in der DDR und schildert ein dbzgl. stattgefundenes Telephongespräch mit Frau Goldschmidt. Berichtet von ihrem beruflichen Tun.</dc:description>
+         <dcterms:created rdf:resource="1975-12-18T00:00:00Z_1975-12-18T23:59:59Z"/>
+         <rdau:P60163>Babelsberg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/1</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3441144">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3441144"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3441144"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3441144">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3441355">
+         <dc:identifier>DE-611-HS-3441355</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_124097820"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Brief von Kurt Petermann an Ingeborg Baier-Fraenger</dc:title>
+         <dc:description>Antwort auf den Brief vom 18.12.1975. Fortführung der Überlegung über eine Veröffentlichungsmöglichkeit von Roderyk Langes Werk "The Nature of Dance" in deutscher Sprache. Kündigt den Aufenthalt von Albrecht Knust im März 1976 in Leipzig an. Hofft auf baldiges Wiedersehen.</dc:description>
+         <dcterms:created rdf:resource="1976-02-12T00:00:00Z_1976-02-12T23:59:59Z"/>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/2</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3441355">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3441355"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3441355"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3441355">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3441371">
+         <dc:identifier>DE-611-HS-3441371</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_124097820"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Antwort auf den Brief vom 12.02.1976. Sendet Glückwünsche zur Institutseingliederung in die Akademie der Künste. Ist erfreut über die Kontaktmöglichkeit zum Cheflektor des Henschelverlags in Bezug auf die angestrebte Veröffentlichung des Werkes "The Nature of Dance" von Roderyk Lange. Besuchsankündigung für den 23. und 24. März 1976 in Leipzig. Strebt ein Aufeinandertreffen mit Albrecht Knust an. Dazu eine Nachfrage bzgl. des dortigen Vorhandenseins ihrer kinetographischen Notierungen.</dc:description>
+         <dcterms:created rdf:resource="1976-02-14T00:00:00Z_1976-02-14T23:59:59Z"/>
+         <rdau:P60163>Babelsberg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/3</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3441371">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3441371"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3441371"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3441371">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3441436">
+         <dc:identifier>DE-611-HS-3441436</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_124097820"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Brief von Kurt Petermann an Ingeborg Baier-Fraenger</dc:title>
+         <dc:description>Antwort auf den Brief vom 14.02.1976 Berichtet über ein Gespräch mit Herrn Wandry vom Henschelverlag und der Aufgeschlossenheit der Verantwortlichen bzgl. der angestrebten Publikation von Roderyk Langes "The Nature of Dance". Erkundigt sich nach an der Kinetographie Laban interessierten Tänzern der Berliner Schule zur Planung weiterer Veranstaltungen mit Albrecht Knust. Thema des ersten Kolloquiums am 22. März: Fragen des modernen Tanzes der 20er und 30er Jahre mit Albrecht Knust als Gesprächspartner. Mitsendung einer Liste der im Tanzarchiv vorhandenen Kinetogramme.</dc:description>
+         <dcterms:created rdf:resource="1976-02-18T00:00:00Z_1976-02-18T23:59:59Z"/>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/4</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3441436">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3441436"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3441436"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3441436">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3441466">
+         <dc:identifier>DE-611-HS-3441466</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_124097820"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Antwort auf den Brief vom 18.02.1976. Gedanken zu den angefragten kinetographisch interessierten, ehemaligen Schülern.</dc:description>
+         <dcterms:created rdf:resource="1976-02-24T00:00:00Z_1976-02-24T23:59:59Z"/>
+         <rdau:P60163>Babelsberg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/5</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3441466">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3441466"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3441466"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3441466">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442118">
+         <dc:identifier>DE-611-HS-3442118</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434>Legler, Hannelore</rdau:P60434>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:title>Brief von Hannelore Legler an Ingeborg Baier-Fraenger</dc:title>
+         <dc:description>Dankt im Namen von Dr. Kurt Petermann für die Namensliste ehemaliger, kinetographisch interessierter Schüler. Übermittelt Grüße.</dc:description>
+         <dcterms:created rdf:resource="1976-02-26T00:00:00Z_1976-02-26T23:59:59Z"/>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/6</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442118">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442118"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442118"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442118">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442130">
+         <dc:identifier>DE-611-HS-3442130</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_124097820"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1172316562"/>
+         <dc:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Anschreiben zur Übersendung der erbetenen Kinetogramme. Schreibt von zuversichtlicher Haltung gegenüber einer möglichen Veröffentlichung von R. Langes "The Nature of Dance", aufgrund eines Briefes von [Horst] Wandrey.</dc:description>
+         <dcterms:created rdf:resource="1976-03-03T00:00:00Z_1976-03-03T23:59:59Z"/>
+         <rdau:P60163>Babelsberg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/7</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442130">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442130"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442130"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442130">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442304">
+         <dc:identifier>DE-611-HS-3442304</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118692380"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118542907"/>
+         <dc:contributor>Engelhardt, Gustav</dc:contributor>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1027646042"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Äußert sich zu einem an sie geschickten Fragebogen. Sortiert und bearbeitet die Aufzeichnungen von Wilhelm Fraenger über Matthias Grünewald. Befürwortet ein von Dr. Petermann geplantes Tanzlexikon. Offeriert, sich in ihrem Besitz befindende, von Gustav Engelhardt gezeichnete, Tanztafeln: Notierung von Zorn. Gedanken über die Begegnung mit Knust in Leipzig.</dc:description>
+         <dcterms:created rdf:resource="1976-07-05T00:00:00Z_1976-07-05T23:59:59Z"/>
+         <rdau:P60163>Babelsberg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/8</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442304">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442304"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442304"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442304">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442391">
+         <dc:identifier>DE-611-HS-3442391</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434>Legler, Hannelore</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:title>Brief von Hannelore Legler von Deutsches Tanzarchiv Leipzig an Ingeborg Baier-Fraenger</dc:title>
+         <dc:description>Antwort auf den Brief vom 5. Juli 1976. Dankt für die Rückübersendung des Fragebogens. Informiert über Dr. Petermanns Reise nach Varna zum Internationalen Ballettwettbewerb.</dc:description>
+         <dcterms:created rdf:resource="1976-07-09T00:00:00Z_1976-07-09T23:59:59Z"/>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/9</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442391">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442391"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442391"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442391">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442484">
+         <dc:identifier>DE-611-HS-3442484</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <rdau:P60456>Legler, Hannelore</rdau:P60456>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1027646042"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:title>Brief von Ingeborg Baier-Fraenger an Hannelore Legler an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Informiert über den Versand der angebotenen Tanztafeln. Bedauert, nicht mehr Material des Lehrsystems von Zorn gerettet gekonnt zu haben.</dc:description>
+         <dcterms:created rdf:resource="1976-07-19T00:00:00Z_1976-07-19T23:59:59Z"/>
+         <rdau:P60163>Babelsberg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/10</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442484">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442484"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442484"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442484">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442495">
+         <dc:identifier>DE-611-HS-3442495</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434>Legler, Hannelore</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:title>Brief von Hannelore Legler von Deutsches Tanzarchiv Leipzig an Ingeborg Baier-Fraenger</dc:title>
+         <dc:description>Bestätigt den Empfang der Tanztafeln. Dankt im Namen von Dr. Petermann für den Erhalt. Informiert über dessen erwartete Rückkehr. Brief ohne Unterzeichnung.</dc:description>
+         <dcterms:created rdf:resource="1976-07-22T00:00:00Z_1976-07-22T23:59:59Z"/>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/11</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442495">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442495"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442495"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442495">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442502">
+         <dc:identifier>DE-611-HS-3442502</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434>Legler, Hannelore</rdau:P60434>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Brief von Hannelore Legler von Deutsches Tanzarchiv Leipzig an Ingeborg Baier-Fraenger</dc:title>
+         <dc:description>Ankündigung eines Paketes mit einem Manuskript von A. Knust. Berichtet über große Freude von Dr. Petermann bzgl. der Tanztafeln und dankt erneut in seinem Namen. Informiert über Dr. Petermanns Urlaubsabsenz und die im Anschluss erfolgende Reise nach Ungarn zur Filmdokumentation traditionell überlieferter Volkstänze.</dc:description>
+         <dcterms:created rdf:resource="1976-01-09T00:00:00Z_1976-01-09T23:59:59Z"/>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/12</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442502">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442502"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442502"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442502">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442506">
+         <dc:identifier>DE-611-HS-3442506</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <rdau:P60456>Legler, Hannelore</rdau:P60456>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <dc:title>Brief von Ingeborg Baier-Fraenger an Hannelore Legler an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Dankt und bestätigt den Erhalt des Manuskriptes von A. Knust. Richtet Wünsche und gute Erholung an Dr. Petermann.</dc:description>
+         <dcterms:created rdf:resource="1976-09-07T00:00:00Z_1976-09-07T23:59:59Z"/>
+         <rdau:P60163>Babelsberg [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/13</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442506">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442506"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442506"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442506">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442518">
+         <dc:identifier>DE-611-HS-3442518</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_124097820"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Anschreiben zur Übersendung des Durchschlags, eines von R. Lange erbetenen Beitrags, verfasst von I. Baier-Fraenger, für die Festschrift zum 80. Geburtstag von Albrecht Knust.</dc:description>
+         <dcterms:created rdf:resource="1976-10-01T00:00:00Z_1976-10-01T23:59:59Z"/>
+         <rdau:P60163>Babelsberg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/14</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.); 1 Beil. 20 Bl. (20 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442518">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442518"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442518"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442518">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442527">
+         <dc:identifier>DE-611-HS-3442527</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_124097820"/>
+         <dc:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Gute Wünsche zum neuen Jahr. Bittet um eine fotografische Gesamtaufnahme der Teilnehmer des Dredner Kongresses von 1957. Erkundigt sich über mögliche Neuigkeiten bzgl. der angestrebten Veröffentlichung des Werkes "The Nature of Dance" von R. Lange, da von Seiten des Henschelverlages entsprechend vorantreibende Schritte bisher ausbleiben.</dc:description>
+         <dcterms:created rdf:resource="1977-02-03T00:00:00Z_1977-02-03T23:59:59Z"/>
+         <rdau:P60163>Babelsberg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/15</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442527">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442527"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442527"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442527">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442546">
+         <dc:identifier>DE-611-HS-3442546</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_124097820"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1172316562"/>
+         <dc:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Ingeborg Baier-Fraenger</dc:title>
+         <dc:description>Antwort auf den Brief vom 03.02.1977. Informiert, dass sich das Tanzarchiv nicht im Besitz von Fotoaufnahmen des Dresdener Kongresses von 1957 befindet. Empfiehlt eine Anfrage bei der Dresdener Tagespresse. Kündigt an, beim nächsten Treffen mit Horst Wandrey den Stand der Verhandlungen zur Veröffentlichung des Werkes von R. Lange "The Nature of Dance" zu thematisieren.</dc:description>
+         <dcterms:created rdf:resource="1977-02-28T00:00:00Z_1977-02-28T23:59:59Z"/>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/16</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442546">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442546"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442546"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442546">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442568">
+         <dc:identifier>DE-611-HS-3442568</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118568434"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1019152222"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_121945774"/>
+         <dc:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Bekundet Anteilnahme am angeschlagenem Gesundheitszustand von Dr. Petermann. Thematisiert die geplante Ausstellung zum 100. Geburtstag von Rudolf von Laban: inhaltliche und organisatorische Belange.</dc:description>
+         <dcterms:created rdf:resource="1978-10-27T00:00:00Z_1978-10-27T23:59:59Z"/>
+         <rdau:P60163>Babelsberg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/17</bf:shelfMark>
+         <dcterms:extent>2 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442568">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442568"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442568"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442568">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442583">
+         <dc:identifier>DE-611-HS-3442583</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118568434"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118945459"/>
+         <dc:title>Brief von Kurt Petermann von Deutsches Tanzarchiv Leipzig an Ingeborg Baier-Fraenger</dc:title>
+         <dc:description>Antwort auf den Brief vom 27.10.1978. Bestätigung unklarer Verantwortlichkeiten bzgl. der geplanten Ausstellung zum 100. Geburtstag von Rudolf von Laban. Dazu: inhaltliche und organisatorische Belange.</dc:description>
+         <dcterms:created rdf:resource="1978-11-02T00:00:00Z_1978-11-02T23:59:59Z"/>
+         <rdau:P60163>Leipzig [vermutlich]</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/18</bf:shelfMark>
+         <dcterms:extent>1 Bl. (2 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442583">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442583"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442583"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442583">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442596">
+         <dc:identifier>DE-611-HS-3442596</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_123791413"/>
+         <rdau:P60456 rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_118692380"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_16222472-2"/>
+         <dc:title>Brief von Ingeborg Baier-Fraenger an Kurt Petermann an Deutsches Tanzarchiv Leipzig</dc:title>
+         <dc:description>Lobt die Arbeit von Dr. Petermann an Reprint-Ausgaben alter Tanzbücher und erfragt deren Titel. Ekundigt sich nach Tonaufnahmen von A. Knust über das Tanzgeschehen der 20er Jahre. Fragt, ob Interesse an der Übernahme ihres Archivs besteht, zur testamentarischen Festlegung.</dc:description>
+         <dcterms:created rdf:resource="1983-10-18T00:00:00Z_1983-10-18T23:59:59Z"/>
+         <rdau:P60163>Babelsberg</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/19</bf:shelfMark>
+         <dcterms:extent>1 Bl. (1 masch. S.)</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442596">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442596"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442596"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442596">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442619">
+         <dc:identifier>DE-611-HS-3442619</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_11217616X"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_123384516"/>
+         <dc:title>Kalenderblatt für Sigurd Leder (Incipit der Unterlage)</dc:title>
+         <dc:description>Zeitungsartikel über Sigurd Leeder. Flyer "My first Dancebook" in Labanotation. Flyer "Three Rs for Dancing" in Labanotation. 3 Flyer für Workshops im Laban/Bartenieff Institute of Movement Studies. Katalog inkl. Bestellschein mit einer Auswahl von "Ballett Books". Kursangebot der Sigurd Leeder school of dance mit Antragsformular - blanko. Antragsformular des Rudolf Laban meorial fund.</dc:description>
+         <dcterms:created rdf:resource="1963-01-01T00:00:00Z_1981-12-31T23:59:59Z"/>
+         <rdau:P60163>o.O.</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <dc:language>eng</dc:language>
+         <bf:shelfMark>NL 392/7/20</bf:shelfMark>
+         <dcterms:extent>7 Bl. (masch.S.); 4 Hefte</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442619">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442619"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442619"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442619">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+   <rdf:RDF>
+      <edm:ProvidedCHO rdf:about="http://performing-arts.eu/Record/TALA_DE-611-HS-3442659">
+         <dc:identifier>DE-611-HS-3442659</dc:identifier>
+         <dc:type>Druckerzeugnis</dc:type>
+         <dcterms:isPartOf>Nachlass Ingeborg Baier-Fraenger - NL 392/7: Sammlung</dcterms:isPartOf>
+         <rdau:P60434 rdf:resource="http://performing-arts.eu/agent/gnd_1137531886"/>
+         <dc:contributor rdf:resource="http://performing-arts.eu/agent/gnd_1080965491"/>
+         <dc:title>Brief von Albrecht Knust</dc:title>
+         <dc:description>Anschreiben zur Anlage: Neue Fassung des Abschnitts F VIII. Oberkörperbewegungen des "Abriß der Kinetographie Laban".</dc:description>
+         <dcterms:created rdf:resource="1951-01-01T00:00:00Z_1953-12-31T23:59:59Z"/>
+         <rdau:P60163>Essen-Werden</rdau:P60163>
+         <dc:language>ger</dc:language>
+         <bf:shelfMark>NL 392/7/21</bf:shelfMark>
+         <dcterms:extent>5 Bl. (5 masch. S.); 1 Beil.</dcterms:extent>
+      </edm:ProvidedCHO>
+      <ore:Aggregation rdf:about="http://performing-arts.eu/aggregation/TALA_DE-611-HS-3442659">
+         <edm:aggregatedCHO rdf:resource="http://performing-arts.eu/Record/TALA_DE-611-HS-3442659"/>
+         <edm:provider rdf:resource="http://performing-arts.eu/agent/gnd_1211648338"/>
+         <edm:dataProvider rdf:resource="http://performing-arts.eu/agent/gnd_2030656-8"/>
+         <edm:hasView rdf:resource="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/"/>
+         <edm:isShownAt rdf:resource="http://kalliope-verbund.info/DE-611-HS-3442659"/>
+      </ore:Aggregation>
+      <edm:WebResource rdf:about="http://kalliope-verbund.info/DE-611-HS-3442659">
+         <dc:description>Link zum Datensatz in Kalliope</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="https://home.uni-leipzig.de/tanzarchiv/de/zugaenge-fuer-recherchen/">
+         <dc:description>Recherchezugänge zum Tanzarchiv Leipzig</dc:description>
+         <dc:format>text/html</dc:format>
+      </edm:WebResource>
+   </rdf:RDF>
+</rdf:Bag>
